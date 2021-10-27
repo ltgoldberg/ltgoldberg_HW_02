@@ -1,7 +1,7 @@
 # HW_02
  Here I plotted data for the average test scores across schools and class sizes across school districts.
 
-<h2> **Average Test Score by Race** </h2>
+<h2> Average Test Score by Race </h2>
 This graph represents the results of the New York State math test in New York City. The graph shows the average score of a certain race/ethnicity in Grades 3-8 from 2006 to 2011. The data includes asian, black, hispanic, and white students. 
 https://catalog.data.gov/dataset/2006-2011-nys-math-test-results-by-grade-citywide-by-race-ethnicity 
 
