@@ -1,0 +1,3336 @@
+CSD,BORO,GRADE ,PROGRAM TYPE,CORE SUBJECT (MS CORE and 9-12 ONLY),CORE COURSE (MS CORE and 9-12 ONLY),SERVICE CATEGORY(K-9* ONLY),NUMBER OF STUDENTS / SEATS FILLED,NUMBER OF SECTIONS,AVERAGE CLASS SIZE
+1,M,0K,GEN ED,-,-,-,792,39,20.3
+1,M,0K,CTT,-,-,-,187,9,20.8
+1,M,01,GEN ED,-,-,-,662,33,20.1
+1,M,01,CTT,-,-,-,208,11,18.9
+1,M,01,G&T,-,-,-,25,1,25
+1,M,02,GEN ED,-,-,-,560,28,20
+1,M,02,CTT,-,-,-,225,12,18.8
+1,M,03,GEN ED,-,-,-,678,36,18.8
+1,M,03,CTT,-,-,-,131,8,16.4
+1,M,04,GEN ED,-,-,-,548,29,18.9
+1,M,04,CTT,-,-,-,227,12,18.9
+1,M,04,G&T,-,-,-,27,1,27
+1,M,05,GEN ED,-,-,-,511,21,24.3
+1,M,05,CTT,-,-,-,270,12,22.5
+1,M,05,G&T,-,-,-,25,1,25
+1,M,06,GEN ED,-,-,-,607,31,19.6
+1,M,06,CTT,-,-,-,207,9,23
+1,M,07,GEN ED,-,-,-,577,30,19.2
+1,M,07,CTT,-,-,-,166,8,20.8
+1,M,08,GEN ED,-,-,-,652,31,21
+1,M,08,CTT,-,-,-,158,7,22.6
+1,M,08,G&T,-,-,-,58,4,14.5
+1,M,0K-09,SPEC ED,-,-,12:1,179,20,9
+1,M,0K-09,SPEC ED,-,-,12:1:1,268,30,8.9
+1,M,MS Core,GEN ED,ENGLISH,MS English Core,-,811,32,25.3
+1,M,MS Core,GEN ED,MATH,MS Math Core,-,882,38,23.2
+1,M,MS Core,GEN ED,MATH,Integrated Algebra,-,144,6,24
+1,M,MS Core,GEN ED,SCIENCE,MS Science Core,-,877,37,23.7
+1,M,MS Core,GEN ED,SCIENCE,Living Environment,-,103,4,25.8
+1,M,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,783,33,23.7
+1,M,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,59,2,29.5
+1,M,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,36,2,18
+1,M,MS Core,GEN ED,SOCIAL STUDIES,Participation in Government,-,26,1,26
+1,M,MS Core,CTT,ENGLISH,MS English Core,-,321,13,24.7
+1,M,MS Core,CTT,MATH,MS Math Core,-,428,19,22.5
+1,M,MS Core,CTT,SCIENCE,MS Science Core,-,445,20,22.3
+1,M,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,368,16,23
+1,M,MS Core,SPEC ED,ENGLISH,MS English Core,-,52,5,10.4
+1,M,MS Core,SPEC ED,MATH,MS Math Core,-,67,6,11.2
+1,M,MS Core,SPEC ED,SCIENCE,MS Science Core,-,67,6,11.2
+1,M,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,45,4,11.3
+1,M,09-12,GEN ED,ENGLISH,English 9,-,847,38,22.3
+1,M,09-12,GEN ED,ENGLISH,English 10,-,1010,44,23
+1,M,09-12,GEN ED,ENGLISH,English 11,-,615,27,22.8
+1,M,09-12,GEN ED,ENGLISH,English 12,-,631,30,21
+1,M,09-12,GEN ED,ENGLISH,MS English Core,-,20,1,20
+1,M,09-12,GEN ED,ENGLISH,Other English,-,457,22,20.8
+1,M,09-12,GEN ED,MATH,Integrated Algebra,-,807,34,23.7
+1,M,09-12,GEN ED,MATH,Geometry,-,698,28,24.9
+1,M,09-12,GEN ED,MATH,Trigonometry,-,572,23,24.9
+1,M,09-12,GEN ED,MATH,Math A,-,183,8,22.9
+1,M,09-12,GEN ED,MATH,Math B,-,96,5,19.2
+1,M,09-12,GEN ED,MATH,Other Math,-,477,22,21.7
+1,M,09-12,GEN ED,SCIENCE,Earth Science,-,574,23,25
+1,M,09-12,GEN ED,SCIENCE,Living Environment,-,888,36,24.7
+1,M,09-12,GEN ED,SCIENCE,Chemistry,-,851,39,21.8
+1,M,09-12,GEN ED,SCIENCE,Physics,-,726,34,21.4
+1,M,09-12,GEN ED,SCIENCE,Other Science,-,922,43,21.4
+1,M,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,1482,65,22.8
+1,M,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,1019,43,23.7
+1,M,09-12,GEN ED,SOCIAL STUDIES,Economics,-,258,10,25.8
+1,M,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,335,14,23.9
+1,M,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,358,18,19.9
+1,M,09-12,CTT,ENGLISH,English 9,-,103,4,25.8
+1,M,09-12,CTT,ENGLISH,English 10,-,52,2,26
+1,M,09-12,CTT,ENGLISH,English 11,-,48,2,24
+1,M,09-12,CTT,ENGLISH,English 12,-,42,2,21
+1,M,09-12,CTT,ENGLISH,MS English Core,-,22,1,22
+1,M,09-12,CTT,ENGLISH,Other English,-,22,1,22
+1,M,09-12,CTT,MATH,Integrated Algebra,-,165,7,23.6
+1,M,09-12,CTT,MATH,Geometry,-,103,4,25.8
+1,M,09-12,CTT,MATH,Trigonometry,-,67,3,22.3
+1,M,09-12,CTT,MATH,Other Math,-,26,1,26
+1,M,09-12,CTT,SCIENCE,Earth Science,-,232,8,29
+1,M,09-12,CTT,SCIENCE,Living Environment,-,549,20,27.5
+1,M,09-12,CTT,SCIENCE,Chemistry,-,140,6,23.3
+1,M,09-12,CTT,SCIENCE,Other Science,-,186,8,23.3
+1,M,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,352,13,27.1
+1,M,09-12,CTT,SOCIAL STUDIES,US History & Government,-,179,8,22.4
+1,M,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,95,4,23.8
+1,M,09-12,SPEC ED,ENGLISH,English 9,-,21,2,10.5
+1,M,09-12,SPEC ED,ENGLISH,English 11,-,8,1,8
+1,M,09-12,SPEC ED,ENGLISH,MS English Core,-,21,2,10.5
+1,M,09-12,SPEC ED,ENGLISH,Other English,-,22,2,11
+1,M,09-12,SPEC ED,MATH,Integrated Algebra,-,29,3,9.7
+1,M,09-12,SPEC ED,MATH,Geometry,-,6,1,6
+1,M,09-12,SPEC ED,SCIENCE,Earth Science,-,16,2,8
+1,M,09-12,SPEC ED,SCIENCE,Living Environment,-,30,2,15
+1,M,09-12,SPEC ED,SCIENCE,Other Science,-,8,1,8
+1,M,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,22,2,11
+1,M,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,6,1,6
+2,M,0K,GEN ED,-,-,-,2126,94,22.6
+2,M,0K,CTT,-,-,-,459,21,21.9
+2,M,0K,G&T,-,-,-,223,11,20.3
+2,M,01,GEN ED,-,-,-,2049,90,22.8
+2,M,01,CTT,-,-,-,431,19,22.7
+2,M,01,G&T,-,-,-,185,8,23.1
+2,M,02,GEN ED,-,-,-,1834,79,23.2
+2,M,02,CTT,-,-,-,525,23,22.8
+2,M,02,G&T,-,-,-,151,6,25.2
+2,M,03,GEN ED,-,-,-,1710,71,24.1
+2,M,03,CTT,-,-,-,467,20,23.4
+2,M,03,G&T,-,-,-,154,6,25.7
+2,M,04,GEN ED,-,-,-,1690,67,25.2
+2,M,04,CTT,-,-,-,444,17,26.1
+2,M,04,G&T,-,-,-,136,5,27.2
+2,M,05,GEN ED,-,-,-,1797,67,26.8
+2,M,05,CTT,-,-,-,402,16,25.1
+2,M,05,G&T,-,-,-,150,6,25
+2,M,06,GEN ED,-,-,-,1726,69,25
+2,M,06,CTT,-,-,-,496,20,24.8
+2,M,07,GEN ED,-,-,-,1788,69,25.9
+2,M,07,CTT,-,-,-,475,19,25
+2,M,08,GEN ED,-,-,-,1815,66,27.5
+2,M,08,CTT,-,-,-,418,16,26.1
+2,M,09,GEN ED,-,-,-,419,20,21
+2,M,0K-09,SPEC ED,-,-,12:1,184,21,8.8
+2,M,0K-09,SPEC ED,-,-,12:1:1,286,31,9.2
+2,M,MS Core,GEN ED,ENGLISH,MS English Core,-,3798,140,27.1
+2,M,MS Core,GEN ED,MATH,MS Math Core,-,4019,152,26.4
+2,M,MS Core,GEN ED,MATH,Integrated Algebra,-,288,10,28.8
+2,M,MS Core,GEN ED,MATH,Trigonometry,-,34,1,34
+2,M,MS Core,GEN ED,MATH,Math A,-,43,2,21.5
+2,M,MS Core,GEN ED,SCIENCE,MS Science Core,-,4060,146,27.8
+2,M,MS Core,GEN ED,SCIENCE,Earth Science,-,177,8,22.1
+2,M,MS Core,GEN ED,SCIENCE,Living Environment,-,77,4,19.3
+2,M,MS Core,GEN ED,SCIENCE,Other Science,-,90,5,18
+2,M,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,3265,124,26.3
+2,M,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,43,2,21.5
+2,M,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,16,1,16
+2,M,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,75,4,18.8
+2,M,MS Core,CTT,ENGLISH,MS English Core,-,1104,42,26.3
+2,M,MS Core,CTT,MATH,MS Math Core,-,1117,42,26.6
+2,M,MS Core,CTT,SCIENCE,MS Science Core,-,1136,42,27
+2,M,MS Core,CTT,SCIENCE,Other Science,-,58,3,19.3
+2,M,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,784,31,25.3
+2,M,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,14,1,14
+2,M,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,22,1,22
+2,M,MS Core,SPEC ED,ENGLISH,MS English Core,-,99,9,11
+2,M,MS Core,SPEC ED,MATH,MS Math Core,-,56,5,11.2
+2,M,MS Core,SPEC ED,SCIENCE,MS Science Core,-,62,6,10.3
+2,M,MS Core,SPEC ED,SCIENCE,Other Science,-,10,1,10
+2,M,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,66,6,11
+2,M,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,10,1,10
+2,M,09-12,GEN ED,ENGLISH,English 9,-,7813,308,25.4
+2,M,09-12,GEN ED,ENGLISH,English 10,-,7022,265,26.5
+2,M,09-12,GEN ED,ENGLISH,English 11,-,6921,271,25.5
+2,M,09-12,GEN ED,ENGLISH,English 12,-,5808,230,25.3
+2,M,09-12,GEN ED,ENGLISH,MS English Core,-,257,11,23.4
+2,M,09-12,GEN ED,ENGLISH,Other English,-,5333,241,22.1
+2,M,09-12,GEN ED,MATH,Integrated Algebra,-,10066,424,23.7
+2,M,09-12,GEN ED,MATH,Geometry,-,7718,288,26.8
+2,M,09-12,GEN ED,MATH,Trigonometry,-,5104,188,27.1
+2,M,09-12,GEN ED,MATH,Math A,-,650,36,18.1
+2,M,09-12,GEN ED,MATH,Math B,-,332,15,22.1
+2,M,09-12,GEN ED,MATH,Other Math,-,3330,123,27.1
+2,M,09-12,GEN ED,SCIENCE,Earth Science,-,7348,263,27.9
+2,M,09-12,GEN ED,SCIENCE,Living Environment,-,14822,558,26.6
+2,M,09-12,GEN ED,SCIENCE,Chemistry,-,8614,304,28.3
+2,M,09-12,GEN ED,SCIENCE,Physics,-,4820,164,29.4
+2,M,09-12,GEN ED,SCIENCE,Other Science,-,7821,306,25.6
+2,M,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,15568,588,26.5
+2,M,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,8735,342,25.5
+2,M,09-12,GEN ED,SOCIAL STUDIES,Economics,-,1571,63,24.9
+2,M,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,3612,132,27.4
+2,M,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,1985,87,22.8
+2,M,09-12,CTT,ENGLISH,English 9,-,1649,64,25.8
+2,M,09-12,CTT,ENGLISH,English 10,-,1480,56,26.4
+2,M,09-12,CTT,ENGLISH,English 11,-,862,35,24.6
+2,M,09-12,CTT,ENGLISH,English 12,-,639,25,25.6
+2,M,09-12,CTT,ENGLISH,MS English Core,-,92,4,23
+2,M,09-12,CTT,ENGLISH,Other English,-,745,34,21.9
+2,M,09-12,CTT,MATH,Integrated Algebra,-,2689,106,25.4
+2,M,09-12,CTT,MATH,Geometry,-,1020,40,25.5
+2,M,09-12,CTT,MATH,Trigonometry,-,294,12,24.5
+2,M,09-12,CTT,MATH,Math A,-,133,5,26.6
+2,M,09-12,CTT,MATH,Math B,-,78,3,26
+2,M,09-12,CTT,MATH,Other Math,-,135,6,22.5
+2,M,09-12,CTT,SCIENCE,Earth Science,-,1624,60,27.1
+2,M,09-12,CTT,SCIENCE,Living Environment,-,2819,105,26.8
+2,M,09-12,CTT,SCIENCE,Chemistry,-,553,22,25.1
+2,M,09-12,CTT,SCIENCE,Physics,-,141,5,28.2
+2,M,09-12,CTT,SCIENCE,Other Science,-,1420,53,26.8
+2,M,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,3230,118,27.4
+2,M,09-12,CTT,SOCIAL STUDIES,US History & Government,-,1367,54,25.3
+2,M,09-12,CTT,SOCIAL STUDIES,Economics,-,282,9,31.3
+2,M,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,440,18,24.4
+2,M,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,174,9,19.3
+2,M,09-12,SPEC ED,ENGLISH,English 9,-,162,14,11.6
+2,M,09-12,SPEC ED,ENGLISH,English 10,-,109,10,10.9
+2,M,09-12,SPEC ED,ENGLISH,English 11,-,63,7,9
+2,M,09-12,SPEC ED,ENGLISH,English 12,-,49,4,12.3
+2,M,09-12,SPEC ED,ENGLISH,Other English,-,38,4,9.5
+2,M,09-12,SPEC ED,MATH,Integrated Algebra,-,254,23,11
+2,M,09-12,SPEC ED,MATH,Geometry,-,59,5,11.8
+2,M,09-12,SPEC ED,MATH,Math A,-,28,2,14
+2,M,09-12,SPEC ED,SCIENCE,Earth Science,-,89,9,9.9
+2,M,09-12,SPEC ED,SCIENCE,Living Environment,-,263,20,13.2
+2,M,09-12,SPEC ED,SCIENCE,Chemistry,-,64,7,9.1
+2,M,09-12,SPEC ED,SCIENCE,Other Science,-,79,6,13.2
+2,M,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,273,22,12.4
+2,M,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,89,9,9.9
+2,M,09-12,SPEC ED,SOCIAL STUDIES,Economics,-,21,1,21
+2,M,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,44,4,11
+3,M,0K,GEN ED,-,-,-,1077,50,21.5
+3,M,0K,CTT,-,-,-,239,12,19.9
+3,M,0K,G&T,-,-,-,193,8,24.1
+3,M,01,GEN ED,-,-,-,1090,49,22.2
+3,M,01,CTT,-,-,-,245,11,22.3
+3,M,01,G&T,-,-,-,224,9,24.9
+3,M,02,GEN ED,-,-,-,970,45,21.6
+3,M,02,CTT,-,-,-,234,11,21.3
+3,M,02,G&T,-,-,-,174,7,24.9
+3,M,03,GEN ED,-,-,-,843,39,21.6
+3,M,03,CTT,-,-,-,332,13,25.5
+3,M,03,G&T,-,-,-,198,8,24.8
+3,M,04,GEN ED,-,-,-,934,42,22.2
+3,M,04,CTT,-,-,-,201,9,22.3
+3,M,04,G&T,-,-,-,184,7,26.3
+3,M,05,GEN ED,-,-,-,887,37,24
+3,M,05,CTT,-,-,-,233,10,23.3
+3,M,05,G&T,-,-,-,191,8,23.9
+3,M,06,GEN ED,-,-,-,728,27,27
+3,M,06,CTT,-,-,-,244,9,27.1
+3,M,06,G&T,-,-,-,278,9,30.9
+3,M,07,GEN ED,-,-,-,665,26,25.6
+3,M,07,CTT,-,-,-,221,8,27.6
+3,M,07,G&T,-,-,-,280,9,31.1
+3,M,08,GEN ED,-,-,-,657,24,27.4
+3,M,08,CTT,-,-,-,288,11,26.2
+3,M,08,G&T,-,-,-,254,8,31.8
+3,M,09,GEN ED,-,-,-,100,4,25
+3,M,0K-09,SPEC ED,-,-,12:1,42,4,10.5
+3,M,0K-09,SPEC ED,-,-,12:1:1,416,44,9.5
+3,M,MS Core,GEN ED,ENGLISH,MS English Core,-,2468,97,25.4
+3,M,MS Core,GEN ED,MATH,MS Math Core,-,2193,88,24.9
+3,M,MS Core,GEN ED,MATH,Integrated Algebra,-,498,17,29.3
+3,M,MS Core,GEN ED,MATH,Math A,-,64,2,32
+3,M,MS Core,GEN ED,SCIENCE,MS Science Core,-,1914,75,25.5
+3,M,MS Core,GEN ED,SCIENCE,Earth Science,-,273,9,30.3
+3,M,MS Core,GEN ED,SCIENCE,Living Environment,-,401,14,28.6
+3,M,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,1917,72,26.6
+3,M,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,245,8,30.6
+3,M,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,110,4,27.5
+3,M,MS Core,CTT,ENGLISH,MS English Core,-,508,21,24.2
+3,M,MS Core,CTT,MATH,MS Math Core,-,470,20,23.5
+3,M,MS Core,CTT,MATH,Integrated Algebra,-,22,1,22
+3,M,MS Core,CTT,SCIENCE,MS Science Core,-,559,21,26.6
+3,M,MS Core,CTT,SCIENCE,Living Environment,-,22,1,22
+3,M,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,490,18,27.2
+3,M,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,22,1,22
+3,M,MS Core,SPEC ED,ENGLISH,MS English Core,-,116,11,10.5
+3,M,MS Core,SPEC ED,MATH,MS Math Core,-,89,9,9.9
+3,M,MS Core,SPEC ED,SCIENCE,MS Science Core,-,94,10,9.4
+3,M,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,88,9,9.8
+3,M,09-12,GEN ED,ENGLISH,English 9,-,1895,75,25.3
+3,M,09-12,GEN ED,ENGLISH,English 10,-,1894,70,27.1
+3,M,09-12,GEN ED,ENGLISH,English 11,-,2190,88,24.9
+3,M,09-12,GEN ED,ENGLISH,English 12,-,1807,67,27
+3,M,09-12,GEN ED,ENGLISH,MS English Core,-,326,13,25.1
+3,M,09-12,GEN ED,ENGLISH,Other English,-,866,43,20.1
+3,M,09-12,GEN ED,MATH,Integrated Algebra,-,2440,104,23.5
+3,M,09-12,GEN ED,MATH,Geometry,-,2144,81,26.5
+3,M,09-12,GEN ED,MATH,Trigonometry,-,934,34,27.5
+3,M,09-12,GEN ED,MATH,Math A,-,33,2,16.5
+3,M,09-12,GEN ED,MATH,Math B,-,54,3,18
+3,M,09-12,GEN ED,MATH,Other Math,-,1406,49,28.7
+3,M,09-12,GEN ED,SCIENCE,Earth Science,-,2169,83,26.1
+3,M,09-12,GEN ED,SCIENCE,Living Environment,-,2832,117,24.2
+3,M,09-12,GEN ED,SCIENCE,Chemistry,-,1257,44,28.6
+3,M,09-12,GEN ED,SCIENCE,Physics,-,637,27,23.6
+3,M,09-12,GEN ED,SCIENCE,Other Science,-,1966,73,26.9
+3,M,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,4199,153,27.4
+3,M,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,3150,112,28.1
+3,M,09-12,GEN ED,SOCIAL STUDIES,Economics,-,160,7,22.9
+3,M,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,866,35,24.7
+3,M,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,179,10,17.9
+3,M,09-12,CTT,ENGLISH,English 9,-,193,8,24.1
+3,M,09-12,CTT,ENGLISH,English 10,-,160,7,22.9
+3,M,09-12,CTT,ENGLISH,English 11,-,160,7,22.9
+3,M,09-12,CTT,ENGLISH,English 12,-,67,3,22.3
+3,M,09-12,CTT,ENGLISH,MS English Core,-,185,7,26.4
+3,M,09-12,CTT,ENGLISH,Other English,-,58,3,19.3
+3,M,09-12,CTT,MATH,Integrated Algebra,-,436,20,21.8
+3,M,09-12,CTT,MATH,Geometry,-,48,2,24
+3,M,09-12,CTT,MATH,Other Math,-,75,3,25
+3,M,09-12,CTT,SCIENCE,Earth Science,-,56,2,28
+3,M,09-12,CTT,SCIENCE,Living Environment,-,277,12,23.1
+3,M,09-12,CTT,SCIENCE,Physics,-,62,3,20.7
+3,M,09-12,CTT,SCIENCE,Other Science,-,284,11,25.8
+3,M,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,475,18,26.4
+3,M,09-12,CTT,SOCIAL STUDIES,US History & Government,-,117,5,23.4
+3,M,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,67,3,22.3
+3,M,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,38,2,19
+3,M,09-12,SPEC ED,ENGLISH,English 9,-,38,3,12.7
+3,M,09-12,SPEC ED,ENGLISH,English 10,-,15,1,15
+3,M,09-12,SPEC ED,ENGLISH,English 11,-,44,4,11
+3,M,09-12,SPEC ED,ENGLISH,English 12,-,10,1,10
+3,M,09-12,SPEC ED,ENGLISH,Other English,-,34,3,11.3
+3,M,09-12,SPEC ED,MATH,Integrated Algebra,-,77,6,12.8
+3,M,09-12,SPEC ED,MATH,Geometry,-,21,2,10.5
+3,M,09-12,SPEC ED,SCIENCE,Earth Science,-,36,3,12
+3,M,09-12,SPEC ED,SCIENCE,Living Environment,-,74,6,12.3
+3,M,09-12,SPEC ED,SCIENCE,Other Science,-,10,1,10
+3,M,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,62,5,12.4
+3,M,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,54,4,13.5
+3,M,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,13,1,13
+4,M,0K,GEN ED,-,-,-,748,39,19.2
+4,M,0K,CTT,-,-,-,178,11,16.2
+4,M,0K,G&T,-,-,-,25,1,25
+4,M,01,GEN ED,-,-,-,754,38,19.8
+4,M,01,CTT,-,-,-,216,11,19.6
+4,M,02,GEN ED,-,-,-,763,39,19.6
+4,M,02,CTT,-,-,-,170,9,18.9
+4,M,03,GEN ED,-,-,-,765,35,21.9
+4,M,03,CTT,-,-,-,227,11,20.6
+4,M,04,GEN ED,-,-,-,745,34,21.9
+4,M,04,CTT,-,-,-,209,10,20.9
+4,M,05,GEN ED,-,-,-,713,31,23
+4,M,05,CTT,-,-,-,224,10,22.4
+4,M,05,G&T,-,-,-,31,1,31
+4,M,06,GEN ED,-,-,-,791,34,23.3
+4,M,06,CTT,-,-,-,183,8,22.9
+4,M,07,GEN ED,-,-,-,803,34,23.6
+4,M,07,CTT,-,-,-,220,9,24.4
+4,M,08,GEN ED,-,-,-,753,30,25.1
+4,M,08,CTT,-,-,-,297,11,27
+4,M,0K-09,SPEC ED,-,-,12:1,49,5,9.8
+4,M,0K-09,SPEC ED,-,-,12:1:1,751,73,10.3
+4,M,0K-09,SPEC ED,-,-,6:1:1,5,1,5
+4,M,MS Core,GEN ED,ENGLISH,MS English Core,-,2051,88,23.3
+4,M,MS Core,GEN ED,MATH,MS Math Core,-,1949,79,24.7
+4,M,MS Core,GEN ED,MATH,Integrated Algebra,-,81,3,27
+4,M,09-12,CTT,ENGLISH,English 9,-,130,5,26
+4,M,MS Core,GEN ED,SCIENCE,MS Science Core,-,1789,73,24.5
+4,M,MS Core,GEN ED,SCIENCE,Earth Science,-,68,2,34
+4,M,MS Core,GEN ED,SCIENCE,Living Environment,-,239,11,21.7
+4,M,MS Core,GEN ED,SCIENCE,Other Science,-,13,1,13
+4,M,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,1802,76,23.7
+4,M,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,70,3,23.3
+4,M,MS Core,CTT,ENGLISH,MS English Core,-,445,19,23.4
+5,M,0K,G&T,-,-,-,21,1,21
+4,M,MS Core,CTT,MATH,MS Math Core,-,453,18,25.2
+4,M,MS Core,CTT,MATH,Integrated Algebra,-,34,2,17
+4,M,MS Core,CTT,MATH,Other Math,-,28,1,28
+4,M,MS Core,CTT,SCIENCE,MS Science Core,-,482,19,25.4
+4,M,MS Core,CTT,SCIENCE,Earth Science,-,31,2,15.5
+4,M,MS Core,CTT,SCIENCE,Living Environment,-,89,4,22.3
+4,M,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,531,21,25.3
+4,M,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,47,3,15.7
+4,M,MS Core,SPEC ED,ENGLISH,MS English Core,-,188,19,9.9
+4,M,MS Core,SPEC ED,MATH,MS Math Core,-,211,21,10
+4,M,MS Core,SPEC ED,MATH,Integrated Algebra,-,19,2,9.5
+4,M,MS Core,SPEC ED,MATH,Math A,-,23,2,11.5
+4,M,MS Core,SPEC ED,SCIENCE,MS Science Core,-,157,15,10.5
+4,M,MS Core,SPEC ED,SCIENCE,Earth Science,-,7,1,7
+4,M,MS Core,SPEC ED,SCIENCE,Living Environment,-,33,3,11
+4,M,MS Core,SPEC ED,SCIENCE,Other Science,-,10,1,10
+4,M,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,191,19,10.1
+4,M,MS Core,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,10,1,10
+4,M,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,7,1,7
+4,M,09-12,GEN ED,ENGLISH,English 9,-,898,35,25.7
+4,M,09-12,GEN ED,ENGLISH,English 10,-,854,31,27.5
+4,M,09-12,GEN ED,ENGLISH,English 11,-,792,31,25.5
+4,M,09-12,GEN ED,ENGLISH,English 12,-,681,27,25.2
+4,M,09-12,GEN ED,ENGLISH,Other English,-,502,22,22.8
+4,M,09-12,GEN ED,MATH,Integrated Algebra,-,903,40,22.6
+4,M,09-12,GEN ED,MATH,Geometry,-,933,34,27.4
+4,M,09-12,GEN ED,MATH,Trigonometry,-,588,21,28
+4,M,09-12,GEN ED,MATH,Other Math,-,619,21,29.5
+4,M,09-12,GEN ED,SCIENCE,Earth Science,-,863,32,27
+4,M,09-12,GEN ED,SCIENCE,Living Environment,-,1557,65,24
+4,M,09-12,GEN ED,SCIENCE,Chemistry,-,1122,36,31.2
+4,M,09-12,GEN ED,SCIENCE,Physics,-,463,14,33.1
+4,M,09-12,GEN ED,SCIENCE,Other Science,-,815,33,24.7
+4,M,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,1807,70,25.8
+4,M,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,720,29,24.8
+4,M,09-12,GEN ED,SOCIAL STUDIES,Economics,-,182,8,22.8
+4,M,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,535,19,28.2
+4,M,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,373,17,21.9
+4,M,09-12,CTT,ENGLISH,English 10,-,143,5,28.6
+4,M,09-12,CTT,ENGLISH,English 11,-,91,3,30.3
+4,M,09-12,CTT,ENGLISH,English 12,-,23,1,23
+4,M,09-12,CTT,ENGLISH,MS English Core,-,18,1,18
+4,M,09-12,CTT,ENGLISH,Other English,-,56,3,18.7
+4,M,09-12,CTT,MATH,Integrated Algebra,-,140,5,28
+4,M,09-12,CTT,MATH,Geometry,-,131,5,26.2
+4,M,09-12,CTT,SCIENCE,Earth Science,-,152,5,30.4
+4,M,09-12,CTT,SCIENCE,Living Environment,-,285,12,23.8
+4,M,09-12,CTT,SCIENCE,Other Science,-,161,6,26.8
+4,M,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,319,12,26.6
+4,M,09-12,CTT,SOCIAL STUDIES,US History & Government,-,119,4,29.8
+4,M,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,26,1,26
+4,M,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,49,2,24.5
+4,M,09-12,SPEC ED,ENGLISH,English 10,-,13,1,13
+4,M,09-12,SPEC ED,ENGLISH,English 11,-,26,2,13
+4,M,09-12,SPEC ED,ENGLISH,English 12,-,11,1,11
+4,M,09-12,SPEC ED,ENGLISH,Other English,-,23,2,11.5
+4,M,09-12,SPEC ED,MATH,Integrated Algebra,-,12,1,12
+4,M,09-12,SPEC ED,MATH,Geometry,-,13,1,13
+4,M,09-12,SPEC ED,SCIENCE,Earth Science,-,30,2,15
+4,M,09-12,SPEC ED,SCIENCE,Other Science,-,31,2,15.5
+4,M,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,12,1,12
+4,M,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,13,1,13
+5,M,0K,GEN ED,-,-,-,650,33,19.7
+5,M,0K,CTT,-,-,-,156,8,19.5
+5,M,01,GEN ED,-,-,-,704,36,19.6
+5,M,01,CTT,-,-,-,134,6,22.3
+5,M,01,G&T,-,-,-,44,2,22
+5,M,02,GEN ED,-,-,-,691,31,22.3
+5,M,02,CTT,-,-,-,107,5,21.4
+5,M,02,G&T,-,-,-,61,3,20.3
+5,M,03,GEN ED,-,-,-,618,28,22.1
+5,M,03,CTT,-,-,-,126,5,25.2
+5,M,03,G&T,-,-,-,61,3,20.3
+5,M,04,GEN ED,-,-,-,658,28,23.5
+5,M,04,CTT,-,-,-,195,8,24.4
+5,M,04,G&T,-,-,-,63,3,21
+5,M,05,GEN ED,-,-,-,590,27,21.9
+5,M,05,CTT,-,-,-,170,7,24.3
+5,M,05,G&T,-,-,-,40,2,20
+5,M,06,GEN ED,-,-,-,665,27,24.6
+5,M,06,CTT,-,-,-,168,8,21
+5,M,06,G&T,-,-,-,26,1,26
+5,M,07,GEN ED,-,-,-,753,30,25.1
+5,M,07,CTT,-,-,-,185,7,26.4
+5,M,08,GEN ED,-,-,-,917,34,27
+5,M,08,CTT,-,-,-,133,5,26.6
+5,M,09,GEN ED,-,-,-,95,3,31.7
+5,M,0K-09,SPEC ED,-,-,12:1,151,18,8.4
+5,M,0K-09,SPEC ED,-,-,12:1:1,588,59,10
+5,M,MS Core,GEN ED,ENGLISH,MS English Core,-,2288,94,24.3
+5,M,MS Core,GEN ED,MATH,MS Math Core,-,1803,76,23.7
+5,M,MS Core,GEN ED,MATH,Integrated Algebra,-,129,5,25.8
+5,M,MS Core,GEN ED,MATH,Math A,-,219,9,24.3
+5,M,MS Core,GEN ED,SCIENCE,MS Science Core,-,1460,61,23.9
+5,M,MS Core,GEN ED,SCIENCE,Earth Science,-,253,9,28.1
+5,M,MS Core,GEN ED,SCIENCE,Living Environment,-,318,13,24.5
+5,M,MS Core,GEN ED,SCIENCE,Other Science,-,174,7,24.9
+5,M,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,1607,68,23.6
+5,M,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,287,11,26.1
+5,M,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,159,6,26.5
+5,M,MS Core,CTT,ENGLISH,MS English Core,-,574,22,26.1
+5,M,MS Core,CTT,MATH,MS Math Core,-,332,14,23.7
+5,M,MS Core,CTT,MATH,Integrated Algebra,-,16,1,16
+5,M,MS Core,CTT,SCIENCE,MS Science Core,-,289,12,24.1
+5,M,MS Core,CTT,SCIENCE,Earth Science,-,35,1,35
+5,M,MS Core,CTT,SCIENCE,Living Environment,-,36,1,36
+5,M,MS Core,CTT,SCIENCE,Other Science,-,42,2,21
+5,M,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,304,12,25.3
+5,M,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,56,2,28
+5,M,MS Core,SPEC ED,ENGLISH,MS English Core,-,78,8,9.8
+5,M,MS Core,SPEC ED,MATH,MS Math Core,-,140,15,9.3
+5,M,MS Core,SPEC ED,MATH,Math A,-,25,2,12.5
+5,M,MS Core,SPEC ED,SCIENCE,MS Science Core,-,97,10,9.7
+5,M,MS Core,SPEC ED,SCIENCE,Earth Science,-,10,1,10
+5,M,MS Core,SPEC ED,SCIENCE,Living Environment,-,25,2,12.5
+5,M,MS Core,SPEC ED,SCIENCE,Chemistry,-,10,1,10
+5,M,MS Core,SPEC ED,SCIENCE,Other Science,-,12,1,12
+5,M,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,96,10,9.6
+5,M,MS Core,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,25,2,12.5
+5,M,09-12,GEN ED,ENGLISH,English 9,-,1166,48,24.3
+5,M,09-12,GEN ED,ENGLISH,English 10,-,880,36,24.4
+5,M,09-12,GEN ED,ENGLISH,English 11,-,796,33,24.1
+5,M,09-12,GEN ED,ENGLISH,English 12,-,657,29,22.7
+5,M,09-12,GEN ED,ENGLISH,MS English Core,-,219,9,24.3
+5,M,09-12,GEN ED,ENGLISH,Other English,-,414,17,24.4
+5,M,09-12,GEN ED,MATH,Integrated Algebra,-,1384,62,22.3
+5,M,09-12,GEN ED,MATH,Geometry,-,760,30,25.3
+5,M,09-12,GEN ED,MATH,Trigonometry,-,554,21,26.4
+5,M,09-12,GEN ED,MATH,Math A,-,52,3,17.3
+5,M,09-12,GEN ED,MATH,Other Math,-,391,17,23
+5,M,09-12,GEN ED,SCIENCE,Earth Science,-,1030,41,25.1
+5,M,09-12,GEN ED,SCIENCE,Living Environment,-,1217,52,23.4
+5,M,09-12,GEN ED,SCIENCE,Chemistry,-,441,18,24.5
+5,M,09-12,GEN ED,SCIENCE,Physics,-,1179,44,26.8
+5,M,09-12,GEN ED,SCIENCE,Other Science,-,980,43,22.8
+5,M,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,1893,75,25.2
+5,M,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,976,43,22.7
+5,M,09-12,GEN ED,SOCIAL STUDIES,Economics,-,188,7,26.9
+5,M,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,234,11,21.3
+5,M,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,157,8,19.6
+5,M,09-12,CTT,ENGLISH,English 9,-,142,5,28.4
+5,M,09-12,CTT,ENGLISH,English 10,-,135,5,27
+5,M,09-12,CTT,ENGLISH,English 11,-,64,3,21.3
+5,M,09-12,CTT,ENGLISH,English 12,-,23,1,23
+5,M,09-12,CTT,ENGLISH,Other English,-,53,3,17.7
+5,M,09-12,CTT,MATH,Integrated Algebra,-,371,14,26.5
+5,M,09-12,CTT,MATH,Geometry,-,63,3,21
+5,M,09-12,CTT,MATH,Trigonometry,-,21,1,21
+5,M,09-12,CTT,SCIENCE,Earth Science,-,124,5,24.8
+5,M,09-12,CTT,SCIENCE,Living Environment,-,222,8,27.8
+5,M,09-12,CTT,SCIENCE,Physics,-,31,1,31
+5,M,09-12,CTT,SCIENCE,Other Science,-,264,11,24
+5,M,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,306,11,27.8
+5,M,09-12,CTT,SOCIAL STUDIES,US History & Government,-,131,5,26.2
+5,M,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,23,1,23
+5,M,09-12,SPEC ED,ENGLISH,English 9,-,10,1,10
+5,M,09-12,SPEC ED,ENGLISH,English 10,-,12,1,12
+5,M,09-12,SPEC ED,ENGLISH,English 11,-,32,3,10.7
+5,M,09-12,SPEC ED,ENGLISH,English 12,-,45,5,9
+5,M,09-12,SPEC ED,ENGLISH,MS English Core,-,25,2,12.5
+5,M,09-12,SPEC ED,ENGLISH,Other English,-,25,2,12.5
+5,M,09-12,SPEC ED,MATH,Integrated Algebra,-,24,2,12
+5,M,09-12,SPEC ED,MATH,Geometry,-,15,1,15
+5,M,09-12,SPEC ED,SCIENCE,Earth Science,-,23,2,11.5
+5,M,09-12,SPEC ED,SCIENCE,Living Environment,-,10,1,10
+5,M,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,22,2,11
+5,M,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,14,1,14
+6,M,0K,GEN ED,-,-,-,1825,80,22.8
+6,M,0K,CTT,-,-,-,233,12,19.4
+6,M,0K,G&T,-,-,-,20,1,20
+6,M,01,GEN ED,-,-,-,1934,81,23.9
+6,M,01,CTT,-,-,-,240,11,21.8
+6,M,01,G&T,-,-,-,25,1,25
+6,M,02,GEN ED,-,-,-,1897,84,22.6
+6,M,02,CTT,-,-,-,199,9,22.1
+6,M,02,G&T,-,-,-,13,1,13
+6,M,03,GEN ED,-,-,-,1687,69,24.4
+6,M,03,CTT,-,-,-,236,9,26.2
+6,M,03,G&T,-,-,-,60,2,30
+6,M,04,GEN ED,-,-,-,1674,67,25
+6,M,04,CTT,-,-,-,278,11,25.3
+6,M,04,G&T,-,-,-,25,1,25
+6,M,05,GEN ED,-,-,-,1502,62,24.2
+6,M,05,CTT,-,-,-,232,10,23.2
+6,M,05,G&T,-,-,-,24,1,24
+6,M,06,GEN ED,-,-,-,1605,63,25.5
+6,M,06,CTT,-,-,-,244,9,27.1
+6,M,07,GEN ED,-,-,-,1754,64,27.4
+6,M,07,CTT,-,-,-,348,13,26.8
+6,M,08,GEN ED,-,-,-,1893,71,26.7
+6,M,08,CTT,-,-,-,314,11,28.5
+6,M,0K-09,SPEC ED,-,-,12:1,249,27,9.2
+6,M,0K-09,SPEC ED,-,-,12:1:1,660,67,9.9
+6,M,MS Core,GEN ED,ENGLISH,MS English Core,-,5573,235,23.7
+6,M,MS Core,GEN ED,MATH,MS Math Core,-,5241,211,24.8
+6,M,MS Core,GEN ED,MATH,Integrated Algebra,-,473,18,26.3
+6,M,MS Core,GEN ED,MATH,Geometry,-,80,4,20
+6,M,MS Core,GEN ED,SCIENCE,MS Science Core,-,5462,211,25.9
+6,M,MS Core,GEN ED,SCIENCE,Earth Science,-,273,11,24.8
+6,M,MS Core,GEN ED,SCIENCE,Living Environment,-,194,7,27.7
+6,M,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,4915,191,25.7
+6,M,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,69,3,23
+6,M,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,498,19,26.2
+6,M,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,144,7,20.6
+6,M,MS Core,CTT,ENGLISH,MS English Core,-,898,37,24.3
+6,M,MS Core,CTT,MATH,MS Math Core,-,910,35,26
+6,M,MS Core,CTT,MATH,Integrated Algebra,-,29,1,29
+6,M,MS Core,CTT,SCIENCE,MS Science Core,-,897,34,26.4
+6,M,MS Core,CTT,SCIENCE,Earth Science,-,29,1,29
+6,M,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,751,30,25
+6,M,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,27,1,27
+6,M,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,55,2,27.5
+6,M,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,48,2,24
+6,M,MS Core,SPEC ED,ENGLISH,MS English Core,-,206,19,10.8
+6,M,MS Core,SPEC ED,MATH,MS Math Core,-,186,17,10.9
+6,M,MS Core,SPEC ED,MATH,Trigonometry,-,10,1,10
+6,M,MS Core,SPEC ED,SCIENCE,MS Science Core,-,210,19,11.1
+6,M,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,207,19,10.9
+6,M,09-12,GEN ED,ENGLISH,English 9,-,1039,41,25.3
+6,M,09-12,GEN ED,ENGLISH,English 10,-,1151,43,26.8
+6,M,09-12,GEN ED,ENGLISH,English 11,-,1192,44,27.1
+6,M,09-12,GEN ED,ENGLISH,English 12,-,717,25,28.7
+6,M,09-12,GEN ED,ENGLISH,MS English Core,-,332,16,20.8
+6,M,09-12,GEN ED,ENGLISH,Other English,-,943,39,24.2
+6,M,09-12,GEN ED,MATH,Integrated Algebra,-,1941,78,24.9
+6,M,09-12,GEN ED,MATH,Geometry,-,1683,58,29
+6,M,09-12,GEN ED,MATH,Trigonometry,-,603,23,26.2
+6,M,09-12,GEN ED,MATH,Math A,-,169,5,33.8
+6,M,09-12,GEN ED,MATH,Math B,-,115,5,23
+6,M,09-12,GEN ED,MATH,Other Math,-,227,9,25.2
+6,M,09-12,GEN ED,SCIENCE,Earth Science,-,2361,87,27.1
+6,M,09-12,GEN ED,SCIENCE,Living Environment,-,2532,99,25.6
+6,M,09-12,GEN ED,SCIENCE,Chemistry,-,1547,55,28.1
+6,M,09-12,GEN ED,SCIENCE,Physics,-,703,26,27
+6,M,09-12,GEN ED,SCIENCE,Other Science,-,291,9,32.3
+6,M,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,2598,96,27.1
+6,M,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,1445,53,27.3
+6,M,09-12,GEN ED,SOCIAL STUDIES,Economics,-,47,2,23.5
+6,M,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,718,25,28.7
+6,M,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,131,5,26.2
+6,M,09-12,CTT,ENGLISH,English 9,-,186,9,20.7
+6,M,09-12,CTT,ENGLISH,English 10,-,148,6,24.7
+6,M,09-12,CTT,ENGLISH,English 11,-,55,2,27.5
+6,M,09-12,CTT,ENGLISH,English 12,-,19,1,19
+6,M,09-12,CTT,ENGLISH,MS English Core,-,151,6,25.2
+6,M,09-12,CTT,ENGLISH,Other English,-,136,7,19.4
+6,M,09-12,CTT,MATH,Integrated Algebra,-,331,16,20.7
+6,M,09-12,CTT,MATH,Trigonometry,-,27,1,27
+6,M,09-12,CTT,SCIENCE,Earth Science,-,227,8,28.4
+6,M,09-12,CTT,SCIENCE,Living Environment,-,376,15,25.1
+6,M,09-12,CTT,SCIENCE,Chemistry,-,64,2,32
+6,M,09-12,CTT,SCIENCE,Physics,-,31,1,31
+6,M,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,191,8,23.9
+6,M,09-12,CTT,SOCIAL STUDIES,US History & Government,-,229,10,22.9
+6,M,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,25,1,25
+6,M,09-12,SPEC ED,ENGLISH,English 10,-,11,1,11
+6,M,09-12,SPEC ED,ENGLISH,English 12,-,22,2,11
+6,M,09-12,SPEC ED,MATH,Integrated Algebra,-,24,2,12
+6,M,09-12,SPEC ED,MATH,Geometry,-,12,1,12
+6,M,09-12,SPEC ED,SCIENCE,Living Environment,-,10,1,10
+6,M,09-12,SPEC ED,SCIENCE,Other Science,-,23,2,11.5
+6,M,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,11,1,11
+6,M,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,12,1,12
+6,M,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,12,1,12
+7,X,0K,GEN ED,-,-,-,1052,54,19.5
+7,X,0K,CTT,-,-,-,147,7,21
+7,X,01,GEN ED,-,-,-,1109,54,20.5
+7,X,01,CTT,-,-,-,160,8,20
+7,X,02,GEN ED,-,-,-,998,48,20.8
+7,X,02,CTT,-,-,-,253,11,23
+7,X,03,GEN ED,-,-,-,999,51,19.6
+7,X,03,CTT,-,-,-,150,7,21.4
+7,X,04,GEN ED,-,-,-,975,45,21.7
+7,X,04,CTT,-,-,-,218,10,21.8
+7,X,04,G&T,-,-,-,14,1,14
+7,X,05,GEN ED,-,-,-,980,47,20.9
+7,X,05,CTT,-,-,-,113,5,22.6
+7,X,06,GEN ED,-,-,-,1020,39,26.2
+7,X,06,CTT,-,-,-,211,8,26.4
+7,X,07,GEN ED,-,-,-,999,38,26.3
+7,X,07,CTT,-,-,-,193,7,27.6
+7,X,08,GEN ED,-,-,-,1028,40,25.7
+7,X,08,CTT,-,-,-,128,5,25.6
+7,X,0K-09,SPEC ED,-,-,12:1,746,69,10.8
+7,X,0K-09,SPEC ED,-,-,12:1:1,420,41,10.2
+7,X,0K-09,SPEC ED,-,-,6:1:1,2,1,2
+7,X,MS Core,GEN ED,ENGLISH,MS English Core,-,3039,125,24.3
+7,X,MS Core,GEN ED,MATH,MS Math Core,-,2880,118,24.4
+7,X,MS Core,GEN ED,MATH,Integrated Algebra,-,68,3,22.7
+7,X,MS Core,GEN ED,MATH,Math A,-,208,8,26
+7,X,MS Core,GEN ED,SCIENCE,MS Science Core,-,2999,121,24.8
+7,X,MS Core,GEN ED,SCIENCE,Living Environment,-,233,9,25.9
+7,X,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,3173,129,24.6
+7,X,MS Core,CTT,ENGLISH,MS English Core,-,469,21,22.3
+7,X,MS Core,CTT,MATH,MS Math Core,-,488,21,23.2
+7,X,MS Core,CTT,MATH,Math A,-,24,1,24
+7,X,MS Core,CTT,SCIENCE,MS Science Core,-,456,19,24
+7,X,MS Core,CTT,SCIENCE,Living Environment,-,25,1,25
+7,X,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,498,21,23.7
+7,X,MS Core,SPEC ED,ENGLISH,MS English Core,-,307,27,11.4
+7,X,MS Core,SPEC ED,MATH,MS Math Core,-,317,28,11.3
+7,X,MS Core,SPEC ED,SCIENCE,MS Science Core,-,314,28,11.2
+7,X,MS Core,SPEC ED,SCIENCE,Living Environment,-,23,2,11.5
+7,X,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,310,28,11.1
+7,X,MS Core,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,24,2,12
+7,X,09-12,GEN ED,ENGLISH,English 9,-,1396,60,23.3
+7,X,09-12,GEN ED,ENGLISH,English 10,-,1504,62,24.3
+7,X,09-12,GEN ED,ENGLISH,English 11,-,1271,54,23.5
+7,X,09-12,GEN ED,ENGLISH,English 12,-,1055,45,23.4
+7,X,09-12,GEN ED,ENGLISH,MS English Core,-,158,9,17.6
+7,X,09-12,GEN ED,ENGLISH,Other English,-,1058,52,20.3
+7,X,09-12,GEN ED,MATH,Integrated Algebra,-,1801,75,24
+7,X,09-12,GEN ED,MATH,Geometry,-,1065,45,23.7
+7,X,09-12,GEN ED,MATH,Trigonometry,-,1109,47,23.6
+7,X,09-12,GEN ED,MATH,Math A,-,319,15,21.3
+7,X,09-12,GEN ED,MATH,Math B,-,24,1,24
+7,X,09-12,GEN ED,MATH,Other Math,-,430,22,19.5
+7,X,09-12,GEN ED,SCIENCE,Earth Science,-,700,28,25
+7,X,09-12,GEN ED,SCIENCE,Living Environment,-,2635,114,23.1
+7,X,09-12,GEN ED,SCIENCE,Chemistry,-,1560,63,24.8
+7,X,09-12,GEN ED,SCIENCE,Physics,-,508,25,20.3
+7,X,09-12,GEN ED,SCIENCE,Other Science,-,1350,54,25
+7,X,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,2484,100,24.8
+7,X,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,1671,67,24.9
+7,X,09-12,GEN ED,SOCIAL STUDIES,Economics,-,223,11,20.3
+7,X,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,851,35,24.3
+7,X,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,399,19,21
+7,X,09-12,CTT,ENGLISH,English 9,-,374,14,26.7
+7,X,09-12,CTT,ENGLISH,English 10,-,306,11,27.8
+7,X,09-12,CTT,ENGLISH,English 11,-,244,10,24.4
+7,X,09-12,CTT,ENGLISH,English 12,-,70,3,23.3
+7,X,09-12,CTT,ENGLISH,MS English Core,-,5,1,5
+7,X,09-12,CTT,ENGLISH,Other English,-,474,21,22.6
+7,X,09-12,CTT,MATH,Integrated Algebra,-,915,36,25.4
+7,X,09-12,CTT,MATH,Geometry,-,88,4,22
+7,X,09-12,CTT,MATH,Trigonometry,-,137,5,27.4
+7,X,09-12,CTT,MATH,Math A,-,50,2,25
+7,X,09-12,CTT,MATH,Math B,-,25,1,25
+7,X,09-12,CTT,MATH,Other Math,-,29,1,29
+7,X,09-12,CTT,SCIENCE,Earth Science,-,270,9,30
+7,X,09-12,CTT,SCIENCE,Living Environment,-,804,33,24.4
+7,X,09-12,CTT,SCIENCE,Chemistry,-,189,10,18.9
+7,X,09-12,CTT,SCIENCE,Physics,-,26,1,26
+7,X,09-12,CTT,SCIENCE,Other Science,-,448,13,34.5
+7,X,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,923,34,27.1
+7,X,09-12,CTT,SOCIAL STUDIES,US History & Government,-,440,16,27.5
+7,X,09-12,CTT,SOCIAL STUDIES,Economics,-,33,1,33
+7,X,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,113,4,28.3
+7,X,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,141,5,28.2
+7,X,09-12,SPEC ED,ENGLISH,English 9,-,88,7,12.6
+7,X,09-12,SPEC ED,ENGLISH,English 10,-,64,6,10.7
+7,X,09-12,SPEC ED,ENGLISH,English 11,-,90,8,11.3
+7,X,09-12,SPEC ED,ENGLISH,English 12,-,55,5,11
+7,X,09-12,SPEC ED,ENGLISH,MS English Core,-,24,2,12
+7,X,09-12,SPEC ED,ENGLISH,Other English,-,33,3,11
+7,X,09-12,SPEC ED,MATH,Integrated Algebra,-,125,11,11.4
+7,X,09-12,SPEC ED,MATH,Geometry,-,29,2,14.5
+7,X,09-12,SPEC ED,MATH,Trigonometry,-,33,3,11
+7,X,09-12,SPEC ED,MATH,Other Math,-,38,4,9.5
+7,X,09-12,SPEC ED,SCIENCE,Earth Science,-,12,1,12
+7,X,09-12,SPEC ED,SCIENCE,Living Environment,-,167,13,12.8
+7,X,09-12,SPEC ED,SCIENCE,Chemistry,-,38,3,12.7
+7,X,09-12,SPEC ED,SCIENCE,Other Science,-,103,8,12.9
+7,X,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,159,14,11.4
+7,X,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,85,7,12.1
+7,X,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,55,5,11
+10,X,04,G&T,-,-,-,25,1,25
+7,X,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,7,1,7
+8,X,0K,GEN ED,-,-,-,1785,76,23.5
+8,X,0K,CTT,-,-,-,310,14,22.1
+8,X,01,GEN ED,-,-,-,1915,83,23.1
+8,X,01,CTT,-,-,-,249,11,22.6
+8,X,01,G&T,-,-,-,25,1,25
+8,X,02,GEN ED,-,-,-,1701,76,22.4
+8,X,02,CTT,-,-,-,342,14,24.4
+8,X,02,G&T,-,-,-,24,1,24
+8,X,03,GEN ED,-,-,-,1738,74,23.5
+8,X,03,CTT,-,-,-,331,14,23.6
+8,X,04,GEN ED,-,-,-,1595,66,24.2
+8,X,04,CTT,-,-,-,483,20,24.2
+8,X,04,G&T,-,-,-,21,1,21
+8,X,05,GEN ED,-,-,-,1782,72,24.8
+8,X,05,CTT,-,-,-,395,16,24.7
+8,X,05,G&T,-,-,-,22,1,22
+8,X,06,GEN ED,-,-,-,1599,60,26.7
+8,X,06,CTT,-,-,-,335,13,25.8
+8,X,06,G&T,-,-,-,57,2,28.5
+8,X,07,GEN ED,-,-,-,1566,59,26.5
+8,X,07,CTT,-,-,-,386,15,25.7
+8,X,07,G&T,-,-,-,66,2,33
+8,X,08,GEN ED,-,-,-,1584,55,28.8
+8,X,08,CTT,-,-,-,503,19,26.5
+8,X,08,G&T,-,-,-,59,2,29.5
+8,X,09,GEN ED,-,-,-,247,9,27.4
+8,X,0K-09,SPEC ED,-,-,12:1,685,63,10.9
+8,X,0K-09,SPEC ED,-,-,12:1:1,937,88,10.6
+8,X,MS Core,GEN ED,ENGLISH,MS English Core,-,5991,243,24.7
+8,X,MS Core,GEN ED,MATH,MS Math Core,-,4648,186,25
+8,X,MS Core,GEN ED,MATH,Integrated Algebra,-,238,9,26.4
+8,X,MS Core,GEN ED,SCIENCE,MS Science Core,-,4378,177,24.7
+8,X,MS Core,GEN ED,SCIENCE,Living Environment,-,340,14,24.3
+8,X,MS Core,GEN ED,SCIENCE,Physics,-,93,3,31
+8,X,MS Core,GEN ED,SCIENCE,Other Science,-,36,2,18
+8,X,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,4608,185,24.9
+8,X,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,234,9,26
+8,X,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,110,5,22
+8,X,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,109,6,18.2
+8,X,MS Core,CTT,ENGLISH,MS English Core,-,897,38,23.6
+8,X,MS Core,CTT,MATH,MS Math Core,-,885,37,23.9
+8,X,MS Core,CTT,MATH,Integrated Algebra,-,110,4,27.5
+8,X,MS Core,CTT,MATH,Math A,-,25,1,25
+8,X,MS Core,CTT,SCIENCE,MS Science Core,-,855,35,24.4
+8,X,MS Core,CTT,SCIENCE,Living Environment,-,130,5,26
+8,X,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,904,36,25.1
+8,X,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,60,3,20
+8,X,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,42,2,21
+8,X,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,41,2,20.5
+8,X,MS Core,SPEC ED,ENGLISH,MS English Core,-,606,54,11.2
+8,X,MS Core,SPEC ED,MATH,MS Math Core,-,537,48,11.2
+8,X,MS Core,SPEC ED,MATH,Integrated Algebra,-,11,1,11
+8,X,MS Core,SPEC ED,SCIENCE,MS Science Core,-,442,40,11.1
+8,X,MS Core,SPEC ED,SCIENCE,Living Environment,-,35,3,11.7
+8,X,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,428,38,11.3
+8,X,MS Core,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,37,3,12.3
+8,X,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,10,1,10
+8,X,09-12,GEN ED,ENGLISH,English 9,-,1599,70,22.8
+8,X,09-12,GEN ED,ENGLISH,English 10,-,1668,61,27.3
+8,X,09-12,GEN ED,ENGLISH,English 11,-,1521,59,25.8
+8,X,09-12,GEN ED,ENGLISH,English 12,-,1371,55,24.9
+8,X,09-12,GEN ED,ENGLISH,MS English Core,-,78,3,26
+8,X,09-12,GEN ED,ENGLISH,Other English,-,1755,72,24.4
+8,X,09-12,GEN ED,MATH,Integrated Algebra,-,2555,110,23.2
+8,X,09-12,GEN ED,MATH,Geometry,-,1942,77,25.2
+8,X,09-12,GEN ED,MATH,Trigonometry,-,522,24,21.8
+8,X,09-12,GEN ED,MATH,Math A,-,128,5,25.6
+8,X,09-12,GEN ED,MATH,Math B,-,14,1,14
+8,X,09-12,GEN ED,MATH,Other Math,-,537,21,25.6
+8,X,09-12,GEN ED,SCIENCE,Earth Science,-,1700,63,27
+8,X,09-12,GEN ED,SCIENCE,Living Environment,-,2584,101,25.6
+8,X,09-12,GEN ED,SCIENCE,Chemistry,-,1135,44,25.8
+8,X,09-12,GEN ED,SCIENCE,Physics,-,246,10,24.6
+8,X,09-12,GEN ED,SCIENCE,Other Science,-,1491,54,27.6
+8,X,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,4272,165,25.9
+8,X,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,1676,63,26.6
+8,X,09-12,GEN ED,SOCIAL STUDIES,Economics,-,138,5,27.6
+8,X,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,1071,41,26.1
+8,X,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,620,27,23
+8,X,09-12,CTT,ENGLISH,English 9,-,311,13,23.9
+8,X,09-12,CTT,ENGLISH,English 10,-,441,18,24.5
+8,X,09-12,CTT,ENGLISH,English 11,-,442,15,29.5
+8,X,09-12,CTT,ENGLISH,English 12,-,189,8,23.6
+8,X,09-12,CTT,ENGLISH,MS English Core,-,19,1,19
+8,X,09-12,CTT,ENGLISH,Other English,-,452,19,23.8
+8,X,09-12,CTT,MATH,Integrated Algebra,-,715,29,24.7
+8,X,09-12,CTT,MATH,Geometry,-,637,23,27.7
+8,X,09-12,CTT,MATH,Other Math,-,33,2,16.5
+8,X,09-12,CTT,SCIENCE,Earth Science,-,654,24,27.3
+8,X,09-12,CTT,SCIENCE,Living Environment,-,1081,41,26.4
+8,X,09-12,CTT,SCIENCE,Chemistry,-,65,3,21.7
+8,X,09-12,CTT,SCIENCE,Physics,-,46,2,23
+8,X,09-12,CTT,SCIENCE,Other Science,-,491,16,30.7
+8,X,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,1293,50,25.9
+8,X,09-12,CTT,SOCIAL STUDIES,US History & Government,-,248,9,27.6
+8,X,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,185,6,30.8
+8,X,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,165,7,23.6
+8,X,09-12,SPEC ED,ENGLISH,English 9,-,168,15,11.2
+8,X,09-12,SPEC ED,ENGLISH,English 10,-,150,12,12.5
+8,X,09-12,SPEC ED,ENGLISH,English 11,-,101,8,12.6
+8,X,09-12,SPEC ED,ENGLISH,English 12,-,38,4,9.5
+8,X,09-12,SPEC ED,ENGLISH,MS English Core,-,92,7,13.1
+8,X,09-12,SPEC ED,ENGLISH,Other English,-,96,9,10.7
+8,X,09-12,SPEC ED,MATH,Integrated Algebra,-,282,23,12.3
+8,X,09-12,SPEC ED,MATH,Geometry,-,152,11,13.8
+8,X,09-12,SPEC ED,MATH,Trigonometry,-,11,1,11
+8,X,09-12,SPEC ED,SCIENCE,Earth Science,-,99,7,14.1
+8,X,09-12,SPEC ED,SCIENCE,Living Environment,-,158,13,12.2
+8,X,09-12,SPEC ED,SCIENCE,Other Science,-,183,13,14.1
+8,X,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,382,31,12.3
+8,X,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,63,5,12.6
+8,X,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,28,2,14
+8,X,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,18,1,18
+9,X,0K,GEN ED,-,-,-,2404,110,21.9
+9,X,0K,CTT,-,-,-,356,17,20.9
+9,X,01,GEN ED,-,-,-,2538,111,22.9
+9,X,01,CTT,-,-,-,351,17,20.6
+9,X,02,GEN ED,-,-,-,2474,113,21.9
+9,X,02,CTT,-,-,-,377,18,20.9
+9,X,03,GEN ED,-,-,-,2369,107,22.1
+9,X,03,CTT,-,-,-,312,14,22.3
+9,X,04,GEN ED,-,-,-,2165,93,23.3
+9,X,04,CTT,-,-,-,343,16,21.4
+9,X,04,G&T,-,-,-,40,2,20
+9,X,05,GEN ED,-,-,-,2202,100,22
+9,X,05,CTT,-,-,-,234,10,23.4
+9,X,06,GEN ED,-,-,-,2345,98,23.9
+9,X,06,CTT,-,-,-,261,12,21.8
+9,X,07,GEN ED,-,-,-,2233,87,25.7
+9,X,07,CTT,-,-,-,379,16,23.7
+9,X,08,GEN ED,-,-,-,2355,87,27.1
+9,X,08,CTT,-,-,-,332,15,22.1
+9,X,0K-09,SPEC ED,-,-,12:1,591,57,10.4
+9,X,0K-09,SPEC ED,-,-,12:1:1,1170,111,10.5
+9,X,MS Core,GEN ED,ENGLISH,MS English Core,-,7084,283,25
+9,X,MS Core,GEN ED,MATH,MS Math Core,-,7341,291,25.2
+9,X,MS Core,GEN ED,MATH,Integrated Algebra,-,348,13,26.8
+9,X,MS Core,GEN ED,MATH,Other Math,-,71,3,23.7
+9,X,MS Core,GEN ED,SCIENCE,MS Science Core,-,6585,261,25.2
+9,X,MS Core,GEN ED,SCIENCE,Earth Science,-,18,1,18
+9,X,MS Core,GEN ED,SCIENCE,Living Environment,-,338,13,26
+9,X,MS Core,GEN ED,SCIENCE,Physics,-,80,4,20
+9,X,MS Core,GEN ED,SCIENCE,Other Science,-,28,1,28
+9,X,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,6569,263,25
+9,X,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,199,8,24.9
+9,X,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,195,8,24.4
+9,X,MS Core,GEN ED,SOCIAL STUDIES,Economics,-,24,1,24
+9,X,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,212,8,26.5
+9,X,MS Core,CTT,ENGLISH,MS English Core,-,954,42,22.7
+9,X,MS Core,CTT,MATH,MS Math Core,-,771,35,22
+9,X,MS Core,CTT,SCIENCE,MS Science Core,-,751,33,22.8
+9,X,MS Core,CTT,SCIENCE,Living Environment,-,27,1,27
+9,X,MS Core,CTT,SCIENCE,Other Science,-,26,1,26
+9,X,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,659,30,22
+9,X,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,52,2,26
+9,X,MS Core,CTT,SOCIAL STUDIES,Economics,-,27,1,27
+9,X,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,25,1,25
+9,X,MS Core,SPEC ED,ENGLISH,MS English Core,-,454,45,10.1
+9,X,MS Core,SPEC ED,MATH,MS Math Core,-,448,45,10
+9,X,MS Core,SPEC ED,SCIENCE,MS Science Core,-,437,44,9.9
+9,X,MS Core,SPEC ED,SCIENCE,Living Environment,-,21,2,10.5
+9,X,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,451,45,10
+9,X,09-12,GEN ED,ENGLISH,English 9,-,1580,70,22.6
+9,X,09-12,GEN ED,ENGLISH,English 10,-,1582,65,24.3
+9,X,09-12,GEN ED,ENGLISH,English 11,-,1454,61,23.8
+9,X,09-12,GEN ED,ENGLISH,English 12,-,1687,71,23.8
+9,X,09-12,GEN ED,ENGLISH,MS English Core,-,320,13,24.6
+10,X,05,GEN ED,-,-,-,3391,128,26.5
+9,X,09-12,GEN ED,ENGLISH,Other English,-,3365,146,23
+9,X,09-12,GEN ED,MATH,Integrated Algebra,-,2729,123,22.2
+9,X,09-12,GEN ED,MATH,Geometry,-,1413,56,25.2
+9,X,09-12,GEN ED,MATH,Trigonometry,-,811,32,25.3
+9,X,09-12,GEN ED,MATH,Math A,-,521,20,26.1
+9,X,09-12,GEN ED,MATH,Math B,-,53,2,26.5
+9,X,09-12,GEN ED,MATH,Other Math,-,491,23,21.3
+9,X,09-12,GEN ED,SCIENCE,Earth Science,-,1955,87,22.5
+9,X,09-12,GEN ED,SCIENCE,Living Environment,-,2815,118,23.9
+9,X,09-12,GEN ED,SCIENCE,Chemistry,-,1111,44,25.3
+9,X,09-12,GEN ED,SCIENCE,Physics,-,545,25,21.8
+9,X,09-12,GEN ED,SCIENCE,Other Science,-,1513,69,21.9
+9,X,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,3690,154,24
+9,X,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,2043,80,25.5
+9,X,09-12,GEN ED,SOCIAL STUDIES,Economics,-,542,23,23.6
+9,X,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,1108,43,25.8
+9,X,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,1134,46,24.7
+9,X,09-12,CTT,ENGLISH,English 9,-,477,20,23.9
+9,X,09-12,CTT,ENGLISH,English 10,-,255,9,28.3
+9,X,09-12,CTT,ENGLISH,English 11,-,219,8,27.4
+9,X,09-12,CTT,ENGLISH,English 12,-,197,8,24.6
+9,X,09-12,CTT,ENGLISH,MS English Core,-,83,3,27.7
+9,X,09-12,CTT,ENGLISH,Other English,-,472,23,20.5
+9,X,09-12,CTT,MATH,Integrated Algebra,-,773,31,24.9
+9,X,09-12,CTT,MATH,Geometry,-,279,10,27.9
+9,X,09-12,CTT,MATH,Trigonometry,-,81,3,27
+9,X,09-12,CTT,MATH,Math A,-,102,4,25.5
+9,X,09-12,CTT,MATH,Other Math,-,29,1,29
+9,X,09-12,CTT,SCIENCE,Earth Science,-,290,11,26.4
+9,X,09-12,CTT,SCIENCE,Living Environment,-,908,32,28.4
+9,X,09-12,CTT,SCIENCE,Chemistry,-,108,4,27
+9,X,09-12,CTT,SCIENCE,Physics,-,51,2,25.5
+9,X,09-12,CTT,SCIENCE,Other Science,-,570,21,27.1
+9,X,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,909,35,26
+9,X,09-12,CTT,SOCIAL STUDIES,US History & Government,-,320,11,29.1
+9,X,09-12,CTT,SOCIAL STUDIES,Economics,-,65,3,21.7
+9,X,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,70,3,23.3
+9,X,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,306,11,27.8
+9,X,09-12,SPEC ED,ENGLISH,English 9,-,168,14,12
+9,X,09-12,SPEC ED,ENGLISH,English 10,-,57,5,11.4
+9,X,09-12,SPEC ED,ENGLISH,English 11,-,15,1,15
+9,X,09-12,SPEC ED,ENGLISH,English 12,-,41,4,10.3
+9,X,09-12,SPEC ED,ENGLISH,Other English,-,231,20,11.6
+9,X,09-12,SPEC ED,MATH,Integrated Algebra,-,232,17,13.6
+9,X,09-12,SPEC ED,MATH,Geometry,-,10,1,10
+9,X,09-12,SPEC ED,MATH,Math A,-,23,2,11.5
+9,X,09-12,SPEC ED,SCIENCE,Earth Science,-,45,4,11.3
+9,X,09-12,SPEC ED,SCIENCE,Living Environment,-,169,14,12.1
+9,X,09-12,SPEC ED,SCIENCE,Other Science,-,31,2,15.5
+9,X,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,165,13,12.7
+9,X,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,72,6,12
+9,X,09-12,SPEC ED,SOCIAL STUDIES,Economics,-,12,1,12
+9,X,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,10,1,10
+9,X,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,21,2,10.5
+10,X,0K,GEN ED,-,-,-,3511,152,23.1
+10,X,0K,CTT,-,-,-,566,26,21.8
+10,X,0K,G&T,-,-,-,40,2,20
+10,X,01,GEN ED,-,-,-,3604,154,23.4
+10,X,01,CTT,-,-,-,435,20,21.8
+10,X,01,G&T,-,-,-,50,3,16.7
+10,X,02,GEN ED,-,-,-,3420,143,23.9
+10,X,02,CTT,-,-,-,422,19,22.2
+10,X,02,G&T,-,-,-,48,2,24
+10,X,03,GEN ED,-,-,-,3216,131,24.5
+10,X,03,CTT,-,-,-,401,18,22.3
+10,X,03,G&T,-,-,-,28,1,28
+10,X,04,GEN ED,-,-,-,3314,130,25.5
+10,X,04,CTT,-,-,-,366,15,24.4
+10,X,05,CTT,-,-,-,258,11,23.5
+10,X,06,GEN ED,-,-,-,2843,104,27.3
+10,X,06,CTT,-,-,-,447,20,22.4
+10,X,06,G&T,-,-,-,166,6,27.7
+10,X,07,GEN ED,-,-,-,2799,101,27.7
+10,X,07,CTT,-,-,-,372,15,24.8
+10,X,07,G&T,-,-,-,205,7,29.3
+10,X,08,GEN ED,-,-,-,2984,108,27.6
+10,X,08,CTT,-,-,-,328,14,23.4
+10,X,08,G&T,-,-,-,190,7,27.1
+10,X,0K-09,SPEC ED,-,-,12:1,736,66,11.2
+10,X,0K-09,SPEC ED,-,-,12:1:1,1894,183,10.3
+10,X,MS Core,GEN ED,ENGLISH,MS English Core,-,7755,306,25.3
+10,X,MS Core,GEN ED,MATH,MS Math Core,-,7294,272,26.8
+10,X,MS Core,GEN ED,MATH,Integrated Algebra,-,489,17,28.8
+10,X,MS Core,GEN ED,MATH,Geometry,-,12,1,12
+10,X,MS Core,GEN ED,SCIENCE,MS Science Core,-,6989,263,26.6
+10,X,MS Core,GEN ED,SCIENCE,Earth Science,-,495,18,27.5
+10,X,MS Core,GEN ED,SCIENCE,Living Environment,-,455,16,28.4
+10,X,MS Core,GEN ED,SCIENCE,Chemistry,-,12,1,12
+10,X,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,7503,278,27
+10,X,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,68,3,22.7
+10,X,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,160,6,26.7
+10,X,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,109,5,21.8
+10,X,MS Core,CTT,ENGLISH,MS English Core,-,1457,63,23.1
+10,X,MS Core,CTT,MATH,MS Math Core,-,1168,47,24.9
+10,X,MS Core,CTT,MATH,Other Math,-,27,1,27
+10,X,MS Core,CTT,SCIENCE,MS Science Core,-,1078,42,25.7
+10,X,MS Core,CTT,SCIENCE,Living Environment,-,86,3,28.7
+10,X,MS Core,CTT,SCIENCE,Other Science,-,27,1,27
+10,X,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,1013,40,25.3
+10,X,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,28,1,28
+10,X,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,28,1,28
+10,X,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,75,3,25
+10,X,MS Core,SPEC ED,ENGLISH,MS English Core,-,609,55,11.1
+10,X,MS Core,SPEC ED,MATH,MS Math Core,-,584,53,11
+10,X,MS Core,SPEC ED,MATH,Integrated Algebra,-,19,2,9.5
+10,X,MS Core,SPEC ED,MATH,Other Math,-,12,1,12
+10,X,MS Core,SPEC ED,SCIENCE,MS Science Core,-,546,50,10.9
+10,X,MS Core,SPEC ED,SCIENCE,Earth Science,-,13,1,13
+10,X,MS Core,SPEC ED,SCIENCE,Other Science,-,12,1,12
+10,X,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,514,48,10.7
+10,X,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,24,2,12
+10,X,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,14,1,14
+10,X,09-12,GEN ED,ENGLISH,English 9,-,4566,181,25.2
+10,X,09-12,GEN ED,ENGLISH,English 10,-,4070,150,27.1
+10,X,09-12,GEN ED,ENGLISH,English 11,-,3898,152,25.6
+10,X,09-12,GEN ED,ENGLISH,English 12,-,3321,132,25.2
+10,X,09-12,GEN ED,ENGLISH,MS English Core,-,982,42,23.4
+10,X,09-12,GEN ED,ENGLISH,Other English,-,3546,143,24.8
+10,X,09-12,GEN ED,MATH,Integrated Algebra,-,5887,237,24.8
+10,X,09-12,GEN ED,MATH,Geometry,-,3725,139,26.8
+10,X,09-12,GEN ED,MATH,Trigonometry,-,2875,105,27.4
+10,X,09-12,GEN ED,MATH,Math A,-,385,14,27.5
+10,X,09-12,GEN ED,MATH,Math B,-,200,10,20
+10,X,09-12,GEN ED,MATH,Other Math,-,2027,72,28.2
+10,X,09-12,GEN ED,SCIENCE,Earth Science,-,4300,161,26.7
+10,X,09-12,GEN ED,SCIENCE,Living Environment,-,6013,232,25.9
+10,X,09-12,GEN ED,SCIENCE,Chemistry,-,3592,150,23.9
+10,X,09-12,GEN ED,SCIENCE,Physics,-,1594,60,26.6
+10,X,09-12,GEN ED,SCIENCE,Other Science,-,4789,174,27.5
+10,X,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,9335,356,26.2
+10,X,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,4819,184,26.2
+10,X,09-12,GEN ED,SOCIAL STUDIES,Economics,-,418,22,19
+10,X,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,2595,99,26.2
+11,X,MS Core,GEN ED,SCIENCE,Other Science,-,113,4,28.3
+10,X,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,1235,60,20.6
+10,X,09-12,CTT,ENGLISH,English 9,-,375,15,25
+10,X,09-12,CTT,ENGLISH,English 10,-,466,19,24.5
+10,X,09-12,CTT,ENGLISH,English 11,-,242,9,26.9
+10,X,09-12,CTT,ENGLISH,English 12,-,192,8,24
+10,X,09-12,CTT,ENGLISH,MS English Core,-,99,4,24.8
+10,X,09-12,CTT,ENGLISH,Other English,-,612,23,26.6
+10,X,09-12,CTT,MATH,Integrated Algebra,-,941,38,24.8
+10,X,09-12,CTT,MATH,Geometry,-,139,5,27.8
+10,X,09-12,CTT,MATH,Trigonometry,-,158,6,26.3
+10,X,09-12,CTT,MATH,Math A,-,97,3,32.3
+10,X,09-12,CTT,MATH,Math B,-,30,1,30
+10,X,09-12,CTT,MATH,Other Math,-,55,2,27.5
+10,X,09-12,CTT,SCIENCE,Earth Science,-,548,21,26.1
+10,X,09-12,CTT,SCIENCE,Living Environment,-,944,39,24.2
+10,X,09-12,CTT,SCIENCE,Chemistry,-,69,3,23
+10,X,09-12,CTT,SCIENCE,Physics,-,122,4,30.5
+10,X,09-12,CTT,SCIENCE,Other Science,-,574,22,26.1
+10,X,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,1291,48,26.9
+10,X,09-12,CTT,SOCIAL STUDIES,US History & Government,-,418,16,26.1
+10,X,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,180,7,25.7
+10,X,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,214,7,30.6
+10,X,09-12,SPEC ED,ENGLISH,English 9,-,355,27,13.1
+10,X,09-12,SPEC ED,ENGLISH,English 10,-,184,14,13.1
+10,X,09-12,SPEC ED,ENGLISH,English 11,-,192,15,12.8
+10,X,09-12,SPEC ED,ENGLISH,English 12,-,93,7,13.3
+10,X,09-12,SPEC ED,ENGLISH,MS English Core,-,80,9,8.9
+10,X,09-12,SPEC ED,ENGLISH,Other English,-,39,3,13
+10,X,09-12,SPEC ED,MATH,Integrated Algebra,-,337,26,13
+10,X,09-12,SPEC ED,MATH,Geometry,-,49,4,12.3
+10,X,09-12,SPEC ED,MATH,Trigonometry,-,65,5,13
+10,X,09-12,SPEC ED,SCIENCE,Earth Science,-,246,19,12.9
+10,X,09-12,SPEC ED,SCIENCE,Living Environment,-,207,16,12.9
+10,X,09-12,SPEC ED,SCIENCE,Other Science,-,309,23,13.4
+10,X,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,545,41,13.3
+10,X,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,147,11,13.4
+10,X,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,63,5,12.6
+11,X,0K,GEN ED,-,-,-,2479,103,24.1
+11,X,0K,CTT,-,-,-,394,18,21.9
+11,X,0K,G&T,-,-,-,43,2,21.5
+11,X,01,GEN ED,-,-,-,2637,112,23.5
+11,X,01,CTT,-,-,-,378,16,23.6
+11,X,01,G&T,-,-,-,54,2,27
+11,X,02,GEN ED,-,-,-,2499,104,24
+11,X,02,CTT,-,-,-,470,21,22.4
+11,X,02,G&T,-,-,-,45,2,22.5
+11,X,03,GEN ED,-,-,-,2557,106,24.1
+11,X,03,CTT,-,-,-,432,18,24
+11,X,03,G&T,-,-,-,51,2,25.5
+11,X,04,GEN ED,-,-,-,2531,101,25.1
+11,X,04,CTT,-,-,-,430,18,23.9
+11,X,04,G&T,-,-,-,50,2,25
+11,X,05,GEN ED,-,-,-,2558,99,25.8
+11,X,05,CTT,-,-,-,389,14,27.8
+11,X,05,G&T,-,-,-,18,1,18
+11,X,06,GEN ED,-,-,-,2226,80,27.8
+11,X,06,CTT,-,-,-,546,20,27.3
+11,X,07,GEN ED,-,-,-,2290,81,28.3
+11,X,07,CTT,-,-,-,472,18,26.2
+11,X,08,GEN ED,-,-,-,2429,85,28.6
+11,X,08,CTT,-,-,-,421,15,28.1
+11,X,0K-09,SPEC ED,-,-,12:1,883,79,11.2
+11,X,0K-09,SPEC ED,-,-,12:1:1,927,95,9.8
+11,X,MS Core,GEN ED,ENGLISH,MS English Core,-,8143,298,27.3
+11,X,MS Core,GEN ED,MATH,MS Math Core,-,7035,247,28.5
+11,X,MS Core,GEN ED,MATH,Integrated Algebra,-,314,11,28.5
+11,X,MS Core,GEN ED,SCIENCE,MS Science Core,-,6278,223,28.2
+11,X,MS Core,GEN ED,SCIENCE,Earth Science,-,150,5,30
+11,X,MS Core,GEN ED,SCIENCE,Living Environment,-,475,16,29.7
+11,X,MS Core,GEN ED,SCIENCE,Physics,-,60,2,30
+11,X,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,6992,248,28.2
+11,X,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,115,4,28.8
+11,X,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,88,3,29.3
+11,X,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,282,11,25.6
+11,X,MS Core,CTT,ENGLISH,MS English Core,-,1374,47,29.2
+11,X,MS Core,CTT,MATH,MS Math Core,-,1193,40,29.8
+11,X,MS Core,CTT,SCIENCE,MS Science Core,-,1117,38,29.4
+11,X,MS Core,CTT,SCIENCE,Living Environment,-,29,1,29
+11,X,MS Core,CTT,SCIENCE,Other Science,-,28,1,28
+11,X,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,1188,41,29
+11,X,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,31,1,31
+11,X,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,46,2,23
+11,X,MS Core,SPEC ED,ENGLISH,MS English Core,-,459,37,12.4
+11,X,MS Core,SPEC ED,MATH,MS Math Core,-,499,41,12.2
+11,X,MS Core,SPEC ED,SCIENCE,MS Science Core,-,452,38,11.9
+11,X,MS Core,SPEC ED,SCIENCE,Living Environment,-,11,1,11
+11,X,MS Core,SPEC ED,SCIENCE,Other Science,-,12,1,12
+11,X,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,489,40,12.2
+11,X,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,23,2,11.5
+11,X,09-12,GEN ED,ENGLISH,English 9,-,1618,68,23.8
+11,X,09-12,GEN ED,ENGLISH,English 10,-,1766,69,25.6
+11,X,09-12,GEN ED,ENGLISH,English 11,-,1656,65,25.5
+11,X,09-12,GEN ED,ENGLISH,English 12,-,1443,56,25.8
+11,X,09-12,GEN ED,ENGLISH,MS English Core,-,149,9,16.6
+11,X,09-12,GEN ED,ENGLISH,Other English,-,3663,138,26.5
+11,X,09-12,GEN ED,MATH,Integrated Algebra,-,3195,130,24.6
+11,X,09-12,GEN ED,MATH,Geometry,-,2027,71,28.5
+11,X,09-12,GEN ED,MATH,Trigonometry,-,838,34,24.6
+11,X,09-12,GEN ED,MATH,Math A,-,14,1,14
+11,X,09-12,GEN ED,MATH,Math B,-,61,3,20.3
+11,X,09-12,GEN ED,MATH,Other Math,-,799,31,25.8
+11,X,09-12,GEN ED,SCIENCE,Earth Science,-,1790,63,28.4
+11,X,09-12,GEN ED,SCIENCE,Living Environment,-,3121,125,25
+11,X,09-12,GEN ED,SCIENCE,Chemistry,-,1268,47,27
+11,X,09-12,GEN ED,SCIENCE,Physics,-,489,19,25.7
+11,X,09-12,GEN ED,SCIENCE,Other Science,-,1947,82,23.7
+11,X,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,4525,168,26.9
+11,X,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,3455,123,28.1
+11,X,09-12,GEN ED,SOCIAL STUDIES,Economics,-,270,11,24.5
+11,X,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,1270,48,26.5
+11,X,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,841,37,22.7
+11,X,09-12,CTT,ENGLISH,English 9,-,429,16,26.8
+11,X,09-12,CTT,ENGLISH,English 10,-,399,14,28.5
+11,X,09-12,CTT,ENGLISH,English 11,-,298,10,29.8
+11,X,09-12,CTT,ENGLISH,English 12,-,166,7,23.7
+11,X,09-12,CTT,ENGLISH,MS English Core,-,153,4,38.3
+11,X,09-12,CTT,ENGLISH,Other English,-,796,30,26.5
+11,X,09-12,CTT,MATH,Integrated Algebra,-,1007,37,27.2
+11,X,09-12,CTT,MATH,Geometry,-,210,8,26.3
+11,X,09-12,CTT,MATH,Trigonometry,-,84,4,21
+11,X,09-12,CTT,MATH,Math A,-,66,3,22
+11,X,09-12,CTT,SCIENCE,Earth Science,-,471,15,31.4
+11,X,09-12,CTT,SCIENCE,Living Environment,-,851,29,29.3
+11,X,09-12,CTT,SCIENCE,Chemistry,-,34,1,34
+11,X,09-12,CTT,SCIENCE,Physics,-,90,3,30
+11,X,09-12,CTT,SCIENCE,Other Science,-,554,22,25.2
+11,X,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,1068,37,28.9
+11,X,09-12,CTT,SOCIAL STUDIES,US History & Government,-,417,14,29.8
+11,X,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,256,9,28.4
+11,X,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,385,13,29.6
+11,X,09-12,SPEC ED,ENGLISH,English 9,-,134,11,12.2
+11,X,09-12,SPEC ED,ENGLISH,English 10,-,113,9,12.6
+11,X,09-12,SPEC ED,ENGLISH,English 11,-,88,8,11
+11,X,09-12,SPEC ED,ENGLISH,English 12,-,41,3,13.7
+11,X,09-12,SPEC ED,ENGLISH,MS English Core,-,166,14,11.9
+11,X,09-12,SPEC ED,ENGLISH,Other English,-,276,20,13.8
+11,X,09-12,SPEC ED,MATH,Integrated Algebra,-,421,33,12.8
+11,X,09-12,SPEC ED,MATH,Geometry,-,19,2,9.5
+11,X,09-12,SPEC ED,MATH,Other Math,-,29,3,9.7
+11,X,09-12,SPEC ED,SCIENCE,Earth Science,-,136,10,13.6
+11,X,09-12,SPEC ED,SCIENCE,Living Environment,-,313,23,13.6
+11,X,09-12,SPEC ED,SCIENCE,Other Science,-,92,8,11.5
+11,X,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,479,37,12.9
+11,X,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,273,18,15.2
+11,X,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,32,3,10.7
+11,X,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,13,1,13
+12,X,0K,GEN ED,-,-,-,1577,70,22.5
+12,X,0K,CTT,-,-,-,215,11,19.5
+12,X,01,GEN ED,-,-,-,1630,73,22.3
+12,X,01,CTT,-,-,-,203,10,20.3
+12,X,01,G&T,-,-,-,14,1,14
+12,X,02,GEN ED,-,-,-,1498,70,21.4
+12,X,02,CTT,-,-,-,224,11,20.4
+12,X,02,G&T,-,-,-,21,1,21
+12,X,03,GEN ED,-,-,-,1500,67,22.4
+12,X,03,CTT,-,-,-,160,7,22.9
+12,X,03,G&T,-,-,-,22,1,22
+12,X,04,GEN ED,-,-,-,1402,62,22.6
+12,X,04,CTT,-,-,-,208,9,23.1
+12,X,04,G&T,-,-,-,27,1,27
+12,X,05,GEN ED,-,-,-,1385,62,22.3
+12,X,05,CTT,-,-,-,173,7,24.7
+12,X,05,G&T,-,-,-,25,1,25
+12,X,06,GEN ED,-,-,-,1220,52,23.5
+12,X,06,CTT,-,-,-,283,13,21.8
+12,X,06,G&T,-,-,-,31,1,31
+12,X,07,GEN ED,-,-,-,1319,48,27.5
+12,X,07,CTT,-,-,-,343,14,24.5
+12,X,08,GEN ED,-,-,-,1281,51,25.1
+12,X,08,CTT,-,-,-,307,12,25.6
+12,X,09,GEN ED,-,-,-,176,7,25.1
+12,X,0K-09,SPEC ED,-,-,12:1,787,74,10.6
+12,X,0K-09,SPEC ED,-,-,12:1:1,664,70,9.5
+12,X,MS Core,GEN ED,ENGLISH,MS English Core,-,4435,189,23.5
+12,X,MS Core,GEN ED,MATH,MS Math Core,-,3722,148,25.1
+12,X,MS Core,GEN ED,MATH,Integrated Algebra,-,302,13,23.2
+12,X,MS Core,GEN ED,MATH,Math A,-,144,5,28.8
+12,X,MS Core,GEN ED,SCIENCE,MS Science Core,-,3518,139,25.3
+12,X,MS Core,GEN ED,SCIENCE,Earth Science,-,81,3,27
+12,X,MS Core,GEN ED,SCIENCE,Living Environment,-,286,11,26
+12,X,MS Core,GEN ED,SCIENCE,Other Science,-,146,6,24.3
+12,X,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,3514,138,25.5
+12,X,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,213,8,26.6
+12,X,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,72,3,24
+12,X,MS Core,CTT,ENGLISH,MS English Core,-,963,40,24.1
+12,X,MS Core,CTT,MATH,MS Math Core,-,855,34,25.1
+12,X,MS Core,CTT,MATH,Integrated Algebra,-,26,1,26
+12,X,MS Core,CTT,MATH,Math A,-,53,2,26.5
+12,X,MS Core,CTT,SCIENCE,MS Science Core,-,922,36,25.6
+12,X,MS Core,CTT,SCIENCE,Living Environment,-,50,2,25
+12,X,MS Core,CTT,SCIENCE,Other Science,-,22,1,22
+12,X,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,794,32,24.8
+12,X,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,84,3,28
+12,X,MS Core,SPEC ED,ENGLISH,MS English Core,-,325,31,10.5
+12,X,MS Core,SPEC ED,MATH,MS Math Core,-,345,33,10.5
+12,X,MS Core,SPEC ED,SCIENCE,MS Science Core,-,301,29,10.4
+12,X,MS Core,SPEC ED,SCIENCE,Living Environment,-,33,3,11
+12,X,MS Core,SPEC ED,SCIENCE,Other Science,-,10,1,10
+12,X,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,334,32,10.4
+12,X,09-12,GEN ED,ENGLISH,English 9,-,1077,54,19.9
+12,X,09-12,GEN ED,ENGLISH,English 10,-,840,39,21.5
+12,X,09-12,GEN ED,ENGLISH,English 11,-,1256,50,25.1
+12,X,09-12,GEN ED,ENGLISH,English 12,-,792,37,21.4
+12,X,09-12,GEN ED,ENGLISH,MS English Core,-,332,14,23.7
+12,X,09-12,GEN ED,ENGLISH,Other English,-,1104,51,21.6
+12,X,09-12,GEN ED,MATH,Integrated Algebra,-,2089,88,23.7
+12,X,09-12,GEN ED,MATH,Geometry,-,1052,48,21.9
+12,X,09-12,GEN ED,MATH,Trigonometry,-,399,21,19
+12,X,09-12,GEN ED,MATH,Math A,-,219,9,24.3
+12,X,09-12,GEN ED,MATH,Math B,-,155,12,12.9
+12,X,09-12,GEN ED,MATH,Other Math,-,205,12,17.1
+12,X,09-12,GEN ED,SCIENCE,Earth Science,-,1071,43,24.9
+12,X,09-12,GEN ED,SCIENCE,Living Environment,-,1906,76,25.1
+12,X,09-12,GEN ED,SCIENCE,Chemistry,-,1101,49,22.5
+12,X,09-12,GEN ED,SCIENCE,Physics,-,423,22,19.2
+12,X,09-12,GEN ED,SCIENCE,Other Science,-,995,48,20.7
+12,X,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,3157,139,22.7
+12,X,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,1088,45,24.2
+12,X,09-12,GEN ED,SOCIAL STUDIES,Economics,-,520,21,24.8
+12,X,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,389,16,24.3
+12,X,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,280,12,23.3
+12,X,09-12,CTT,ENGLISH,English 9,-,249,12,20.8
+12,X,09-12,CTT,ENGLISH,English 10,-,291,11,26.5
+12,X,09-12,CTT,ENGLISH,English 11,-,290,13,22.3
+12,X,09-12,CTT,ENGLISH,English 12,-,127,5,25.4
+12,X,09-12,CTT,ENGLISH,MS English Core,-,45,2,22.5
+12,X,09-12,CTT,ENGLISH,Other English,-,133,6,22.2
+12,X,09-12,CTT,MATH,Integrated Algebra,-,696,28,24.9
+12,X,09-12,CTT,MATH,Geometry,-,57,3,19
+12,X,09-12,CTT,MATH,Trigonometry,-,31,2,15.5
+12,X,09-12,CTT,MATH,Math A,-,67,3,22.3
+12,X,09-12,CTT,SCIENCE,Earth Science,-,279,12,23.3
+12,X,09-12,CTT,SCIENCE,Living Environment,-,439,17,25.8
+12,X,09-12,CTT,SCIENCE,Chemistry,-,162,6,27
+12,X,09-12,CTT,SCIENCE,Physics,-,177,7,25.3
+12,X,09-12,CTT,SCIENCE,Other Science,-,318,14,22.7
+12,X,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,615,27,22.8
+12,X,09-12,CTT,SOCIAL STUDIES,US History & Government,-,295,13,22.7
+12,X,09-12,CTT,SOCIAL STUDIES,Economics,-,50,2,25
+12,X,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,21,1,21
+12,X,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,89,4,22.3
+12,X,09-12,SPEC ED,ENGLISH,English 9,-,64,5,12.8
+12,X,09-12,SPEC ED,ENGLISH,English 10,-,37,3,12.3
+12,X,09-12,SPEC ED,ENGLISH,English 11,-,30,3,10
+12,X,09-12,SPEC ED,ENGLISH,English 12,-,23,2,11.5
+12,X,09-12,SPEC ED,ENGLISH,MS English Core,-,32,3,10.7
+12,X,09-12,SPEC ED,ENGLISH,Other English,-,28,2,14
+12,X,09-12,SPEC ED,MATH,Integrated Algebra,-,87,6,14.5
+12,X,09-12,SPEC ED,MATH,Geometry,-,10,1,10
+12,X,09-12,SPEC ED,MATH,Trigonometry,-,11,1,11
+12,X,09-12,SPEC ED,MATH,Other Math,-,14,1,14
+12,X,09-12,SPEC ED,SCIENCE,Earth Science,-,36,3,12
+12,X,09-12,SPEC ED,SCIENCE,Living Environment,-,108,7,15.4
+12,X,09-12,SPEC ED,SCIENCE,Other Science,-,52,4,13
+12,X,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,86,6,14.3
+12,X,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,32,3,10.7
+12,X,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,11,1,11
+13,K,0K,GEN ED,-,-,-,886,43,20.6
+13,K,0K,CTT,-,-,-,203,10,20.3
+13,K,0K,G&T,-,-,-,15,1,15
+13,K,01,GEN ED,-,-,-,936,44,21.3
+13,K,01,CTT,-,-,-,161,8,20.1
+13,K,01,G&T,-,-,-,24,1,24
+13,K,02,GEN ED,-,-,-,894,43,20.8
+13,K,02,CTT,-,-,-,133,7,19
+13,K,02,G&T,-,-,-,19,1,19
+13,K,03,GEN ED,-,-,-,867,38,22.8
+13,K,03,CTT,-,-,-,107,5,21.4
+13,K,03,G&T,-,-,-,52,2,26
+13,K,04,GEN ED,-,-,-,813,37,22
+13,K,04,CTT,-,-,-,127,6,21.2
+13,K,04,G&T,-,-,-,69,3,23
+13,K,05,GEN ED,-,-,-,808,35,23.1
+13,K,05,CTT,-,-,-,131,7,18.7
+13,K,05,G&T,-,-,-,47,2,23.5
+13,K,06,GEN ED,-,-,-,895,38,23.6
+13,K,06,CTT,-,-,-,191,8,23.9
+13,K,07,GEN ED,-,-,-,862,37,23.3
+13,K,07,CTT,-,-,-,200,8,25
+13,K,08,GEN ED,-,-,-,838,34,24.6
+13,K,08,CTT,-,-,-,214,8,26.8
+13,K,0K-09,SPEC ED,-,-,12:1,115,13,8.8
+13,K,0K-09,SPEC ED,-,-,12:1:1,449,50,9
+13,K,0K-09,SPEC ED,-,-,6:1:1,6,1,6
+13,K,MS Core,GEN ED,ENGLISH,MS English Core,-,1892,82,23.1
+13,K,MS Core,GEN ED,MATH,MS Math Core,-,1444,64,22.6
+13,K,MS Core,GEN ED,MATH,Integrated Algebra,-,65,3,21.7
+13,K,MS Core,GEN ED,MATH,Math A,-,46,1,46
+13,K,MS Core,GEN ED,SCIENCE,MS Science Core,-,1363,61,22.3
+13,K,MS Core,GEN ED,SCIENCE,Earth Science,-,87,3,29
+13,K,MS Core,GEN ED,SCIENCE,Other Science,-,264,9,29.3
+13,K,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,1635,73,22.4
+13,K,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,10,1,10
+13,K,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,141,6,23.5
+13,K,MS Core,CTT,ENGLISH,MS English Core,-,341,15,22.7
+13,K,MS Core,CTT,MATH,MS Math Core,-,331,14,23.6
+13,K,MS Core,CTT,SCIENCE,MS Science Core,-,351,15,23.4
+13,K,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,338,15,22.5
+13,K,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,20,1,20
+13,K,MS Core,SPEC ED,ENGLISH,MS English Core,-,97,9,10.8
+13,K,MS Core,SPEC ED,MATH,MS Math Core,-,103,9,11.4
+13,K,MS Core,SPEC ED,SCIENCE,MS Science Core,-,86,8,10.8
+13,K,MS Core,SPEC ED,SCIENCE,Other Science,-,10,1,10
+13,K,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,73,7,10.4
+13,K,09-12,GEN ED,ENGLISH,English 9,-,3330,124,26.9
+13,K,09-12,GEN ED,ENGLISH,English 10,-,2700,97,27.8
+13,K,09-12,GEN ED,ENGLISH,English 11,-,2606,96,27.1
+13,K,09-12,GEN ED,ENGLISH,English 12,-,1081,45,24
+13,K,09-12,GEN ED,ENGLISH,MS English Core,-,102,5,20.4
+13,K,09-12,GEN ED,ENGLISH,Other English,-,2361,95,24.9
+13,K,09-12,GEN ED,MATH,Integrated Algebra,-,2165,95,22.8
+13,K,09-12,GEN ED,MATH,Geometry,-,2772,101,27.4
+13,K,09-12,GEN ED,MATH,Trigonometry,-,2600,88,29.5
+13,K,09-12,GEN ED,MATH,Math A,-,1438,51,28.2
+13,K,09-12,GEN ED,MATH,Other Math,-,1042,41,25.4
+13,K,09-12,GEN ED,SCIENCE,Earth Science,-,1380,60,23
+13,K,09-12,GEN ED,SCIENCE,Living Environment,-,5064,182,27.8
+13,K,09-12,GEN ED,SCIENCE,Chemistry,-,4717,171,27.6
+13,K,09-12,GEN ED,SCIENCE,Physics,-,3188,99,32.2
+13,K,09-12,GEN ED,SCIENCE,Other Science,-,2207,82,26.9
+13,K,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,5826,217,26.8
+13,K,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,2771,99,28
+13,K,09-12,GEN ED,SOCIAL STUDIES,Economics,-,543,19,28.6
+13,K,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,1852,63,29.4
+13,K,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,1613,57,28.3
+13,K,09-12,CTT,ENGLISH,English 9,-,269,11,24.5
+13,K,09-12,CTT,ENGLISH,English 10,-,225,8,28.1
+13,K,09-12,CTT,ENGLISH,English 11,-,212,8,26.5
+13,K,09-12,CTT,ENGLISH,English 12,-,166,6,27.7
+13,K,09-12,CTT,ENGLISH,Other English,-,228,11,20.7
+13,K,09-12,CTT,MATH,Integrated Algebra,-,469,18,26.1
+13,K,09-12,CTT,MATH,Geometry,-,255,9,28.3
+13,K,09-12,CTT,MATH,Trigonometry,-,102,4,25.5
+13,K,09-12,CTT,MATH,Math A,-,26,2,13
+13,K,09-12,CTT,SCIENCE,Earth Science,-,212,7,30.3
+13,K,09-12,CTT,SCIENCE,Living Environment,-,535,20,26.8
+13,K,09-12,CTT,SCIENCE,Chemistry,-,269,8,33.6
+13,K,09-12,CTT,SCIENCE,Physics,-,24,1,24
+13,K,09-12,CTT,SCIENCE,Other Science,-,83,3,27.7
+13,K,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,524,19,27.6
+13,K,09-12,CTT,SOCIAL STUDIES,US History & Government,-,332,12,27.7
+13,K,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,133,5,26.6
+13,K,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,121,5,24.2
+13,K,09-12,SPEC ED,ENGLISH,English 9,-,39,3,13
+13,K,09-12,SPEC ED,ENGLISH,English 10,-,23,3,7.7
+13,K,09-12,SPEC ED,ENGLISH,English 11,-,21,2,10.5
+13,K,09-12,SPEC ED,ENGLISH,English 12,-,18,2,9
+13,K,09-12,SPEC ED,ENGLISH,MS English Core,-,25,2,12.5
+13,K,09-12,SPEC ED,ENGLISH,Other English,-,30,3,10
+13,K,09-12,SPEC ED,MATH,Integrated Algebra,-,61,5,12.2
+13,K,09-12,SPEC ED,MATH,Geometry,-,7,1,7
+13,K,09-12,SPEC ED,MATH,Trigonometry,-,22,2,11
+13,K,09-12,SPEC ED,MATH,Other Math,-,11,1,11
+13,K,09-12,SPEC ED,SCIENCE,Earth Science,-,21,2,10.5
+13,K,09-12,SPEC ED,SCIENCE,Living Environment,-,36,4,9
+13,K,09-12,SPEC ED,SCIENCE,Other Science,-,73,6,12.2
+13,K,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,59,6,9.8
+13,K,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,33,3,11
+13,K,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,37,3,12.3
+13,K,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,25,2,12.5
+14,K,0K,GEN ED,-,-,-,1077,54,19.9
+14,K,0K,CTT,-,-,-,141,7,20.1
+14,K,0K,G&T,-,-,-,7,1,7
+14,K,01,GEN ED,-,-,-,1167,55,21.2
+14,K,01,CTT,-,-,-,126,7,18
+14,K,01,G&T,-,-,-,26,1,26
+14,K,02,GEN ED,-,-,-,1157,51,22.7
+14,K,02,CTT,-,-,-,129,6,21.5
+14,K,02,G&T,-,-,-,18,1,18
+14,K,03,GEN ED,-,-,-,1087,50,21.7
+14,K,03,CTT,-,-,-,141,7,20.1
+14,K,03,G&T,-,-,-,21,1,21
+14,K,04,GEN ED,-,-,-,1110,49,22.7
+14,K,04,CTT,-,-,-,128,6,21.3
+14,K,05,GEN ED,-,-,-,1082,46,23.5
+14,K,05,CTT,-,-,-,99,4,24.8
+14,K,06,GEN ED,-,-,-,1136,41,27.7
+14,K,06,CTT,-,-,-,95,4,23.8
+14,K,07,GEN ED,-,-,-,1123,39,28.8
+14,K,07,CTT,-,-,-,181,8,22.6
+14,K,08,GEN ED,-,-,-,1149,41,28
+14,K,08,CTT,-,-,-,173,7,24.7
+14,K,0K-09,SPEC ED,-,-,12:1,153,15,10.2
+14,K,0K-09,SPEC ED,-,-,12:1:1,698,71,9.8
+14,K,0K-09,SPEC ED,-,-,15:1,12,1,12
+14,K,MS Core,GEN ED,ENGLISH,MS English Core,-,1790,72,24.9
+14,K,MS Core,GEN ED,MATH,MS Math Core,-,1782,69,25.8
+14,K,MS Core,GEN ED,MATH,Integrated Algebra,-,123,4,30.8
+14,K,MS Core,GEN ED,SCIENCE,MS Science Core,-,1708,66,25.9
+14,K,MS Core,GEN ED,SCIENCE,Other Science,-,173,7,24.7
+14,K,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,1742,68,25.6
+14,K,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,124,4,31
+14,K,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,80,3,26.7
+14,K,MS Core,CTT,ENGLISH,MS English Core,-,323,13,24.8
+14,K,MS Core,CTT,MATH,MS Math Core,-,308,12,25.7
+14,K,MS Core,CTT,MATH,Integrated Algebra,-,25,1,25
+14,K,MS Core,CTT,SCIENCE,MS Science Core,-,357,14,25.5
+14,K,MS Core,CTT,SCIENCE,Other Science,-,70,3,23.3
+14,K,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,308,12,25.7
+14,K,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,25,1,25
+14,K,MS Core,SPEC ED,ENGLISH,MS English Core,-,202,19,10.6
+14,K,MS Core,SPEC ED,MATH,MS Math Core,-,184,17,10.8
+14,K,MS Core,SPEC ED,SCIENCE,MS Science Core,-,182,17,10.7
+14,K,MS Core,SPEC ED,SCIENCE,Other Science,-,36,3,12
+14,K,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,184,17,10.8
+14,K,09-12,GEN ED,ENGLISH,English 9,-,1458,59,24.7
+14,K,09-12,GEN ED,ENGLISH,English 10,-,1330,49,27.1
+14,K,09-12,GEN ED,ENGLISH,English 11,-,1185,49,24.2
+14,K,09-12,GEN ED,ENGLISH,English 12,-,960,42,22.9
+14,K,09-12,GEN ED,ENGLISH,MS English Core,-,253,11,23
+14,K,09-12,GEN ED,ENGLISH,Other English,-,2210,84,26.3
+14,K,09-12,GEN ED,MATH,Integrated Algebra,-,2597,107,24.3
+14,K,09-12,GEN ED,MATH,Geometry,-,1576,62,25.4
+14,K,09-12,GEN ED,MATH,Trigonometry,-,630,25,25.2
+14,K,09-12,GEN ED,MATH,Math A,-,39,2,19.5
+14,K,09-12,GEN ED,MATH,Math B,-,87,2,43.5
+14,K,09-12,GEN ED,MATH,Other Math,-,606,25,24.2
+14,K,09-12,GEN ED,SCIENCE,Earth Science,-,2047,75,27.3
+14,K,09-12,GEN ED,SCIENCE,Living Environment,-,2747,107,25.7
+14,K,09-12,GEN ED,SCIENCE,Chemistry,-,1319,50,26.4
+14,K,09-12,GEN ED,SCIENCE,Physics,-,456,20,22.8
+14,K,09-12,GEN ED,SCIENCE,Other Science,-,942,36,26.2
+14,K,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,3271,127,25.8
+14,K,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,1782,73,24.4
+14,K,09-12,GEN ED,SOCIAL STUDIES,Economics,-,94,4,23.5
+14,K,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,652,24,27.2
+14,K,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,1117,43,26
+14,K,09-12,CTT,ENGLISH,English 9,-,495,22,22.5
+14,K,09-12,CTT,ENGLISH,English 10,-,424,16,26.5
+14,K,09-12,CTT,ENGLISH,English 11,-,378,15,25.2
+14,K,09-12,CTT,ENGLISH,English 12,-,156,5,31.2
+14,K,09-12,CTT,ENGLISH,MS English Core,-,15,1,15
+14,K,09-12,CTT,ENGLISH,Other English,-,499,20,25
+14,K,09-12,CTT,MATH,Integrated Algebra,-,1010,41,24.6
+14,K,09-12,CTT,MATH,Geometry,-,268,10,26.8
+14,K,09-12,CTT,MATH,Trigonometry,-,21,1,21
+14,K,09-12,CTT,MATH,Other Math,-,62,3,20.7
+14,K,09-12,CTT,SCIENCE,Earth Science,-,510,18,28.3
+14,K,09-12,CTT,SCIENCE,Living Environment,-,1036,41,25.3
+14,K,09-12,CTT,SCIENCE,Chemistry,-,112,5,22.4
+14,K,09-12,CTT,SCIENCE,Physics,-,26,1,26
+14,K,09-12,CTT,SCIENCE,Other Science,-,409,14,29.2
+14,K,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,1024,37,27.7
+14,K,09-12,CTT,SOCIAL STUDIES,US History & Government,-,517,21,24.6
+14,K,09-12,CTT,SOCIAL STUDIES,Economics,-,49,2,24.5
+14,K,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,144,5,28.8
+14,K,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,278,10,27.8
+14,K,09-12,SPEC ED,ENGLISH,English 9,-,40,3,13.3
+14,K,09-12,SPEC ED,ENGLISH,English 10,-,11,1,11
+14,K,09-12,SPEC ED,ENGLISH,English 11,-,11,1,11
+14,K,09-12,SPEC ED,ENGLISH,MS English Core,-,43,4,10.8
+14,K,09-12,SPEC ED,ENGLISH,Other English,-,45,4,11.3
+14,K,09-12,SPEC ED,MATH,Integrated Algebra,-,38,3,12.7
+14,K,09-12,SPEC ED,MATH,Other Math,-,10,1,10
+14,K,09-12,SPEC ED,SCIENCE,Living Environment,-,64,5,12.8
+14,K,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,24,2,12
+14,K,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,27,2,13.5
+15,K,0K,GEN ED,-,-,-,2218,94,23.6
+15,K,0K,CTT,-,-,-,453,21,21.6
+15,K,0K,G&T,-,-,-,55,3,18.3
+15,K,01,GEN ED,-,-,-,2313,101,22.9
+15,K,01,CTT,-,-,-,443,20,22.2
+15,K,01,G&T,-,-,-,56,3,18.7
+15,K,02,GEN ED,-,-,-,2076,91,22.8
+15,K,02,CTT,-,-,-,435,19,22.9
+15,K,02,G&T,-,-,-,24,1,24
+15,K,03,GEN ED,-,-,-,1972,85,23.2
+15,K,03,CTT,-,-,-,468,20,23.4
+15,K,03,G&T,-,-,-,25,1,25
+15,K,04,GEN ED,-,-,-,1829,75,24.4
+15,K,04,CTT,-,-,-,437,18,24.3
+15,K,04,G&T,-,-,-,47,2,23.5
+15,K,05,GEN ED,-,-,-,1760,72,24.4
+15,K,05,CTT,-,-,-,419,18,23.3
+15,K,05,G&T,-,-,-,60,3,20
+15,K,06,GEN ED,-,-,-,908,36,25.2
+15,K,06,CTT,-,-,-,437,19,23
+15,K,06,G&T,-,-,-,146,5,29.2
+15,K,07,GEN ED,-,-,-,1032,38,27.2
+15,K,07,CTT,-,-,-,426,18,23.7
+15,K,07,G&T,-,-,-,123,4,30.8
+15,K,08,GEN ED,-,-,-,1143,42,27.2
+15,K,08,CTT,-,-,-,365,16,22.8
+15,K,08,G&T,-,-,-,149,5,29.8
+15,K,0K-09,SPEC ED,-,-,12:1,260,25,10.4
+15,K,0K-09,SPEC ED,-,-,12:1:1,602,61,9.9
+15,K,0K-09,SPEC ED,-,-,8:1:1,12,1,12
+15,K,MS Core,GEN ED,ENGLISH,MS English Core,-,3541,133,26.6
+15,K,MS Core,GEN ED,MATH,MS Math Core,-,3082,119,25.9
+15,K,MS Core,GEN ED,MATH,Integrated Algebra,-,366,13,28.2
+15,K,MS Core,GEN ED,SCIENCE,MS Science Core,-,3187,121,26.3
+15,K,MS Core,GEN ED,SCIENCE,Earth Science,-,64,2,32
+15,K,MS Core,GEN ED,SCIENCE,Living Environment,-,215,10,21.5
+15,K,MS Core,GEN ED,SCIENCE,Other Science,-,232,8,29
+15,K,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,3344,124,27
+15,K,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,131,6,21.8
+15,K,MS Core,CTT,ENGLISH,MS English Core,-,1388,59,23.5
+15,K,MS Core,CTT,MATH,MS Math Core,-,1118,48,23.3
+15,K,MS Core,CTT,MATH,Trigonometry,-,20,1,20
+15,K,MS Core,CTT,SCIENCE,MS Science Core,-,1221,51,23.9
+15,K,MS Core,CTT,SCIENCE,Living Environment,-,23,1,23
+15,K,MS Core,CTT,SCIENCE,Other Science,-,393,16,24.6
+15,K,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,1259,52,24.2
+15,K,MS Core,SPEC ED,ENGLISH,MS English Core,-,246,24,10.3
+15,K,MS Core,SPEC ED,MATH,MS Math Core,-,183,18,10.2
+15,K,MS Core,SPEC ED,SCIENCE,MS Science Core,-,212,21,10.1
+15,K,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,201,20,10.1
+15,K,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,11,1,11
+15,K,09-12,GEN ED,ENGLISH,English 9,-,1055,41,25.7
+15,K,09-12,GEN ED,ENGLISH,English 10,-,1188,51,23.3
+15,K,09-12,GEN ED,ENGLISH,English 11,-,1018,44,23.1
+15,K,09-12,GEN ED,ENGLISH,English 12,-,774,32,24.2
+15,K,09-12,GEN ED,ENGLISH,Other English,-,1568,68,23.1
+15,K,09-12,GEN ED,MATH,Integrated Algebra,-,1688,74,22.8
+15,K,09-12,GEN ED,MATH,Geometry,-,1146,48,23.9
+15,K,09-12,GEN ED,MATH,Trigonometry,-,444,18,24.7
+15,K,09-12,GEN ED,MATH,Math A,-,62,3,20.7
+15,K,09-12,GEN ED,MATH,Other Math,-,471,22,21.4
+15,K,09-12,GEN ED,SCIENCE,Earth Science,-,1595,57,28
+15,K,09-12,GEN ED,SCIENCE,Living Environment,-,2020,77,26.2
+15,K,09-12,GEN ED,SCIENCE,Chemistry,-,700,25,28
+15,K,09-12,GEN ED,SCIENCE,Physics,-,424,16,26.5
+15,K,09-12,GEN ED,SCIENCE,Other Science,-,1062,47,22.6
+15,K,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,2392,91,26.3
+15,K,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,1189,49,24.3
+15,K,09-12,GEN ED,SOCIAL STUDIES,Economics,-,138,7,19.7
+15,K,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,629,27,23.3
+15,K,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,642,27,23.8
+15,K,09-12,CTT,ENGLISH,English 9,-,191,7,27.3
+15,K,09-12,CTT,ENGLISH,English 10,-,205,7,29.3
+15,K,09-12,CTT,ENGLISH,English 11,-,175,6,29.2
+15,K,09-12,CTT,ENGLISH,English 12,-,138,6,23
+15,K,09-12,CTT,ENGLISH,Other English,-,257,10,25.7
+15,K,09-12,CTT,MATH,Integrated Algebra,-,336,14,24
+15,K,09-12,CTT,MATH,Geometry,-,168,6,28
+15,K,09-12,CTT,MATH,Trigonometry,-,30,1,30
+15,K,09-12,CTT,MATH,Math A,-,31,1,31
+15,K,09-12,CTT,MATH,Other Math,-,37,2,18.5
+15,K,09-12,CTT,SCIENCE,Earth Science,-,283,10,28.3
+15,K,09-12,CTT,SCIENCE,Living Environment,-,281,11,25.5
+15,K,09-12,CTT,SCIENCE,Chemistry,-,57,2,28.5
+15,K,09-12,CTT,SCIENCE,Physics,-,31,1,31
+15,K,09-12,CTT,SCIENCE,Other Science,-,208,8,26
+15,K,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,361,12,30.1
+15,K,09-12,CTT,SOCIAL STUDIES,US History & Government,-,137,5,27.4
+15,K,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,90,4,22.5
+15,K,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,246,8,30.8
+15,K,09-12,SPEC ED,ENGLISH,English 9,-,23,3,7.7
+15,K,09-12,SPEC ED,ENGLISH,English 10,-,42,5,8.4
+15,K,09-12,SPEC ED,ENGLISH,English 11,-,19,2,9.5
+15,K,09-12,SPEC ED,ENGLISH,English 12,-,28,4,7
+15,K,09-12,SPEC ED,ENGLISH,Other English,-,76,7,10.9
+15,K,09-12,SPEC ED,MATH,Integrated Algebra,-,40,4,10
+15,K,09-12,SPEC ED,MATH,Geometry,-,25,2,12.5
+15,K,09-12,SPEC ED,MATH,Other Math,-,39,3,13
+15,K,09-12,SPEC ED,SCIENCE,Living Environment,-,30,3,10
+15,K,09-12,SPEC ED,SCIENCE,Other Science,-,105,9,11.7
+15,K,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,72,7,10.3
+15,K,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,26,3,8.7
+15,K,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,28,4,7
+16,K,0K,GEN ED,-,-,-,606,29,20.9
+16,K,0K,CTT,-,-,-,127,6,21.2
+16,K,0K,G&T,-,-,-,12,1,12
+16,K,01,GEN ED,-,-,-,608,30,20.3
+16,K,01,CTT,-,-,-,112,5,22.4
+16,K,01,G&T,-,-,-,38,2,19
+16,K,02,GEN ED,-,-,-,604,31,19.5
+16,K,02,CTT,-,-,-,120,6,20
+16,K,03,GEN ED,-,-,-,593,32,18.5
+16,K,03,CTT,-,-,-,82,5,16.4
+16,K,03,G&T,-,-,-,41,2,20.5
+16,K,04,GEN ED,-,-,-,641,30,21.4
+16,K,04,CTT,-,-,-,125,6,20.8
+16,K,04,G&T,-,-,-,41,2,20.5
+16,K,05,GEN ED,-,-,-,635,27,23.5
+16,K,05,CTT,-,-,-,104,5,20.8
+16,K,05,G&T,-,-,-,19,1,19
+16,K,06,GEN ED,-,-,-,395,17,23.2
+16,K,06,CTT,-,-,-,121,6,20.2
+16,K,07,GEN ED,-,-,-,387,17,22.8
+16,K,07,CTT,-,-,-,95,5,19
+16,K,08,GEN ED,-,-,-,466,20,23.3
+16,K,08,CTT,-,-,-,40,2,20
+16,K,0K-09,SPEC ED,-,-,12:1,90,9,10
+16,K,0K-09,SPEC ED,-,-,12:1:1,479,50,9.6
+16,K,MS Core,GEN ED,ENGLISH,MS English Core,-,756,33,22.9
+16,K,MS Core,GEN ED,MATH,MS Math Core,-,535,23,23.3
+16,K,MS Core,GEN ED,MATH,Integrated Algebra,-,27,1,27
+16,K,MS Core,GEN ED,SCIENCE,MS Science Core,-,478,21,22.8
+16,K,MS Core,GEN ED,SCIENCE,Living Environment,-,27,1,27
+16,K,MS Core,GEN ED,SCIENCE,Other Science,-,201,9,22.3
+16,K,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,524,23,22.8
+16,K,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,201,9,22.3
+16,K,MS Core,CTT,ENGLISH,MS English Core,-,153,7,21.9
+16,K,MS Core,CTT,MATH,MS Math Core,-,82,4,20.5
+16,K,MS Core,CTT,SCIENCE,MS Science Core,-,82,4,20.5
+16,K,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,82,4,20.5
+16,K,MS Core,SPEC ED,ENGLISH,MS English Core,-,53,5,10.6
+16,K,MS Core,SPEC ED,MATH,MS Math Core,-,42,4,10.5
+16,K,MS Core,SPEC ED,SCIENCE,MS Science Core,-,31,3,10.3
+16,K,MS Core,SPEC ED,SCIENCE,Other Science,-,11,1,11
+16,K,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,42,4,10.5
+16,K,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,11,1,11
+16,K,09-12,GEN ED,ENGLISH,English 9,-,721,32,22.5
+16,K,09-12,GEN ED,ENGLISH,English 10,-,796,26,30.6
+16,K,09-12,GEN ED,ENGLISH,English 11,-,621,21,29.6
+16,K,09-12,GEN ED,ENGLISH,English 12,-,553,20,27.7
+16,K,09-12,GEN ED,ENGLISH,MS English Core,-,353,18,19.6
+16,K,09-12,GEN ED,ENGLISH,Other English,-,285,12,23.8
+21,K,07,GEN ED,-,-,-,1314,48,27.4
+16,K,09-12,GEN ED,MATH,Integrated Algebra,-,987,40,24.7
+16,K,09-12,GEN ED,MATH,Geometry,-,841,36,23.4
+16,K,09-12,GEN ED,MATH,Math A,-,434,19,22.8
+16,K,09-12,GEN ED,MATH,Other Math,-,266,11,24.2
+16,K,09-12,GEN ED,SCIENCE,Earth Science,-,433,17,25.5
+16,K,09-12,GEN ED,SCIENCE,Living Environment,-,1479,55,26.9
+16,K,09-12,GEN ED,SCIENCE,Chemistry,-,131,6,21.8
+16,K,09-12,GEN ED,SCIENCE,Physics,-,13,1,13
+16,K,09-12,GEN ED,SCIENCE,Other Science,-,197,8,24.6
+16,K,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,1075,42,25.6
+16,K,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,873,31,28.2
+16,K,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,66,2,33
+16,K,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,295,12,24.6
+16,K,09-12,CTT,ENGLISH,English 9,-,88,4,22
+16,K,09-12,CTT,ENGLISH,English 10,-,250,9,27.8
+16,K,09-12,CTT,ENGLISH,English 11,-,87,3,29
+16,K,09-12,CTT,ENGLISH,English 12,-,102,5,20.4
+16,K,09-12,CTT,ENGLISH,MS English Core,-,12,1,12
+16,K,09-12,CTT,ENGLISH,Other English,-,182,7,26
+16,K,09-12,CTT,MATH,Integrated Algebra,-,299,12,24.9
+16,K,09-12,CTT,MATH,Geometry,-,195,6,32.5
+16,K,09-12,CTT,MATH,Math A,-,93,5,18.6
+16,K,09-12,CTT,SCIENCE,Earth Science,-,111,4,27.8
+16,K,09-12,CTT,SCIENCE,Living Environment,-,427,16,26.7
+16,K,09-12,CTT,SCIENCE,Other Science,-,28,1,28
+16,K,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,328,13,25.2
+16,K,09-12,CTT,SOCIAL STUDIES,US History & Government,-,151,5,30.2
+16,K,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,30,1,30
+16,K,09-12,SPEC ED,ENGLISH,English 9,-,130,9,14.4
+16,K,09-12,SPEC ED,ENGLISH,English 10,-,22,2,11
+16,K,09-12,SPEC ED,ENGLISH,English 11,-,66,5,13.2
+16,K,09-12,SPEC ED,ENGLISH,English 12,-,17,2,8.5
+16,K,09-12,SPEC ED,ENGLISH,MS English Core,-,21,2,10.5
+16,K,09-12,SPEC ED,ENGLISH,Other English,-,27,3,9
+16,K,09-12,SPEC ED,MATH,Integrated Algebra,-,194,16,12.1
+16,K,09-12,SPEC ED,MATH,Math A,-,99,7,14.1
+16,K,09-12,SPEC ED,MATH,Math B,-,11,1,11
+16,K,09-12,SPEC ED,MATH,Other Math,-,11,1,11
+16,K,09-12,SPEC ED,SCIENCE,Living Environment,-,157,12,13.1
+16,K,09-12,SPEC ED,SCIENCE,Other Science,-,36,3,12
+16,K,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,99,7,14.1
+16,K,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,86,8,10.8
+16,K,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,24,2,12
+17,K,0K,GEN ED,-,-,-,1373,60,22.9
+17,K,0K,CTT,-,-,-,241,13,18.5
+17,K,0K,G&T,-,-,-,12,1,12
+17,K,01,GEN ED,-,-,-,1592,72,22.1
+17,K,01,CTT,-,-,-,193,10,19.3
+17,K,01,G&T,-,-,-,23,1,23
+17,K,02,GEN ED,-,-,-,1618,68,23.8
+17,K,02,CTT,-,-,-,238,11,21.6
+17,K,02,G&T,-,-,-,23,1,23
+17,K,03,GEN ED,-,-,-,1516,65,23.3
+17,K,03,CTT,-,-,-,271,11,24.6
+17,K,03,G&T,-,-,-,42,2,21
+17,K,04,GEN ED,-,-,-,1504,60,25.1
+17,K,04,CTT,-,-,-,253,10,25.3
+17,K,04,G&T,-,-,-,49,2,24.5
+17,K,05,GEN ED,-,-,-,1384,54,25.6
+17,K,05,CTT,-,-,-,254,11,23.1
+17,K,05,G&T,-,-,-,52,2,26
+17,K,06,GEN ED,-,-,-,1632,64,25.5
+17,K,06,CTT,-,-,-,275,12,22.9
+17,K,06,G&T,-,-,-,55,2,27.5
+17,K,07,GEN ED,-,-,-,1580,61,25.9
+17,K,07,CTT,-,-,-,340,15,22.7
+17,K,07,G&T,-,-,-,30,1,30
+17,K,08,GEN ED,-,-,-,1619,62,26.1
+17,K,08,CTT,-,-,-,316,13,24.3
+17,K,08,G&T,-,-,-,30,1,30
+17,K,0K-09,SPEC ED,-,-,12:1,268,29,9.2
+17,K,0K-09,SPEC ED,-,-,12:1:1,781,85,9.2
+17,K,MS Core,GEN ED,ENGLISH,MS English Core,-,6418,248,25.9
+17,K,MS Core,GEN ED,MATH,MS Math Core,-,4297,169,25.4
+17,K,MS Core,GEN ED,MATH,Integrated Algebra,-,388,16,24.3
+17,K,MS Core,GEN ED,MATH,Geometry,-,48,2,24
+17,K,MS Core,GEN ED,SCIENCE,MS Science Core,-,4290,170,25.2
+17,K,MS Core,GEN ED,SCIENCE,Living Environment,-,558,20,27.9
+17,K,MS Core,GEN ED,SCIENCE,Other Science,-,368,13,28.3
+17,K,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,4517,177,25.5
+17,K,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,338,12,28.2
+18,K,09-12,CTT,MATH,Geometry,-,209,9,23.2
+17,K,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,133,5,26.6
+17,K,MS Core,CTT,ENGLISH,MS English Core,-,1018,43,23.7
+17,K,MS Core,CTT,MATH,MS Math Core,-,970,41,23.7
+17,K,MS Core,CTT,SCIENCE,MS Science Core,-,789,34,23.2
+17,K,MS Core,CTT,SCIENCE,Other Science,-,111,4,27.8
+17,K,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,798,34,23.5
+17,K,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,25,1,25
+17,K,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,31,1,31
+17,K,MS Core,SPEC ED,ENGLISH,MS English Core,-,316,28,11.3
+17,K,MS Core,SPEC ED,MATH,MS Math Core,-,240,21,11.4
+17,K,MS Core,SPEC ED,SCIENCE,MS Science Core,-,267,24,11.1
+17,K,MS Core,SPEC ED,SCIENCE,Other Science,-,23,2,11.5
+17,K,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,270,24,11.3
+17,K,MS Core,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,11,1,11
+17,K,09-12,GEN ED,ENGLISH,English 9,-,1668,64,26.1
+17,K,09-12,GEN ED,ENGLISH,English 10,-,1679,63,26.7
+17,K,09-12,GEN ED,ENGLISH,English 11,-,2288,90,25.4
+17,K,09-12,GEN ED,ENGLISH,English 12,-,1650,65,25.4
+17,K,09-12,GEN ED,ENGLISH,MS English Core,-,239,9,26.6
+17,K,09-12,GEN ED,ENGLISH,Other English,-,2319,98,23.7
+17,K,09-12,GEN ED,MATH,Integrated Algebra,-,2637,113,23.3
+17,K,09-12,GEN ED,MATH,Geometry,-,2229,86,25.9
+17,K,09-12,GEN ED,MATH,Trigonometry,-,735,27,27.2
+17,K,09-12,GEN ED,MATH,Math A,-,35,2,17.5
+17,K,09-12,GEN ED,MATH,Other Math,-,568,28,20.3
+17,K,09-12,GEN ED,SCIENCE,Earth Science,-,2340,86,27.2
+17,K,09-12,GEN ED,SCIENCE,Living Environment,-,3948,156,25.3
+17,K,09-12,GEN ED,SCIENCE,Chemistry,-,1809,70,25.8
+17,K,09-12,GEN ED,SCIENCE,Physics,-,1123,43,26.1
+17,K,09-12,GEN ED,SCIENCE,Other Science,-,1902,80,23.8
+17,K,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,4392,174,25.2
+17,K,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,1658,65,25.5
+17,K,09-12,GEN ED,SOCIAL STUDIES,Economics,-,432,16,27
+17,K,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,888,33,26.9
+17,K,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,760,31,24.5
+17,K,09-12,CTT,ENGLISH,English 9,-,281,13,21.6
+17,K,09-12,CTT,ENGLISH,English 10,-,283,11,25.7
+17,K,09-12,CTT,ENGLISH,English 11,-,245,9,27.2
+17,K,09-12,CTT,ENGLISH,English 12,-,278,10,27.8
+17,K,09-12,CTT,ENGLISH,MS English Core,-,69,3,23
+17,K,09-12,CTT,ENGLISH,Other English,-,381,15,25.4
+17,K,09-12,CTT,MATH,Integrated Algebra,-,637,26,24.5
+17,K,09-12,CTT,MATH,Geometry,-,212,8,26.5
+17,K,09-12,CTT,MATH,Trigonometry,-,32,1,32
+17,K,09-12,CTT,MATH,Other Math,-,32,1,32
+17,K,09-12,CTT,SCIENCE,Earth Science,-,344,12,28.7
+17,K,09-12,CTT,SCIENCE,Living Environment,-,1255,47,26.7
+17,K,09-12,CTT,SCIENCE,Chemistry,-,52,2,26
+17,K,09-12,CTT,SCIENCE,Physics,-,15,1,15
+17,K,09-12,CTT,SCIENCE,Other Science,-,213,9,23.7
+17,K,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,968,36,26.9
+17,K,09-12,CTT,SOCIAL STUDIES,US History & Government,-,91,4,22.8
+17,K,09-12,CTT,SOCIAL STUDIES,Economics,-,62,2,31
+17,K,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,108,4,27
+17,K,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,88,4,22
+17,K,09-12,SPEC ED,ENGLISH,English 10,-,16,1,16
+17,K,09-12,SPEC ED,ENGLISH,English 11,-,27,2,13.5
+17,K,09-12,SPEC ED,ENGLISH,English 12,-,19,2,9.5
+17,K,09-12,SPEC ED,ENGLISH,MS English Core,-,63,5,12.6
+17,K,09-12,SPEC ED,ENGLISH,Other English,-,32,3,10.7
+17,K,09-12,SPEC ED,MATH,Integrated Algebra,-,23,2,11.5
+17,K,09-12,SPEC ED,MATH,Geometry,-,14,1,14
+17,K,09-12,SPEC ED,SCIENCE,Earth Science,-,12,1,12
+17,K,09-12,SPEC ED,SCIENCE,Living Environment,-,68,5,13.6
+17,K,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,27,2,13.5
+17,K,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,14,1,14
+18,K,0K,GEN ED,-,-,-,1089,51,21.4
+18,K,0K,CTT,-,-,-,138,8,17.3
+18,K,0K,G&T,-,-,-,15,1,15
+18,K,01,GEN ED,-,-,-,1321,57,23.2
+18,K,01,CTT,-,-,-,107,5,21.4
+18,K,01,G&T,-,-,-,31,1,31
+18,K,02,GEN ED,-,-,-,1322,55,24
+18,K,02,CTT,-,-,-,204,10,20.4
+18,K,02,G&T,-,-,-,27,1,27
+18,K,03,GEN ED,-,-,-,1389,55,25.3
+18,K,03,CTT,-,-,-,127,5,25.4
+18,K,03,G&T,-,-,-,60,3,20
+18,K,04,GEN ED,-,-,-,1341,52,25.8
+18,K,04,CTT,-,-,-,193,8,24.1
+18,K,04,G&T,-,-,-,75,3,25
+18,K,05,GEN ED,-,-,-,1347,53,25.4
+18,K,05,CTT,-,-,-,99,4,24.8
+18,K,05,G&T,-,-,-,98,4,24.5
+18,K,06,GEN ED,-,-,-,1137,42,27.1
+18,K,06,CTT,-,-,-,176,8,22
+18,K,06,G&T,-,-,-,50,2,25
+18,K,07,GEN ED,-,-,-,1153,43,26.8
+18,K,07,CTT,-,-,-,170,7,24.3
+18,K,07,G&T,-,-,-,49,2,24.5
+18,K,08,GEN ED,-,-,-,1134,42,27
+18,K,08,CTT,-,-,-,111,5,22.2
+18,K,08,G&T,-,-,-,30,1,30
+18,K,0K-09,SPEC ED,-,-,12:1,162,17,9.5
+18,K,0K-09,SPEC ED,-,-,12:1:1,631,66,9.6
+18,K,MS Core,GEN ED,ENGLISH,MS English Core,-,3692,139,26.6
+18,K,MS Core,GEN ED,MATH,MS Math Core,-,3423,128,26.7
+18,K,MS Core,GEN ED,MATH,Integrated Algebra,-,255,8,31.9
+18,K,MS Core,GEN ED,SCIENCE,MS Science Core,-,3057,114,26.8
+18,K,MS Core,GEN ED,SCIENCE,Earth Science,-,308,11,28
+18,K,MS Core,GEN ED,SCIENCE,Living Environment,-,347,13,26.7
+18,K,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,3231,121,26.7
+18,K,MS Core,CTT,ENGLISH,MS English Core,-,386,17,22.7
+18,K,MS Core,CTT,MATH,MS Math Core,-,419,18,23.3
+18,K,MS Core,CTT,SCIENCE,MS Science Core,-,359,15,23.9
+18,K,MS Core,CTT,SCIENCE,Earth Science,-,25,1,25
+18,K,MS Core,CTT,SCIENCE,Living Environment,-,69,3,23
+18,K,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,343,15,22.9
+18,K,MS Core,SPEC ED,ENGLISH,MS English Core,-,134,13,10.3
+18,K,MS Core,SPEC ED,MATH,MS Math Core,-,146,14,10.4
+18,K,MS Core,SPEC ED,SCIENCE,MS Science Core,-,142,14,10.1
+18,K,MS Core,SPEC ED,SCIENCE,Living Environment,-,11,1,11
+18,K,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,145,14,10.4
+18,K,09-12,GEN ED,ENGLISH,English 9,-,573,26,22
+18,K,09-12,GEN ED,ENGLISH,English 10,-,580,25,23.2
+18,K,09-12,GEN ED,ENGLISH,English 11,-,687,33,20.8
+18,K,09-12,GEN ED,ENGLISH,English 12,-,389,17,22.9
+18,K,09-12,GEN ED,ENGLISH,MS English Core,-,103,5,20.6
+18,K,09-12,GEN ED,ENGLISH,Other English,-,934,43,21.7
+18,K,09-12,GEN ED,MATH,Integrated Algebra,-,752,38,19.8
+18,K,09-12,GEN ED,MATH,Geometry,-,668,30,22.3
+18,K,09-12,GEN ED,MATH,Trigonometry,-,307,17,18.1
+18,K,09-12,GEN ED,MATH,Math A,-,154,7,22
+18,K,09-12,GEN ED,MATH,Math B,-,32,1,32
+18,K,09-12,GEN ED,MATH,Other Math,-,227,11,20.6
+18,K,09-12,GEN ED,SCIENCE,Earth Science,-,731,34,21.5
+18,K,09-12,GEN ED,SCIENCE,Living Environment,-,848,37,22.9
+18,K,09-12,GEN ED,SCIENCE,Chemistry,-,455,16,28.4
+18,K,09-12,GEN ED,SCIENCE,Physics,-,435,21,20.7
+18,K,09-12,GEN ED,SCIENCE,Other Science,-,825,38,21.7
+18,K,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,1339,64,20.9
+18,K,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,606,28,21.6
+18,K,09-12,GEN ED,SOCIAL STUDIES,Economics,-,384,17,22.6
+18,K,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,244,12,20.3
+18,K,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,882,36,24.5
+18,K,09-12,CTT,ENGLISH,English 9,-,308,17,18.1
+18,K,09-12,CTT,ENGLISH,English 10,-,275,12,22.9
+18,K,09-12,CTT,ENGLISH,English 11,-,230,9,25.6
+18,K,09-12,CTT,ENGLISH,English 12,-,30,1,30
+18,K,09-12,CTT,ENGLISH,MS English Core,-,103,5,20.6
+18,K,09-12,CTT,ENGLISH,Other English,-,503,21,24
+18,K,09-12,CTT,MATH,Integrated Algebra,-,614,27,22.7
+18,K,09-12,CTT,MATH,Trigonometry,-,34,2,17
+18,K,09-12,CTT,MATH,Math A,-,56,2,28
+18,K,09-12,CTT,SCIENCE,Earth Science,-,233,11,21.2
+18,K,09-12,CTT,SCIENCE,Living Environment,-,503,20,25.2
+18,K,09-12,CTT,SCIENCE,Chemistry,-,97,4,24.3
+18,K,09-12,CTT,SCIENCE,Physics,-,127,6,21.2
+18,K,09-12,CTT,SCIENCE,Other Science,-,434,19,22.8
+18,K,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,667,30,22.2
+18,K,09-12,CTT,SOCIAL STUDIES,US History & Government,-,349,15,23.3
+18,K,09-12,CTT,SOCIAL STUDIES,Economics,-,73,3,24.3
+18,K,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,32,1,32
+18,K,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,166,6,27.7
+18,K,09-12,SPEC ED,ENGLISH,Other English,-,22,2,11
+18,K,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,12,1,12
+19,K,0K,GEN ED,-,-,-,1689,80,21.1
+19,K,0K,CTT,-,-,-,203,10,20.3
+19,K,01,GEN ED,-,-,-,1851,86,21.5
+19,K,01,CTT,-,-,-,173,8,21.6
+19,K,02,GEN ED,-,-,-,1825,83,22
+19,K,02,CTT,-,-,-,165,8,20.6
+19,K,03,GEN ED,-,-,-,1853,83,22.3
+19,K,03,CTT,-,-,-,152,7,21.7
+19,K,03,G&T,-,-,-,25,1,25
+19,K,04,GEN ED,-,-,-,1818,81,22.4
+19,K,04,CTT,-,-,-,172,8,21.5
+19,K,04,G&T,-,-,-,24,1,24
+19,K,05,GEN ED,-,-,-,1729,75,23.1
+19,K,05,CTT,-,-,-,117,5,23.4
+19,K,05,G&T,-,-,-,24,1,24
+19,K,06,GEN ED,-,-,-,1530,58,26.4
+19,K,06,CTT,-,-,-,146,7,20.9
+19,K,06,G&T,-,-,-,27,1,27
+19,K,07,GEN ED,-,-,-,1488,53,28.1
+19,K,07,CTT,-,-,-,180,7,25.7
+19,K,08,GEN ED,-,-,-,1670,62,26.9
+19,K,08,CTT,-,-,-,115,5,23
+19,K,09,GEN ED,-,-,-,79,6,13.2
+19,K,0K-09,SPEC ED,-,-,12:1,403,37,10.9
+19,K,0K-09,SPEC ED,-,-,12:1:1,771,74,10.4
+19,K,MS Core,GEN ED,ENGLISH,MS English Core,-,4366,161,27.1
+19,K,MS Core,GEN ED,MATH,MS Math Core,-,4091,151,27.1
+19,K,MS Core,GEN ED,MATH,Integrated Algebra,-,94,3,31.3
+19,K,MS Core,GEN ED,SCIENCE,MS Science Core,-,3773,140,27
+19,K,MS Core,GEN ED,SCIENCE,Earth Science,-,98,3,32.7
+19,K,MS Core,GEN ED,SCIENCE,Living Environment,-,24,1,24
+19,K,MS Core,GEN ED,SCIENCE,Chemistry,-,10,1,10
+19,K,MS Core,GEN ED,SCIENCE,Other Science,-,183,8,22.9
+19,K,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,3664,134,27.3
+19,K,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,221,8,27.6
+19,K,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,194,8,24.3
+19,K,MS Core,CTT,ENGLISH,MS English Core,-,460,17,27.1
+19,K,MS Core,CTT,MATH,MS Math Core,-,259,11,23.5
+19,K,MS Core,CTT,MATH,Integrated Algebra,-,28,1,28
+19,K,MS Core,CTT,MATH,Math A,-,26,1,26
+19,K,MS Core,CTT,MATH,Math B,-,33,1,33
+19,K,MS Core,CTT,SCIENCE,MS Science Core,-,263,11,23.9
+19,K,MS Core,CTT,SCIENCE,Earth Science,-,28,1,28
+19,K,MS Core,CTT,SCIENCE,Living Environment,-,33,1,33
+19,K,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,239,10,23.9
+19,K,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,86,3,28.7
+19,K,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,26,1,26
+19,K,MS Core,SPEC ED,ENGLISH,MS English Core,-,253,22,11.5
+19,K,MS Core,SPEC ED,MATH,MS Math Core,-,183,16,11.4
+19,K,MS Core,SPEC ED,MATH,Integrated Algebra,-,10,1,10
+19,K,MS Core,SPEC ED,MATH,Math A,-,22,2,11
+19,K,MS Core,SPEC ED,MATH,Math B,-,12,1,12
+19,K,MS Core,SPEC ED,SCIENCE,MS Science Core,-,206,18,11.4
+19,K,MS Core,SPEC ED,SCIENCE,Earth Science,-,10,1,10
+19,K,MS Core,SPEC ED,SCIENCE,Other Science,-,25,2,12.5
+19,K,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,173,15,11.5
+19,K,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,46,4,11.5
+19,K,09-12,GEN ED,ENGLISH,English 9,-,1127,51,22.1
+19,K,09-12,GEN ED,ENGLISH,English 10,-,1096,44,24.9
+19,K,09-12,GEN ED,ENGLISH,English 11,-,1249,50,25
+19,K,09-12,GEN ED,ENGLISH,English 12,-,822,32,25.7
+19,K,09-12,GEN ED,ENGLISH,MS English Core,-,58,3,19.3
+19,K,09-12,GEN ED,ENGLISH,Other English,-,847,36,23.5
+19,K,09-12,GEN ED,MATH,Integrated Algebra,-,1846,75,24.6
+19,K,09-12,GEN ED,MATH,Geometry,-,1184,50,23.7
+19,K,09-12,GEN ED,MATH,Trigonometry,-,749,29,25.8
+19,K,09-12,GEN ED,MATH,Other Math,-,127,7,18.1
+19,K,09-12,GEN ED,SCIENCE,Earth Science,-,1042,38,27.4
+19,K,09-12,GEN ED,SCIENCE,Living Environment,-,1922,78,24.6
+19,K,09-12,GEN ED,SCIENCE,Chemistry,-,964,38,25.4
+19,K,09-12,GEN ED,SCIENCE,Physics,-,172,7,24.6
+19,K,09-12,GEN ED,SCIENCE,Other Science,-,1343,59,22.8
+19,K,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,2304,90,25.6
+19,K,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,1642,62,26.5
+19,K,09-12,GEN ED,SOCIAL STUDIES,Economics,-,19,1,19
+19,K,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,612,23,26.6
+19,K,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,374,21,17.8
+19,K,09-12,CTT,ENGLISH,English 9,-,291,12,24.3
+19,K,09-12,CTT,ENGLISH,English 10,-,326,13,25.1
+19,K,09-12,CTT,ENGLISH,English 11,-,332,11,30.2
+19,K,09-12,CTT,ENGLISH,English 12,-,139,5,27.8
+19,K,09-12,CTT,ENGLISH,MS English Core,-,22,1,22
+19,K,09-12,CTT,ENGLISH,Other English,-,109,5,21.8
+19,K,09-12,CTT,MATH,Integrated Algebra,-,738,28,26.4
+19,K,09-12,CTT,MATH,Geometry,-,173,8,21.6
+19,K,09-12,CTT,MATH,Trigonometry,-,26,1,26
+19,K,09-12,CTT,MATH,Math A,-,42,2,21
+19,K,09-12,CTT,SCIENCE,Earth Science,-,468,17,27.5
+19,K,09-12,CTT,SCIENCE,Living Environment,-,672,25,26.9
+19,K,09-12,CTT,SCIENCE,Chemistry,-,111,5,22.2
+19,K,09-12,CTT,SCIENCE,Other Science,-,240,9,26.7
+19,K,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,685,28,24.5
+19,K,09-12,CTT,SOCIAL STUDIES,US History & Government,-,367,13,28.2
+19,K,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,232,8,29
+19,K,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,72,3,24
+19,K,09-12,SPEC ED,ENGLISH,English 9,-,37,4,9.3
+19,K,09-12,SPEC ED,ENGLISH,English 10,-,39,5,7.8
+19,K,09-12,SPEC ED,ENGLISH,English 11,-,29,3,9.7
+19,K,09-12,SPEC ED,ENGLISH,English 12,-,18,2,9
+19,K,09-12,SPEC ED,ENGLISH,Other English,-,50,4,12.5
+19,K,09-12,SPEC ED,MATH,Integrated Algebra,-,64,8,8
+19,K,09-12,SPEC ED,MATH,Geometry,-,25,2,12.5
+19,K,09-12,SPEC ED,MATH,Trigonometry,-,10,1,10
+19,K,09-12,SPEC ED,SCIENCE,Earth Science,-,17,3,5.7
+19,K,09-12,SPEC ED,SCIENCE,Living Environment,-,106,11,9.6
+19,K,09-12,SPEC ED,SCIENCE,Other Science,-,32,3,10.7
+19,K,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,96,10,9.6
+19,K,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,34,4,8.5
+20,K,0K,GEN ED,-,-,-,2933,125,23.5
+20,K,0K,CTT,-,-,-,470,22,21.4
+20,K,0K,G&T,-,-,-,149,7,21.3
+20,K,01,GEN ED,-,-,-,3121,126,24.8
+20,K,01,CTT,-,-,-,373,15,24.9
+20,K,01,G&T,-,-,-,143,6,23.8
+20,K,02,GEN ED,-,-,-,2953,119,24.8
+20,K,02,CTT,-,-,-,340,14,24.3
+20,K,02,G&T,-,-,-,101,4,25.3
+20,K,03,GEN ED,-,-,-,2667,104,25.6
+20,K,03,CTT,-,-,-,342,14,24.4
+20,K,03,G&T,-,-,-,163,7,23.3
+20,K,04,GEN ED,-,-,-,2493,91,27.4
+20,K,04,CTT,-,-,-,314,12,26.2
+20,K,04,G&T,-,-,-,146,6,24.3
+20,K,05,GEN ED,-,-,-,2582,90,28.7
+20,K,05,CTT,-,-,-,303,11,27.5
+20,K,05,G&T,-,-,-,191,7,27.3
+20,K,06,GEN ED,-,-,-,2274,81,28.1
+20,K,06,CTT,-,-,-,527,20,26.4
+20,K,06,G&T,-,-,-,424,15,28.3
+20,K,07,GEN ED,-,-,-,2488,91,27.3
+20,K,07,CTT,-,-,-,369,14,26.4
+20,K,07,G&T,-,-,-,372,13,28.6
+20,K,08,GEN ED,-,-,-,2489,87,28.6
+20,K,08,CTT,-,-,-,410,16,25.6
+20,K,08,G&T,-,-,-,362,12,30.2
+20,K,09,GEN ED,-,-,-,86,4,21.5
+20,K,0K-09,SPEC ED,-,-,12:1,293,28,10.5
+20,K,0K-09,SPEC ED,-,-,12:1:1,902,90,10
+20,K,MS Core,GEN ED,ENGLISH,MS English Core,-,8480,315,26.9
+20,K,MS Core,GEN ED,MATH,MS Math Core,-,7555,273,27.7
+20,K,MS Core,GEN ED,MATH,Integrated Algebra,-,594,21,28.3
+20,K,MS Core,GEN ED,MATH,Geometry,-,21,1,21
+20,K,MS Core,GEN ED,MATH,Trigonometry,-,65,3,21.7
+20,K,MS Core,GEN ED,SCIENCE,MS Science Core,-,7547,271,27.8
+20,K,MS Core,GEN ED,SCIENCE,Earth Science,-,302,10,30.2
+20,K,MS Core,GEN ED,SCIENCE,Living Environment,-,293,11,26.6
+20,K,MS Core,GEN ED,SCIENCE,Physics,-,28,1,28
+20,K,MS Core,GEN ED,SCIENCE,Other Science,-,471,16,29.4
+20,K,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,7867,282,27.9
+20,K,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,209,8,26.1
+20,K,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,30,1,30
+20,K,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,836,29,28.8
+20,K,MS Core,CTT,ENGLISH,MS English Core,-,1255,49,25.6
+20,K,MS Core,CTT,MATH,MS Math Core,-,1140,43,26.5
+20,K,MS Core,CTT,SCIENCE,MS Science Core,-,1191,45,26.5
+20,K,MS Core,CTT,SCIENCE,Other Science,-,23,1,23
+20,K,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,1163,44,26.4
+20,K,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,103,4,25.8
+20,K,MS Core,SPEC ED,ENGLISH,MS English Core,-,326,29,11.2
+20,K,MS Core,SPEC ED,MATH,MS Math Core,-,328,30,10.9
+20,K,MS Core,SPEC ED,SCIENCE,MS Science Core,-,292,26,11.2
+20,K,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,306,29,10.6
+20,K,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,53,5,10.6
+20,K,09-12,GEN ED,ENGLISH,English 9,-,1826,68,26.9
+20,K,09-12,GEN ED,ENGLISH,English 10,-,1946,71,27.4
+20,K,09-12,GEN ED,ENGLISH,English 11,-,1855,66,28.1
+20,K,09-12,GEN ED,ENGLISH,English 12,-,1985,72,27.6
+20,K,09-12,GEN ED,ENGLISH,MS English Core,-,378,14,27
+20,K,09-12,GEN ED,ENGLISH,Other English,-,1670,69,24.2
+20,K,09-12,GEN ED,MATH,Integrated Algebra,-,3379,114,29.6
+20,K,09-12,GEN ED,MATH,Geometry,-,2649,88,30.1
+20,K,09-12,GEN ED,MATH,Trigonometry,-,1678,53,31.7
+20,K,09-12,GEN ED,MATH,Math A,-,1563,56,27.9
+20,K,09-12,GEN ED,MATH,Math B,-,96,4,24
+20,K,09-12,GEN ED,MATH,Other Math,-,482,18,26.8
+20,K,09-12,GEN ED,SCIENCE,Earth Science,-,1988,66,30.1
+21,K,01,CTT,-,-,-,338,14,24.1
+20,K,09-12,GEN ED,SCIENCE,Living Environment,-,4100,142,28.9
+20,K,09-12,GEN ED,SCIENCE,Chemistry,-,2796,94,29.7
+20,K,09-12,GEN ED,SCIENCE,Physics,-,750,27,27.8
+20,K,09-12,GEN ED,SCIENCE,Other Science,-,1461,50,29.2
+20,K,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,6083,204,29.8
+20,K,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,2965,98,30.3
+20,K,09-12,GEN ED,SOCIAL STUDIES,Economics,-,490,18,27.2
+20,K,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,1053,36,29.3
+20,K,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,416,16,26
+20,K,09-12,CTT,ENGLISH,English 9,-,285,10,28.5
+20,K,09-12,CTT,ENGLISH,English 10,-,361,13,27.8
+20,K,09-12,CTT,ENGLISH,English 11,-,218,9,24.2
+20,K,09-12,CTT,ENGLISH,English 12,-,220,9,24.4
+20,K,09-12,CTT,ENGLISH,MS English Core,-,134,5,26.8
+20,K,09-12,CTT,ENGLISH,Other English,-,306,12,25.5
+20,K,09-12,CTT,MATH,Integrated Algebra,-,662,26,25.5
+20,K,09-12,CTT,MATH,Geometry,-,106,4,26.5
+20,K,09-12,CTT,MATH,Trigonometry,-,43,2,21.5
+20,K,09-12,CTT,MATH,Math A,-,34,1,34
+20,K,09-12,CTT,SCIENCE,Earth Science,-,262,8,32.8
+20,K,09-12,CTT,SCIENCE,Living Environment,-,684,22,31.1
+20,K,09-12,CTT,SCIENCE,Chemistry,-,29,1,29
+20,K,09-12,CTT,SCIENCE,Other Science,-,343,14,24.5
+20,K,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,775,25,31
+20,K,09-12,CTT,SOCIAL STUDIES,US History & Government,-,238,8,29.8
+20,K,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,203,7,29
+20,K,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,98,4,24.5
+20,K,09-12,SPEC ED,ENGLISH,English 9,-,121,10,12.1
+20,K,09-12,SPEC ED,ENGLISH,English 10,-,80,6,13.3
+20,K,09-12,SPEC ED,ENGLISH,English 11,-,63,5,12.6
+20,K,09-12,SPEC ED,ENGLISH,English 12,-,56,4,14
+20,K,09-12,SPEC ED,ENGLISH,MS English Core,-,149,13,11.5
+20,K,09-12,SPEC ED,ENGLISH,Other English,-,7,1,7
+20,K,09-12,SPEC ED,MATH,Integrated Algebra,-,270,22,12.3
+20,K,09-12,SPEC ED,MATH,Geometry,-,6,1,6
+20,K,09-12,SPEC ED,MATH,Math B,-,23,2,11.5
+20,K,09-12,SPEC ED,SCIENCE,Earth Science,-,65,5,13
+20,K,09-12,SPEC ED,SCIENCE,Living Environment,-,254,19,13.4
+20,K,09-12,SPEC ED,SCIENCE,Other Science,-,162,16,10.1
+20,K,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,296,23,12.9
+20,K,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,98,8,12.3
+20,K,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,62,5,12.4
+21,K,0K,GEN ED,-,-,-,1585,70,22.6
+21,K,0K,CTT,-,-,-,378,18,21
+21,K,0K,G&T,-,-,-,40,2,20
+21,K,01,GEN ED,-,-,-,1702,71,24
+21,K,01,G&T,-,-,-,49,2,24.5
+21,K,02,GEN ED,-,-,-,1456,61,23.9
+21,K,02,CTT,-,-,-,349,14,24.9
+21,K,02,G&T,-,-,-,57,3,19
+21,K,03,GEN ED,-,-,-,1350,56,24.1
+21,K,03,CTT,-,-,-,336,14,24
+21,K,03,G&T,-,-,-,109,5,21.8
+21,K,04,GEN ED,-,-,-,1419,53,26.8
+21,K,04,CTT,-,-,-,334,13,25.7
+21,K,04,G&T,-,-,-,106,5,21.2
+21,K,05,GEN ED,-,-,-,1401,53,26.4
+21,K,05,CTT,-,-,-,234,9,26
+21,K,05,G&T,-,-,-,103,5,20.6
+21,K,06,GEN ED,-,-,-,1357,50,27.1
+21,K,06,CTT,-,-,-,368,15,24.5
+21,K,06,G&T,-,-,-,906,28,32.4
+21,K,07,CTT,-,-,-,281,11,25.5
+21,K,07,G&T,-,-,-,1078,35,30.8
+21,K,08,GEN ED,-,-,-,1318,49,26.9
+21,K,08,CTT,-,-,-,297,11,27
+21,K,08,G&T,-,-,-,1319,42,31.4
+21,K,0K-09,SPEC ED,-,-,12:1,212,26,8.2
+21,K,0K-09,SPEC ED,-,-,12:1:1,857,95,9
+21,K,MS Core,GEN ED,ENGLISH,MS English Core,-,8367,307,27.3
+21,K,MS Core,GEN ED,MATH,MS Math Core,-,5209,190,27.4
+21,K,MS Core,GEN ED,MATH,Integrated Algebra,-,728,24,30.3
+21,K,MS Core,GEN ED,MATH,Geometry,-,29,1,29
+21,K,MS Core,GEN ED,MATH,Math A,-,1122,37,30.3
+21,K,MS Core,GEN ED,SCIENCE,MS Science Core,-,5321,186,28.6
+21,K,MS Core,GEN ED,SCIENCE,Earth Science,-,518,17,30.5
+21,K,MS Core,GEN ED,SCIENCE,Living Environment,-,1373,48,28.6
+21,K,MS Core,GEN ED,SCIENCE,Other Science,-,608,24,25.3
+21,K,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,5466,194,28.2
+21,K,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,1487,50,29.7
+21,K,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,158,7,22.6
+21,K,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,149,6,24.8
+21,K,MS Core,CTT,ENGLISH,MS English Core,-,935,35,26.7
+21,K,MS Core,CTT,MATH,MS Math Core,-,733,27,27.1
+21,K,MS Core,CTT,MATH,Integrated Algebra,-,28,1,28
+21,K,MS Core,CTT,MATH,Math A,-,50,2,25
+21,K,MS Core,CTT,SCIENCE,MS Science Core,-,708,26,27.2
+21,K,MS Core,CTT,SCIENCE,Earth Science,-,27,1,27
+21,K,MS Core,CTT,SCIENCE,Living Environment,-,51,2,25.5
+21,K,MS Core,CTT,SCIENCE,Other Science,-,50,2,25
+21,K,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,719,26,27.7
+21,K,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,27,1,27
+21,K,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,44,2,22
+21,K,MS Core,SPEC ED,ENGLISH,MS English Core,-,195,19,10.3
+21,K,MS Core,SPEC ED,MATH,MS Math Core,-,187,19,9.8
+21,K,MS Core,SPEC ED,SCIENCE,MS Science Core,-,186,19,9.8
+21,K,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,197,20,9.9
+21,K,09-12,GEN ED,ENGLISH,English 9,-,2344,86,27.3
+21,K,09-12,GEN ED,ENGLISH,English 10,-,2404,83,29
+21,K,09-12,GEN ED,ENGLISH,English 11,-,2027,66,30.7
+21,K,09-12,GEN ED,ENGLISH,English 12,-,1841,68,27.1
+21,K,09-12,GEN ED,ENGLISH,MS English Core,-,2199,86,25.6
+21,K,09-12,GEN ED,ENGLISH,Other English,-,1002,44,22.8
+21,K,09-12,GEN ED,MATH,Integrated Algebra,-,3787,146,25.9
+21,K,09-12,GEN ED,MATH,Geometry,-,2971,106,28
+21,K,09-12,GEN ED,MATH,Trigonometry,-,1629,54,30.2
+21,K,09-12,GEN ED,MATH,Math A,-,466,19,24.5
+21,K,09-12,GEN ED,MATH,Math B,-,293,9,32.6
+21,K,09-12,GEN ED,MATH,Other Math,-,651,23,28.3
+21,K,09-12,GEN ED,SCIENCE,Earth Science,-,4481,154,29.1
+21,K,09-12,GEN ED,SCIENCE,Living Environment,-,5596,219,25.6
+21,K,09-12,GEN ED,SCIENCE,Chemistry,-,2553,84,30.4
+21,K,09-12,GEN ED,SCIENCE,Physics,-,1190,48,24.8
+21,K,09-12,GEN ED,SCIENCE,Other Science,-,2658,94,28.3
+21,K,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,4859,173,28.1
+21,K,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,2666,90,29.6
+21,K,09-12,GEN ED,SOCIAL STUDIES,Economics,-,731,27,27.1
+21,K,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,1760,61,28.9
+21,K,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,1125,38,29.6
+21,K,09-12,CTT,ENGLISH,English 9,-,547,23,23.8
+21,K,09-12,CTT,ENGLISH,English 10,-,516,18,28.7
+21,K,09-12,CTT,ENGLISH,English 11,-,436,17,25.6
+21,K,09-12,CTT,ENGLISH,English 12,-,140,6,23.3
+21,K,09-12,CTT,ENGLISH,MS English Core,-,170,8,21.3
+21,K,09-12,CTT,ENGLISH,Other English,-,280,11,25.5
+21,K,09-12,CTT,MATH,Integrated Algebra,-,780,30,26
+21,K,09-12,CTT,MATH,Geometry,-,279,11,25.4
+26,Q,07,CTT,-,-,-,136,5,27.2
+21,K,09-12,CTT,MATH,Trigonometry,-,123,4,30.8
+21,K,09-12,CTT,MATH,Math A,-,86,4,21.5
+21,K,09-12,CTT,MATH,Math B,-,24,1,24
+21,K,09-12,CTT,SCIENCE,Earth Science,-,772,26,29.7
+21,K,09-12,CTT,SCIENCE,Living Environment,-,1131,44,25.7
+21,K,09-12,CTT,SCIENCE,Chemistry,-,18,1,18
+21,K,09-12,CTT,SCIENCE,Physics,-,86,3,28.7
+21,K,09-12,CTT,SCIENCE,Other Science,-,852,28,30.4
+21,K,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,772,27,28.6
+21,K,09-12,CTT,SOCIAL STUDIES,US History & Government,-,587,21,28
+21,K,09-12,CTT,SOCIAL STUDIES,Economics,-,30,1,30
+21,K,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,253,9,28.1
+21,K,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,567,19,29.8
+21,K,09-12,SPEC ED,ENGLISH,English 9,-,113,10,11.3
+21,K,09-12,SPEC ED,ENGLISH,English 10,-,139,10,13.9
+21,K,09-12,SPEC ED,ENGLISH,English 11,-,154,11,14
+21,K,09-12,SPEC ED,ENGLISH,English 12,-,73,6,12.2
+21,K,09-12,SPEC ED,ENGLISH,MS English Core,-,42,4,10.5
+21,K,09-12,SPEC ED,ENGLISH,Other English,-,76,6,12.7
+21,K,09-12,SPEC ED,MATH,Integrated Algebra,-,244,18,13.6
+21,K,09-12,SPEC ED,MATH,Geometry,-,104,7,14.9
+21,K,09-12,SPEC ED,MATH,Trigonometry,-,25,2,12.5
+21,K,09-12,SPEC ED,MATH,Math B,-,22,2,11
+21,K,09-12,SPEC ED,MATH,Other Math,-,54,4,13.5
+21,K,09-12,SPEC ED,SCIENCE,Earth Science,-,184,13,14.2
+21,K,09-12,SPEC ED,SCIENCE,Living Environment,-,167,15,11.1
+21,K,09-12,SPEC ED,SCIENCE,Other Science,-,291,20,14.6
+21,K,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,171,12,14.3
+21,K,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,139,10,13.9
+21,K,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,100,7,14.3
+21,K,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,54,4,13.5
+22,K,0K,GEN ED,-,-,-,2152,99,21.7
+22,K,0K,CTT,-,-,-,407,20,20.4
+22,K,0K,G&T,-,-,-,85,4,21.3
+22,K,01,GEN ED,-,-,-,2170,94,23.1
+22,K,01,CTT,-,-,-,470,21,22.4
+22,K,01,G&T,-,-,-,99,4,24.8
+22,K,02,GEN ED,-,-,-,2202,91,24.2
+22,K,02,CTT,-,-,-,481,20,24.1
+22,K,02,G&T,-,-,-,88,4,22
+22,K,03,GEN ED,-,-,-,2005,83,24.2
+22,K,03,CTT,-,-,-,580,23,25.2
+22,K,03,G&T,-,-,-,270,11,24.5
+22,K,04,GEN ED,-,-,-,1870,69,27.1
+22,K,04,CTT,-,-,-,669,26,25.7
+22,K,04,G&T,-,-,-,345,13,26.5
+22,K,05,GEN ED,-,-,-,1999,75,26.7
+22,K,05,CTT,-,-,-,569,23,24.7
+22,K,05,G&T,-,-,-,253,10,25.3
+22,K,06,GEN ED,-,-,-,1471,52,28.3
+22,K,06,CTT,-,-,-,454,17,26.7
+22,K,06,G&T,-,-,-,277,9,30.8
+22,K,07,GEN ED,-,-,-,1562,55,28.4
+22,K,07,CTT,-,-,-,471,17,27.7
+22,K,07,G&T,-,-,-,246,8,30.8
+22,K,08,GEN ED,-,-,-,1651,59,28
+22,K,08,CTT,-,-,-,401,15,26.7
+22,K,08,G&T,-,-,-,248,8,31
+22,K,0K-09,SPEC ED,-,-,12:1,159,16,9.9
+22,K,0K-09,SPEC ED,-,-,12:1:1,848,80,10.6
+22,K,MS Core,GEN ED,ENGLISH,MS English Core,-,5455,195,28
+22,K,MS Core,GEN ED,MATH,MS Math Core,-,4518,159,28.4
+22,K,MS Core,GEN ED,MATH,Integrated Algebra,-,432,15,28.8
+22,K,MS Core,GEN ED,MATH,Geometry,-,14,1,14
+22,K,MS Core,GEN ED,MATH,Trigonometry,-,277,9,30.8
+22,K,MS Core,GEN ED,MATH,Math A,-,234,8,29.3
+22,K,MS Core,GEN ED,SCIENCE,MS Science Core,-,4739,166,28.5
+22,K,MS Core,GEN ED,SCIENCE,Earth Science,-,456,15,30.4
+22,K,MS Core,GEN ED,SCIENCE,Living Environment,-,260,9,28.9
+22,K,MS Core,GEN ED,SCIENCE,Other Science,-,55,2,27.5
+22,K,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,4982,173,28.8
+22,K,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,23,1,23
+22,K,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,444,15,29.6
+22,K,MS Core,CTT,ENGLISH,MS English Core,-,1382,52,26.6
+22,K,MS Core,CTT,MATH,MS Math Core,-,1328,49,27.1
+22,K,MS Core,CTT,SCIENCE,MS Science Core,-,1325,49,27
+22,K,MS Core,CTT,SCIENCE,Other Science,-,53,2,26.5
+22,K,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,1155,42,27.5
+22,K,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,88,4,22
+22,K,MS Core,SPEC ED,ENGLISH,MS English Core,-,225,21,10.7
+22,K,MS Core,SPEC ED,MATH,MS Math Core,-,198,18,11
+22,K,MS Core,SPEC ED,SCIENCE,MS Science Core,-,185,17,10.9
+22,K,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,187,17,11
+22,K,09-12,GEN ED,ENGLISH,English 9,-,2120,68,31.2
+22,K,09-12,GEN ED,ENGLISH,English 10,-,2272,71,32
+22,K,09-12,GEN ED,ENGLISH,English 11,-,2251,71,31.7
+22,K,09-12,GEN ED,ENGLISH,English 12,-,2499,81,30.9
+22,K,09-12,GEN ED,ENGLISH,MS English Core,-,528,20,26.4
+22,K,09-12,GEN ED,ENGLISH,Other English,-,862,35,24.6
+22,K,09-12,GEN ED,MATH,Integrated Algebra,-,2617,90,29.1
+22,K,09-12,GEN ED,MATH,Geometry,-,2379,74,32.1
+22,K,09-12,GEN ED,MATH,Trigonometry,-,1828,60,30.5
+22,K,09-12,GEN ED,MATH,Math A,-,146,5,29.2
+22,K,09-12,GEN ED,MATH,Other Math,-,1587,53,29.9
+22,K,09-12,GEN ED,SCIENCE,Earth Science,-,3130,99,31.6
+22,K,09-12,GEN ED,SCIENCE,Living Environment,-,3041,103,29.5
+22,K,09-12,GEN ED,SCIENCE,Chemistry,-,3910,134,29.2
+22,K,09-12,GEN ED,SCIENCE,Physics,-,1880,61,30.8
+22,K,09-12,GEN ED,SCIENCE,Other Science,-,2152,72,29.9
+22,K,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,4457,140,31.8
+22,K,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,3046,98,31.1
+22,K,09-12,GEN ED,SOCIAL STUDIES,Economics,-,582,19,30.6
+22,K,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,1071,37,28.9
+22,K,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,2017,69,29.2
+22,K,09-12,CTT,ENGLISH,English 9,-,282,11,25.6
+22,K,09-12,CTT,ENGLISH,English 10,-,248,8,31
+22,K,09-12,CTT,ENGLISH,English 11,-,218,7,31.1
+22,K,09-12,CTT,ENGLISH,English 12,-,135,4,33.8
+22,K,09-12,CTT,ENGLISH,MS English Core,-,162,6,27
+22,K,09-12,CTT,ENGLISH,Other English,-,388,16,24.3
+22,K,09-12,CTT,MATH,Integrated Algebra,-,653,23,28.4
+22,K,09-12,CTT,MATH,Geometry,-,110,4,27.5
+22,K,09-12,CTT,MATH,Trigonometry,-,33,1,33
+22,K,09-12,CTT,MATH,Math A,-,32,1,32
+22,K,09-12,CTT,SCIENCE,Earth Science,-,444,15,29.6
+22,K,09-12,CTT,SCIENCE,Living Environment,-,260,8,32.5
+22,K,09-12,CTT,SCIENCE,Chemistry,-,68,2,34
+22,K,09-12,CTT,SCIENCE,Physics,-,28,1,28
+22,K,09-12,CTT,SCIENCE,Other Science,-,441,14,31.5
+22,K,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,634,20,31.7
+22,K,09-12,CTT,SOCIAL STUDIES,US History & Government,-,287,9,31.9
+22,K,09-12,CTT,SOCIAL STUDIES,Economics,-,34,1,34
+22,K,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,31,1,31
+22,K,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,83,4,20.8
+22,K,09-12,SPEC ED,ENGLISH,English 9,-,38,4,9.5
+22,K,09-12,SPEC ED,ENGLISH,English 10,-,93,7,13.3
+22,K,09-12,SPEC ED,ENGLISH,English 11,-,75,6,12.5
+22,K,09-12,SPEC ED,ENGLISH,English 12,-,50,4,12.5
+22,K,09-12,SPEC ED,ENGLISH,MS English Core,-,10,1,10
+22,K,09-12,SPEC ED,ENGLISH,Other English,-,76,7,10.9
+22,K,09-12,SPEC ED,MATH,Integrated Algebra,-,115,9,12.8
+22,K,09-12,SPEC ED,MATH,Geometry,-,10,2,5
+22,K,09-12,SPEC ED,SCIENCE,Earth Science,-,73,6,12.2
+22,K,09-12,SPEC ED,SCIENCE,Living Environment,-,69,5,13.8
+26,Q,07,G&T,-,-,-,28,1,28
+22,K,09-12,SPEC ED,SCIENCE,Other Science,-,92,8,11.5
+22,K,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,153,12,12.8
+22,K,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,112,9,12.4
+22,K,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,42,4,10.5
+22,K,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,57,5,11.4
+23,K,0K,GEN ED,-,-,-,655,29,22.6
+23,K,0K,CTT,-,-,-,117,6,19.5
+23,K,01,GEN ED,-,-,-,792,36,22
+23,K,01,CTT,-,-,-,112,5,22.4
+23,K,02,GEN ED,-,-,-,843,38,22.2
+23,K,02,CTT,-,-,-,72,3,24
+23,K,03,GEN ED,-,-,-,852,37,23
+23,K,03,CTT,-,-,-,88,4,22
+23,K,04,GEN ED,-,-,-,826,33,25
+23,K,04,CTT,-,-,-,41,2,20.5
+23,K,04,G&T,-,-,-,20,1,20
+23,K,05,GEN ED,-,-,-,765,33,23.2
+23,K,05,CTT,-,-,-,67,3,22.3
+23,K,05,G&T,-,-,-,15,1,15
+23,K,06,GEN ED,-,-,-,943,40,23.6
+23,K,06,CTT,-,-,-,113,5,22.6
+23,K,07,GEN ED,-,-,-,1135,43,26.4
+23,K,07,CTT,-,-,-,86,3,28.7
+23,K,08,GEN ED,-,-,-,1078,42,25.7
+23,K,08,CTT,-,-,-,96,4,24
+23,K,0K-09,SPEC ED,-,-,12:1,323,33,9.8
+23,K,0K-09,SPEC ED,-,-,12:1:1,461,50,9.2
+23,K,0K-09,SPEC ED,-,-,15:1,4,1,4
+23,K,MS Core,GEN ED,ENGLISH,MS English Core,-,3359,142,23.7
+23,K,MS Core,GEN ED,MATH,MS Math Core,-,2797,119,23.5
+23,K,MS Core,GEN ED,MATH,Integrated Algebra,-,71,3,23.7
+23,K,MS Core,GEN ED,MATH,Geometry,-,36,2,18
+23,K,MS Core,GEN ED,SCIENCE,MS Science Core,-,3028,123,24.6
+23,K,MS Core,GEN ED,SCIENCE,Earth Science,-,36,2,18
+23,K,MS Core,GEN ED,SCIENCE,Living Environment,-,123,6,20.5
+23,K,MS Core,GEN ED,SCIENCE,Other Science,-,290,12,24.2
+23,K,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,2503,104,24.1
+23,K,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,93,3,31
+23,K,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,139,7,19.9
+23,K,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,159,6,26.5
+23,K,MS Core,CTT,ENGLISH,MS English Core,-,230,10,23
+23,K,MS Core,CTT,MATH,MS Math Core,-,257,11,23.4
+23,K,MS Core,CTT,SCIENCE,MS Science Core,-,275,12,22.9
+23,K,MS Core,CTT,SCIENCE,Other Science,-,25,1,25
+23,K,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,234,10,23.4
+23,K,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,23,1,23
+23,K,MS Core,SPEC ED,ENGLISH,MS English Core,-,147,15,9.8
+23,K,MS Core,SPEC ED,MATH,MS Math Core,-,162,17,9.5
+23,K,MS Core,SPEC ED,MATH,Geometry,-,11,1,11
+23,K,MS Core,SPEC ED,SCIENCE,MS Science Core,-,126,13,9.7
+23,K,MS Core,SPEC ED,SCIENCE,Earth Science,-,11,1,11
+23,K,MS Core,SPEC ED,SCIENCE,Living Environment,-,10,1,10
+23,K,MS Core,SPEC ED,SCIENCE,Other Science,-,20,2,10
+23,K,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,136,14,9.7
+23,K,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,11,1,11
+23,K,09-12,GEN ED,ENGLISH,English 9,-,392,21,18.7
+23,K,09-12,GEN ED,ENGLISH,English 10,-,303,14,21.6
+23,K,09-12,GEN ED,ENGLISH,English 11,-,262,12,21.8
+23,K,09-12,GEN ED,ENGLISH,English 12,-,306,13,23.5
+23,K,09-12,GEN ED,ENGLISH,MS English Core,-,190,7,27.1
+23,K,09-12,GEN ED,ENGLISH,Other English,-,743,32,23.2
+23,K,09-12,GEN ED,MATH,Integrated Algebra,-,767,34,22.6
+23,K,09-12,GEN ED,MATH,Geometry,-,260,10,26
+23,K,09-12,GEN ED,MATH,Trigonometry,-,99,5,19.8
+23,K,09-12,GEN ED,MATH,Math A,-,23,1,23
+23,K,09-12,GEN ED,MATH,Other Math,-,126,5,25.2
+23,K,09-12,GEN ED,SCIENCE,Earth Science,-,603,23,26.2
+23,K,09-12,GEN ED,SCIENCE,Living Environment,-,557,23,24.2
+23,K,09-12,GEN ED,SCIENCE,Chemistry,-,223,9,24.8
+23,K,09-12,GEN ED,SCIENCE,Physics,-,128,5,25.6
+23,K,09-12,GEN ED,SCIENCE,Other Science,-,204,10,20.4
+23,K,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,677,26,26
+23,K,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,565,23,24.6
+23,K,09-12,GEN ED,SOCIAL STUDIES,Economics,-,29,1,29
+23,K,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,176,7,25.1
+23,K,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,251,11,22.8
+23,K,09-12,CTT,ENGLISH,English 10,-,27,1,27
+23,K,09-12,CTT,ENGLISH,English 11,-,58,3,19.3
+23,K,09-12,CTT,ENGLISH,English 12,-,42,2,21
+23,K,09-12,CTT,ENGLISH,MS English Core,-,25,1,25
+23,K,09-12,CTT,ENGLISH,Other English,-,111,4,27.8
+23,K,09-12,CTT,MATH,Integrated Algebra,-,136,6,22.7
+23,K,09-12,CTT,MATH,Geometry,-,48,2,24
+23,K,09-12,CTT,SCIENCE,Earth Science,-,123,5,24.6
+23,K,09-12,CTT,SCIENCE,Living Environment,-,142,5,28.4
+23,K,09-12,CTT,SCIENCE,Chemistry,-,62,2,31
+23,K,09-12,CTT,SCIENCE,Other Science,-,37,2,18.5
+23,K,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,108,4,27
+23,K,09-12,CTT,SOCIAL STUDIES,US History & Government,-,178,6,29.7
+23,K,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,26,1,26
+23,K,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,107,4,26.8
+23,K,09-12,SPEC ED,ENGLISH,English 9,-,18,2,9
+23,K,09-12,SPEC ED,ENGLISH,English 10,-,9,1,9
+23,K,09-12,SPEC ED,ENGLISH,English 12,-,9,1,9
+23,K,09-12,SPEC ED,ENGLISH,MS English Core,-,20,2,10
+23,K,09-12,SPEC ED,ENGLISH,Other English,-,19,2,9.5
+23,K,09-12,SPEC ED,MATH,Integrated Algebra,-,20,2,10
+23,K,09-12,SPEC ED,SCIENCE,Earth Science,-,22,2,11
+23,K,09-12,SPEC ED,SCIENCE,Living Environment,-,18,2,9
+23,K,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,11,1,11
+23,K,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,28,3,9.3
+23,K,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,9,1,9
+24,Q,0K,GEN ED,-,-,-,4036,171,23.6
+24,Q,0K,CTT,-,-,-,622,27,23
+24,Q,0K,G&T,-,-,-,17,1,17
+24,Q,01,GEN ED,-,-,-,4064,161,25.2
+24,Q,01,CTT,-,-,-,605,24,25.2
+24,Q,01,G&T,-,-,-,32,2,16
+24,Q,02,GEN ED,-,-,-,3908,156,25.1
+24,Q,02,CTT,-,-,-,506,20,25.3
+24,Q,02,G&T,-,-,-,43,2,21.5
+24,Q,03,GEN ED,-,-,-,3753,145,25.9
+24,Q,03,CTT,-,-,-,502,19,26.4
+24,Q,03,G&T,-,-,-,54,2,27
+24,Q,04,GEN ED,-,-,-,3354,128,26.2
+24,Q,04,CTT,-,-,-,596,23,25.9
+24,Q,04,G&T,-,-,-,78,3,26
+24,Q,05,GEN ED,-,-,-,3342,120,27.9
+24,Q,05,CTT,-,-,-,573,21,27.3
+24,Q,05,G&T,-,-,-,74,3,24.7
+24,Q,06,GEN ED,-,-,-,2815,100,28.2
+24,Q,06,CTT,-,-,-,593,22,27
+24,Q,06,G&T,-,-,-,152,6,25.3
+24,Q,07,GEN ED,-,-,-,3007,104,28.9
+24,Q,07,CTT,-,-,-,595,21,28.3
+24,Q,07,G&T,-,-,-,139,5,27.8
+24,Q,08,GEN ED,-,-,-,3071,110,27.9
+24,Q,08,CTT,-,-,-,524,19,27.6
+24,Q,08,G&T,-,-,-,121,5,24.2
+24,Q,0K-09,SPEC ED,-,-,12:1,173,16,10.8
+24,Q,0K-09,SPEC ED,-,-,12:1:1,1578,144,11
+24,Q,0K-09,SPEC ED,-,-,6:1:1,6,1,6
+24,Q,MS Core,GEN ED,ENGLISH,MS English Core,-,10029,358,28
+24,Q,MS Core,GEN ED,MATH,MS Math Core,-,8027,290,27.7
+24,Q,MS Core,GEN ED,MATH,Integrated Algebra,-,329,13,25.3
+24,Q,MS Core,GEN ED,MATH,Geometry,-,64,2,32
+24,Q,MS Core,GEN ED,MATH,Math A,-,110,4,27.5
+24,Q,MS Core,GEN ED,MATH,Other Math,-,29,1,29
+24,Q,MS Core,GEN ED,SCIENCE,MS Science Core,-,8649,311,27.8
+24,Q,MS Core,GEN ED,SCIENCE,Earth Science,-,341,12,28.4
+24,Q,MS Core,GEN ED,SCIENCE,Living Environment,-,110,4,27.5
+24,Q,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,8711,311,28
+24,Q,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,463,17,27.2
+24,Q,MS Core,CTT,ENGLISH,MS English Core,-,1881,68,27.7
+24,Q,MS Core,CTT,MATH,MS Math Core,-,1593,58,27.5
+24,Q,MS Core,CTT,SCIENCE,MS Science Core,-,1643,60,27.4
+24,Q,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,1559,57,27.4
+24,Q,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,84,3,28
+24,Q,MS Core,SPEC ED,ENGLISH,MS English Core,-,521,50,10.4
+24,Q,MS Core,SPEC ED,MATH,MS Math Core,-,362,36,10.1
+24,Q,MS Core,SPEC ED,MATH,Other Math,-,28,3,9.3
+24,Q,MS Core,SPEC ED,SCIENCE,MS Science Core,-,403,40,10.1
+24,Q,MS Core,SPEC ED,SCIENCE,Living Environment,-,23,2,11.5
+24,Q,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,393,38,10.3
+24,Q,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,33,4,8.3
+24,Q,09-12,GEN ED,ENGLISH,English 9,-,2205,97,22.7
+24,Q,09-12,GEN ED,ENGLISH,English 10,-,2734,107,25.6
+24,Q,09-12,GEN ED,ENGLISH,English 11,-,2824,106,26.6
+24,Q,09-12,GEN ED,ENGLISH,English 12,-,1703,65,26.2
+24,Q,09-12,GEN ED,ENGLISH,MS English Core,-,223,8,27.9
+24,Q,09-12,GEN ED,ENGLISH,Other English,-,1687,72,23.4
+24,Q,09-12,GEN ED,MATH,Integrated Algebra,-,4060,171,23.7
+24,Q,09-12,GEN ED,MATH,Geometry,-,3098,114,27.2
+24,Q,09-12,GEN ED,MATH,Trigonometry,-,1527,53,28.8
+24,Q,09-12,GEN ED,MATH,Math A,-,297,12,24.8
+24,Q,09-12,GEN ED,MATH,Math B,-,249,8,31.1
+24,Q,09-12,GEN ED,MATH,Other Math,-,659,31,21.3
+24,Q,09-12,GEN ED,SCIENCE,Earth Science,-,3151,127,24.8
+24,Q,09-12,GEN ED,SCIENCE,Living Environment,-,6176,246,25.1
+24,Q,09-12,GEN ED,SCIENCE,Chemistry,-,2479,94,26.4
+24,Q,09-12,GEN ED,SCIENCE,Physics,-,1296,48,27
+24,Q,09-12,GEN ED,SCIENCE,Other Science,-,2466,96,25.7
+24,Q,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,5197,209,24.9
+24,Q,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,3840,154,24.9
+24,Q,09-12,GEN ED,SOCIAL STUDIES,Economics,-,685,28,24.5
+24,Q,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,1083,40,27.1
+24,Q,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,692,32,21.6
+24,Q,09-12,CTT,ENGLISH,English 9,-,298,11,27.1
+24,Q,09-12,CTT,ENGLISH,English 10,-,271,10,27.1
+24,Q,09-12,CTT,ENGLISH,English 11,-,156,5,31.2
+24,Q,09-12,CTT,ENGLISH,English 12,-,150,5,30
+24,Q,09-12,CTT,ENGLISH,MS English Core,-,110,4,27.5
+24,Q,09-12,CTT,ENGLISH,Other English,-,91,3,30.3
+24,Q,09-12,CTT,MATH,Integrated Algebra,-,476,17,28
+24,Q,09-12,CTT,MATH,Geometry,-,251,9,27.9
+24,Q,09-12,CTT,MATH,Trigonometry,-,122,4,30.5
+24,Q,09-12,CTT,MATH,Math A,-,16,1,16
+24,Q,09-12,CTT,MATH,Other Math,-,25,1,25
+24,Q,09-12,CTT,SCIENCE,Earth Science,-,510,18,28.3
+24,Q,09-12,CTT,SCIENCE,Living Environment,-,643,24,26.8
+24,Q,09-12,CTT,SCIENCE,Chemistry,-,199,7,28.4
+24,Q,09-12,CTT,SCIENCE,Physics,-,155,5,31
+24,Q,09-12,CTT,SCIENCE,Other Science,-,59,2,29.5
+24,Q,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,694,24,28.9
+24,Q,09-12,CTT,SOCIAL STUDIES,US History & Government,-,288,10,28.8
+24,Q,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,154,5,30.8
+24,Q,09-12,SPEC ED,ENGLISH,English 9,-,92,6,15.3
+24,Q,09-12,SPEC ED,ENGLISH,English 10,-,87,6,14.5
+24,Q,09-12,SPEC ED,ENGLISH,English 11,-,96,9,10.7
+24,Q,09-12,SPEC ED,ENGLISH,English 12,-,82,8,10.3
+24,Q,09-12,SPEC ED,ENGLISH,MS English Core,-,55,5,11
+24,Q,09-12,SPEC ED,ENGLISH,Other English,-,35,3,11.7
+24,Q,09-12,SPEC ED,MATH,Integrated Algebra,-,213,15,14.2
+24,Q,09-12,SPEC ED,MATH,Geometry,-,18,1,18
+24,Q,09-12,SPEC ED,MATH,Other Math,-,13,1,13
+24,Q,09-12,SPEC ED,SCIENCE,Earth Science,-,76,5,15.2
+24,Q,09-12,SPEC ED,SCIENCE,Living Environment,-,149,10,14.9
+24,Q,09-12,SPEC ED,SCIENCE,Other Science,-,59,4,14.8
+24,Q,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,142,11,12.9
+24,Q,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,105,8,13.1
+24,Q,09-12,SPEC ED,SOCIAL STUDIES,Economics,-,10,1,10
+24,Q,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,5,1,5
+24,Q,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,14,1,14
+25,Q,0K,GEN ED,-,-,-,2294,101,22.7
+25,Q,0K,CTT,-,-,-,253,13,19.5
+25,Q,0K,G&T,-,-,-,64,3,21.3
+25,Q,01,GEN ED,-,-,-,2299,95,24.2
+25,Q,01,CTT,-,-,-,313,14,22.4
+25,Q,01,G&T,-,-,-,99,4,24.8
+25,Q,02,GEN ED,-,-,-,1965,83,23.7
+25,Q,02,CTT,-,-,-,409,17,24.1
+25,Q,02,G&T,-,-,-,77,3,25.7
+25,Q,03,GEN ED,-,-,-,1945,80,24.3
+25,Q,03,CTT,-,-,-,380,16,23.8
+25,Q,03,G&T,-,-,-,76,3,25.3
+25,Q,04,GEN ED,-,-,-,1860,71,26.2
+25,Q,04,CTT,-,-,-,299,11,27.2
+25,Q,04,G&T,-,-,-,61,2,30.5
+25,Q,05,GEN ED,-,-,-,1990,72,27.6
+25,Q,05,CTT,-,-,-,304,12,25.3
+25,Q,05,G&T,-,-,-,50,2,25
+25,Q,06,GEN ED,-,-,-,1872,68,27.5
+25,Q,06,CTT,-,-,-,383,15,25.5
+25,Q,06,G&T,-,-,-,58,2,29
+25,Q,07,GEN ED,-,-,-,1917,67,28.6
+25,Q,07,CTT,-,-,-,315,13,24.2
+25,Q,07,G&T,-,-,-,63,2,31.5
+25,Q,08,GEN ED,-,-,-,1982,66,30
+25,Q,08,CTT,-,-,-,327,13,25.2
+25,Q,08,G&T,-,-,-,64,2,32
+25,Q,0K-09,SPEC ED,-,-,12:1,153,18,8.5
+25,Q,0K-09,SPEC ED,-,-,12:1:1,701,73,9.6
+25,Q,0K-09,SPEC ED,-,-,6:1:1,6,1,6
+25,Q,MS Core,GEN ED,ENGLISH,MS English Core,-,5823,206,28.3
+25,Q,MS Core,GEN ED,MATH,MS Math Core,-,5426,189,28.7
+25,Q,MS Core,GEN ED,MATH,Integrated Algebra,-,454,15,30.3
+25,Q,MS Core,GEN ED,MATH,Math A,-,105,6,17.5
+25,Q,MS Core,GEN ED,SCIENCE,MS Science Core,-,5650,195,29
+25,Q,MS Core,GEN ED,SCIENCE,Earth Science,-,119,4,29.8
+25,Q,MS Core,GEN ED,SCIENCE,Living Environment,-,393,18,21.8
+25,Q,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,5823,201,29
+25,Q,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,82,4,20.5
+25,Q,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,52,2,26
+25,Q,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,16,1,16
+25,Q,MS Core,CTT,ENGLISH,MS English Core,-,1157,44,26.3
+25,Q,MS Core,CTT,MATH,MS Math Core,-,921,36,25.6
+25,Q,MS Core,CTT,MATH,Integrated Algebra,-,53,2,26.5
+25,Q,MS Core,CTT,MATH,Math A,-,20,1,20
+25,Q,MS Core,CTT,SCIENCE,MS Science Core,-,947,37,25.6
+25,Q,MS Core,CTT,SCIENCE,Living Environment,-,26,1,26
+27,Q,08,GEN ED,-,-,-,2856,100,28.6
+25,Q,MS Core,CTT,SCIENCE,Other Science,-,18,1,18
+25,Q,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,960,37,25.9
+25,Q,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,63,3,21
+25,Q,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,22,1,22
+25,Q,MS Core,SPEC ED,ENGLISH,MS English Core,-,184,19,9.7
+25,Q,MS Core,SPEC ED,MATH,MS Math Core,-,172,18,9.6
+25,Q,MS Core,SPEC ED,SCIENCE,MS Science Core,-,166,16,10.4
+25,Q,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,173,18,9.6
+25,Q,09-12,GEN ED,ENGLISH,English 9,-,2005,72,27.8
+25,Q,09-12,GEN ED,ENGLISH,English 10,-,2044,68,30.1
+26,Q,08,GEN ED,-,-,-,1719,57,30.2
+25,Q,09-12,GEN ED,ENGLISH,English 11,-,2053,67,30.6
+25,Q,09-12,GEN ED,ENGLISH,English 12,-,1351,47,28.7
+25,Q,09-12,GEN ED,ENGLISH,MS English Core,-,390,13,30
+25,Q,09-12,GEN ED,ENGLISH,Other English,-,2252,87,25.9
+25,Q,09-12,GEN ED,MATH,Integrated Algebra,-,3694,147,25.1
+25,Q,09-12,GEN ED,MATH,Geometry,-,2848,100,28.5
+25,Q,09-12,GEN ED,MATH,Trigonometry,-,1227,43,28.5
+25,Q,09-12,GEN ED,MATH,Other Math,-,425,17,25
+25,Q,09-12,GEN ED,SCIENCE,Earth Science,-,3427,119,28.8
+25,Q,09-12,GEN ED,SCIENCE,Living Environment,-,6042,225,26.9
+25,Q,09-12,GEN ED,SCIENCE,Chemistry,-,2149,75,28.7
+25,Q,09-12,GEN ED,SCIENCE,Physics,-,1310,44,29.8
+25,Q,09-12,GEN ED,SCIENCE,Other Science,-,2144,84,25.5
+25,Q,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,5299,188,28.2
+25,Q,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,2232,73,30.6
+25,Q,09-12,GEN ED,SOCIAL STUDIES,Economics,-,586,20,29.3
+25,Q,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,1217,41,29.7
+25,Q,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,1079,40,27
+25,Q,09-12,CTT,ENGLISH,English 9,-,268,10,26.8
+25,Q,09-12,CTT,ENGLISH,English 10,-,187,6,31.2
+25,Q,09-12,CTT,ENGLISH,English 11,-,95,3,31.7
+25,Q,09-12,CTT,ENGLISH,English 12,-,123,4,30.8
+25,Q,09-12,CTT,ENGLISH,MS English Core,-,49,2,24.5
+25,Q,09-12,CTT,ENGLISH,Other English,-,164,7,23.4
+25,Q,09-12,CTT,MATH,Integrated Algebra,-,459,17,27
+25,Q,09-12,CTT,MATH,Geometry,-,100,3,33.3
+25,Q,09-12,CTT,MATH,Other Math,-,45,2,22.5
+25,Q,09-12,CTT,SCIENCE,Earth Science,-,219,7,31.3
+25,Q,09-12,CTT,SCIENCE,Living Environment,-,774,27,28.7
+25,Q,09-12,CTT,SCIENCE,Other Science,-,49,2,24.5
+25,Q,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,494,16,30.9
+25,Q,09-12,CTT,SOCIAL STUDIES,US History & Government,-,184,6,30.7
+25,Q,09-12,CTT,SOCIAL STUDIES,Economics,-,34,1,34
+25,Q,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,33,1,33
+25,Q,09-12,SPEC ED,ENGLISH,English 9,-,93,8,11.6
+25,Q,09-12,SPEC ED,ENGLISH,English 10,-,44,4,11
+25,Q,09-12,SPEC ED,ENGLISH,English 11,-,54,4,13.5
+25,Q,09-12,SPEC ED,ENGLISH,English 12,-,12,1,12
+25,Q,09-12,SPEC ED,ENGLISH,Other English,-,56,5,11.2
+25,Q,09-12,SPEC ED,MATH,Integrated Algebra,-,227,17,13.4
+25,Q,09-12,SPEC ED,MATH,Geometry,-,61,5,12.2
+25,Q,09-12,SPEC ED,SCIENCE,Earth Science,-,153,11,13.9
+25,Q,09-12,SPEC ED,SCIENCE,Living Environment,-,245,19,12.9
+25,Q,09-12,SPEC ED,SCIENCE,Other Science,-,32,2,16
+25,Q,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,167,13,12.8
+25,Q,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,60,5,12
+25,Q,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,22,2,11
+26,Q,0K,GEN ED,-,-,-,1349,65,20.8
+26,Q,0K,CTT,-,-,-,164,9,18.2
+26,Q,0K,G&T,-,-,-,75,3,25
+26,Q,01,GEN ED,-,-,-,1412,60,23.5
+26,Q,01,CTT,-,-,-,173,8,21.6
+26,Q,01,G&T,-,-,-,94,3,31.3
+26,Q,02,GEN ED,-,-,-,1339,54,24.8
+26,Q,02,CTT,-,-,-,212,10,21.2
+26,Q,02,G&T,-,-,-,87,3,29
+26,Q,03,GEN ED,-,-,-,1269,50,25.4
+26,Q,03,CTT,-,-,-,211,9,23.4
+26,Q,03,G&T,-,-,-,80,3,26.7
+26,Q,04,GEN ED,-,-,-,1409,55,25.6
+26,Q,04,CTT,-,-,-,166,7,23.7
+26,Q,04,G&T,-,-,-,31,1,31
+26,Q,05,GEN ED,-,-,-,1576,56,28.1
+26,Q,05,CTT,-,-,-,138,5,27.6
+26,Q,05,G&T,-,-,-,31,1,31
+26,Q,06,GEN ED,-,-,-,1581,53,29.8
+26,Q,06,CTT,-,-,-,137,5,27.4
+26,Q,06,G&T,-,-,-,29,1,29
+26,Q,07,GEN ED,-,-,-,1679,55,30.5
+26,Q,08,CTT,-,-,-,133,5,26.6
+26,Q,08,G&T,-,-,-,30,1,30
+26,Q,0K-09,SPEC ED,-,-,12:1,162,17,9.5
+26,Q,0K-09,SPEC ED,-,-,12:1:1,286,31,9.2
+26,Q,MS Core,GEN ED,ENGLISH,MS English Core,-,5265,175,30.1
+26,Q,MS Core,GEN ED,MATH,MS Math Core,-,3433,114,30.1
+26,Q,MS Core,GEN ED,MATH,Integrated Algebra,-,1070,35,30.6
+26,Q,MS Core,GEN ED,MATH,Math A,-,139,5,27.8
+26,Q,MS Core,GEN ED,SCIENCE,MS Science Core,-,3711,123,30.2
+26,Q,MS Core,GEN ED,SCIENCE,Earth Science,-,666,22,30.3
+26,Q,MS Core,GEN ED,SCIENCE,Living Environment,-,552,19,29.1
+26,Q,MS Core,GEN ED,SCIENCE,Other Science,-,219,7,31.3
+26,Q,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,4855,161,30.2
+27,Q,08,CTT,-,-,-,439,17,25.8
+26,Q,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,242,8,30.3
+26,Q,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,172,6,28.7
+26,Q,MS Core,CTT,ENGLISH,MS English Core,-,405,15,27
+26,Q,MS Core,CTT,MATH,MS Math Core,-,327,12,27.3
+26,Q,MS Core,CTT,MATH,Integrated Algebra,-,28,1,28
+26,Q,MS Core,CTT,MATH,Math A,-,22,1,22
+26,Q,MS Core,CTT,SCIENCE,MS Science Core,-,327,12,27.3
+26,Q,MS Core,CTT,SCIENCE,Living Environment,-,50,2,25
+26,Q,MS Core,CTT,SCIENCE,Other Science,-,28,1,28
+26,Q,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,405,15,27
+26,Q,MS Core,SPEC ED,ENGLISH,MS English Core,-,121,14,8.6
+26,Q,MS Core,SPEC ED,MATH,MS Math Core,-,100,11,9.1
+26,Q,MS Core,SPEC ED,MATH,Integrated Algebra,-,5,1,5
+26,Q,MS Core,SPEC ED,SCIENCE,MS Science Core,-,100,11,9.1
+26,Q,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,121,14,8.6
+26,Q,09-12,GEN ED,ENGLISH,English 9,-,2735,87,31.4
+26,Q,09-12,GEN ED,ENGLISH,English 10,-,3574,114,31.4
+26,Q,09-12,GEN ED,ENGLISH,English 11,-,3495,108,32.4
+26,Q,09-12,GEN ED,ENGLISH,English 12,-,2839,91,31.2
+26,Q,09-12,GEN ED,ENGLISH,MS English Core,-,734,25,29.4
+26,Q,09-12,GEN ED,ENGLISH,Other English,-,1853,70,26.5
+26,Q,09-12,GEN ED,MATH,Integrated Algebra,-,3772,123,30.7
+26,Q,09-12,GEN ED,MATH,Geometry,-,3175,98,32.4
+26,Q,09-12,GEN ED,MATH,Trigonometry,-,2722,89,30.6
+26,Q,09-12,GEN ED,MATH,Math A,-,74,3,24.7
+26,Q,09-12,GEN ED,MATH,Other Math,-,1483,49,30.3
+26,Q,09-12,GEN ED,SCIENCE,Earth Science,-,3484,114,30.6
+26,Q,09-12,GEN ED,SCIENCE,Living Environment,-,4517,143,31.6
+26,Q,09-12,GEN ED,SCIENCE,Chemistry,-,3959,126,31.4
+26,Q,09-12,GEN ED,SCIENCE,Physics,-,2525,82,30.8
+26,Q,09-12,GEN ED,SCIENCE,Other Science,-,2612,84,31.1
+26,Q,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,6526,210,31.1
+26,Q,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,3348,105,31.9
+26,Q,09-12,GEN ED,SOCIAL STUDIES,Economics,-,255,9,28.3
+26,Q,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,3008,95,31.7
+26,Q,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,2171,79,27.5
+26,Q,09-12,CTT,ENGLISH,English 9,-,536,21,25.5
+26,Q,09-12,CTT,ENGLISH,English 10,-,467,17,27.5
+26,Q,09-12,CTT,ENGLISH,English 11,-,370,13,28.5
+26,Q,09-12,CTT,ENGLISH,English 12,-,263,9,29.2
+26,Q,09-12,CTT,ENGLISH,MS English Core,-,29,1,29
+26,Q,09-12,CTT,ENGLISH,Other English,-,145,5,29
+26,Q,09-12,CTT,MATH,Integrated Algebra,-,632,24,26.3
+26,Q,09-12,CTT,MATH,Geometry,-,299,9,33.2
+26,Q,09-12,CTT,MATH,Trigonometry,-,140,4,35
+26,Q,09-12,CTT,MATH,Math A,-,35,3,11.7
+26,Q,09-12,CTT,SCIENCE,Earth Science,-,502,20,25.1
+26,Q,09-12,CTT,SCIENCE,Living Environment,-,619,21,29.5
+26,Q,09-12,CTT,SCIENCE,Chemistry,-,194,6,32.3
+26,Q,09-12,CTT,SCIENCE,Other Science,-,331,11,30.1
+26,Q,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,908,32,28.4
+30,Q,06,CTT,-,-,-,413,16,25.8
+26,Q,09-12,CTT,SOCIAL STUDIES,US History & Government,-,374,14,26.7
+26,Q,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,255,8,31.9
+26,Q,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,64,2,32
+26,Q,09-12,SPEC ED,ENGLISH,English 9,-,149,12,12.4
+26,Q,09-12,SPEC ED,ENGLISH,English 10,-,140,11,12.7
+26,Q,09-12,SPEC ED,ENGLISH,English 11,-,112,10,11.2
+26,Q,09-12,SPEC ED,ENGLISH,English 12,-,106,8,13.3
+26,Q,09-12,SPEC ED,ENGLISH,MS English Core,-,8,1,8
+26,Q,09-12,SPEC ED,ENGLISH,Other English,-,58,5,11.6
+26,Q,09-12,SPEC ED,MATH,Integrated Algebra,-,225,17,13.2
+26,Q,09-12,SPEC ED,MATH,Geometry,-,25,2,12.5
+26,Q,09-12,SPEC ED,MATH,Math A,-,16,2,8
+26,Q,09-12,SPEC ED,SCIENCE,Earth Science,-,83,7,11.9
+26,Q,09-12,SPEC ED,SCIENCE,Living Environment,-,117,9,13
+26,Q,09-12,SPEC ED,SCIENCE,Chemistry,-,10,1,10
+26,Q,09-12,SPEC ED,SCIENCE,Other Science,-,100,10,10
+26,Q,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,254,19,13.4
+26,Q,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,116,10,11.6
+26,Q,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,74,6,12.3
+26,Q,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,26,2,13
+27,Q,0K,GEN ED,-,-,-,3070,137,22.4
+27,Q,0K,CTT,-,-,-,516,25,20.6
+27,Q,0K,G&T,-,-,-,15,1,15
+27,Q,01,GEN ED,-,-,-,3021,132,22.9
+27,Q,01,CTT,-,-,-,486,21,23.1
+27,Q,01,G&T,-,-,-,20,1,20
+27,Q,02,GEN ED,-,-,-,3013,127,23.7
+27,Q,02,CTT,-,-,-,497,21,23.7
+27,Q,02,G&T,-,-,-,49,2,24.5
+27,Q,03,GEN ED,-,-,-,2996,123,24.4
+27,Q,03,CTT,-,-,-,419,17,24.6
+27,Q,03,G&T,-,-,-,79,4,19.8
+27,Q,04,GEN ED,-,-,-,2909,109,26.7
+27,Q,04,CTT,-,-,-,416,16,26
+27,Q,04,G&T,-,-,-,146,6,24.3
+27,Q,05,GEN ED,-,-,-,2891,111,26
+27,Q,05,CTT,-,-,-,346,14,24.7
+27,Q,05,G&T,-,-,-,121,5,24.2
+27,Q,06,GEN ED,-,-,-,2805,106,26.5
+27,Q,06,CTT,-,-,-,379,17,22.3
+27,Q,06,G&T,-,-,-,250,8,31.3
+27,Q,07,GEN ED,-,-,-,2909,104,28
+27,Q,07,CTT,-,-,-,461,18,25.6
+27,Q,07,G&T,-,-,-,219,7,31.3
+27,Q,08,G&T,-,-,-,208,7,29.7
+27,Q,09,GEN ED,-,-,-,94,4,23.5
+27,Q,09,G&T,-,-,-,111,4,27.8
+27,Q,0K-09,SPEC ED,-,-,12:1,427,42,10.2
+27,Q,0K-09,SPEC ED,-,-,12:1:1,1236,124,10
+27,Q,MS Core,GEN ED,ENGLISH,MS English Core,-,9630,351,27.4
+27,Q,MS Core,GEN ED,MATH,MS Math Core,-,8132,294,27.7
+27,Q,MS Core,GEN ED,MATH,Integrated Algebra,-,1099,39,28.2
+27,Q,MS Core,GEN ED,SCIENCE,MS Science Core,-,7841,283,27.7
+27,Q,MS Core,GEN ED,SCIENCE,Earth Science,-,692,23,30.1
+27,Q,MS Core,GEN ED,SCIENCE,Living Environment,-,524,18,29.1
+27,Q,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,8524,307,27.8
+27,Q,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,184,6,30.7
+27,Q,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,91,4,22.8
+27,Q,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,153,5,30.6
+27,Q,MS Core,CTT,ENGLISH,MS English Core,-,1606,62,25.9
+27,Q,MS Core,CTT,MATH,MS Math Core,-,1249,49,25.5
+27,Q,MS Core,CTT,SCIENCE,MS Science Core,-,1173,46,25.5
+27,Q,MS Core,CTT,SCIENCE,Earth Science,-,16,1,16
+27,Q,MS Core,CTT,SCIENCE,Living Environment,-,20,1,20
+27,Q,MS Core,CTT,SCIENCE,Physics,-,59,2,29.5
+27,Q,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,1163,46,25.3
+27,Q,MS Core,CTT,SOCIAL STUDIES,Global History & Geography,-,47,2,23.5
+27,Q,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,77,3,25.7
+27,Q,MS Core,SPEC ED,ENGLISH,MS English Core,-,426,38,11.2
+27,Q,MS Core,SPEC ED,MATH,MS Math Core,-,369,33,11.2
+27,Q,MS Core,SPEC ED,MATH,Integrated Algebra,-,10,1,10
+27,Q,MS Core,SPEC ED,SCIENCE,MS Science Core,-,393,35,11.2
+27,Q,MS Core,SPEC ED,SCIENCE,Other Science,-,12,1,12
+27,Q,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,427,38,11.2
+27,Q,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,13,1,13
+27,Q,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,65,6,10.8
+27,Q,09-12,GEN ED,ENGLISH,English 9,-,2639,100,26.4
+27,Q,09-12,GEN ED,ENGLISH,English 10,-,1911,65,29.4
+27,Q,09-12,GEN ED,ENGLISH,English 11,-,2306,79,29.2
+27,Q,09-12,GEN ED,ENGLISH,English 12,-,1605,56,28.7
+27,Q,09-12,GEN ED,ENGLISH,MS English Core,-,646,21,30.8
+27,Q,09-12,GEN ED,ENGLISH,Other English,-,3628,145,25
+27,Q,09-12,GEN ED,MATH,Integrated Algebra,-,2911,109,26.7
+27,Q,09-12,GEN ED,MATH,Geometry,-,3031,105,28.9
+27,Q,09-12,GEN ED,MATH,Trigonometry,-,1014,33,30.7
+27,Q,09-12,GEN ED,MATH,Math A,-,188,7,26.9
+27,Q,09-12,GEN ED,MATH,Math B,-,67,3,22.3
+27,Q,09-12,GEN ED,MATH,Other Math,-,1069,41,26.1
+27,Q,09-12,GEN ED,SCIENCE,Earth Science,-,4054,132,30.7
+27,Q,09-12,GEN ED,SCIENCE,Living Environment,-,7113,253,28.1
+27,Q,09-12,GEN ED,SCIENCE,Chemistry,-,2056,75,27.4
+27,Q,09-12,GEN ED,SCIENCE,Physics,-,789,30,26.3
+27,Q,09-12,GEN ED,SCIENCE,Other Science,-,1636,58,28.2
+27,Q,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,5374,194,27.7
+27,Q,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,2735,95,28.8
+27,Q,09-12,GEN ED,SOCIAL STUDIES,Economics,-,295,10,29.5
+27,Q,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,1770,64,27.7
+27,Q,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,1213,41,29.6
+27,Q,09-12,CTT,ENGLISH,English 9,-,412,16,25.8
+27,Q,09-12,CTT,ENGLISH,English 10,-,202,8,25.3
+27,Q,09-12,CTT,ENGLISH,English 11,-,344,12,28.7
+27,Q,09-12,CTT,ENGLISH,English 12,-,156,6,26
+27,Q,09-12,CTT,ENGLISH,MS English Core,-,180,5,36
+27,Q,09-12,CTT,ENGLISH,Other English,-,276,10,27.6
+27,Q,09-12,CTT,MATH,Integrated Algebra,-,488,19,25.7
+27,Q,09-12,CTT,MATH,Geometry,-,275,10,27.5
+27,Q,09-12,CTT,MATH,Trigonometry,-,28,1,28
+27,Q,09-12,CTT,MATH,Math A,-,53,2,26.5
+27,Q,09-12,CTT,MATH,Other Math,-,46,2,23
+27,Q,09-12,CTT,SCIENCE,Earth Science,-,580,19,30.5
+27,Q,09-12,CTT,SCIENCE,Living Environment,-,780,28,27.9
+27,Q,09-12,CTT,SCIENCE,Chemistry,-,117,4,29.3
+27,Q,09-12,CTT,SCIENCE,Physics,-,19,1,19
+27,Q,09-12,CTT,SCIENCE,Other Science,-,238,8,29.8
+27,Q,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,669,23,29.1
+27,Q,09-12,CTT,SOCIAL STUDIES,US History & Government,-,304,10,30.4
+27,Q,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,94,3,31.3
+27,Q,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,115,5,23
+27,Q,09-12,SPEC ED,ENGLISH,English 9,-,174,15,11.6
+27,Q,09-12,SPEC ED,ENGLISH,English 10,-,75,5,15
+27,Q,09-12,SPEC ED,ENGLISH,English 11,-,136,11,12.4
+27,Q,09-12,SPEC ED,ENGLISH,English 12,-,45,4,11.3
+27,Q,09-12,SPEC ED,ENGLISH,MS English Core,-,35,3,11.7
+27,Q,09-12,SPEC ED,ENGLISH,Other English,-,37,3,12.3
+27,Q,09-12,SPEC ED,MATH,Integrated Algebra,-,269,23,11.7
+27,Q,09-12,SPEC ED,MATH,Geometry,-,101,8,12.6
+27,Q,09-12,SPEC ED,MATH,Trigonometry,-,14,1,14
+27,Q,09-12,SPEC ED,MATH,Other Math,-,11,1,11
+27,Q,09-12,SPEC ED,SCIENCE,Earth Science,-,143,10,14.3
+27,Q,09-12,SPEC ED,SCIENCE,Living Environment,-,344,27,12.7
+27,Q,09-12,SPEC ED,SCIENCE,Chemistry,-,34,3,11.3
+27,Q,09-12,SPEC ED,SCIENCE,Other Science,-,69,5,13.8
+27,Q,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,255,20,12.8
+27,Q,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,107,9,11.9
+27,Q,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,59,5,11.8
+30,Q,01,G&T,-,-,-,61,3,20.3
+27,Q,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,15,1,15
+28,Q,0K,GEN ED,-,-,-,2184,95,23
+28,Q,0K,CTT,-,-,-,312,14,22.3
+28,Q,0K,G&T,-,-,-,46,3,15.3
+28,Q,01,GEN ED,-,-,-,2294,97,23.6
+28,Q,01,CTT,-,-,-,322,15,21.5
+28,Q,01,G&T,-,-,-,72,3,24
+28,Q,02,GEN ED,-,-,-,2165,87,24.9
+28,Q,02,CTT,-,-,-,336,14,24
+28,Q,02,G&T,-,-,-,35,2,17.5
+28,Q,03,GEN ED,-,-,-,2114,86,24.6
+28,Q,03,CTT,-,-,-,288,12,24
+28,Q,03,G&T,-,-,-,56,2,28
+28,Q,04,GEN ED,-,-,-,2062,78,26.4
+28,Q,04,CTT,-,-,-,251,10,25.1
+28,Q,04,G&T,-,-,-,47,2,23.5
+28,Q,05,GEN ED,-,-,-,2170,79,27.5
+28,Q,05,CTT,-,-,-,254,9,28.2
+28,Q,06,GEN ED,-,-,-,1938,72,26.9
+28,Q,06,CTT,-,-,-,325,13,25
+28,Q,06,G&T,-,-,-,26,1,26
+28,Q,07,GEN ED,-,-,-,1842,64,28.8
+28,Q,07,CTT,-,-,-,304,11,27.6
+28,Q,08,GEN ED,-,-,-,1819,65,28
+28,Q,08,CTT,-,-,-,231,9,25.7
+28,Q,09,GEN ED,-,-,-,649,30,21.6
+28,Q,0K-09,SPEC ED,-,-,12:1,409,40,10.2
+28,Q,0K-09,SPEC ED,-,-,12:1:1,927,96,9.7
+28,Q,MS Core,GEN ED,ENGLISH,MS English Core,-,4584,169,27.1
+28,Q,MS Core,GEN ED,MATH,MS Math Core,-,3904,140,27.9
+28,Q,MS Core,GEN ED,MATH,Integrated Algebra,-,511,18,28.4
+28,Q,MS Core,GEN ED,SCIENCE,MS Science Core,-,4107,148,27.8
+28,Q,MS Core,GEN ED,SCIENCE,Earth Science,-,196,7,28
+28,Q,MS Core,GEN ED,SCIENCE,Living Environment,-,216,7,30.9
+28,Q,MS Core,GEN ED,SCIENCE,Other Science,-,58,2,29
+28,Q,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,4410,159,27.7
+28,Q,MS Core,CTT,ENGLISH,MS English Core,-,901,36,25
+28,Q,MS Core,CTT,MATH,MS Math Core,-,777,29,26.8
+28,Q,MS Core,CTT,SCIENCE,MS Science Core,-,743,28,26.5
+28,Q,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,743,28,26.5
+28,Q,MS Core,SPEC ED,ENGLISH,MS English Core,-,330,30,11
+28,Q,MS Core,SPEC ED,MATH,MS Math Core,-,277,25,11.1
+28,Q,MS Core,SPEC ED,SCIENCE,MS Science Core,-,267,24,11.1
+28,Q,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,265,24,11
+28,Q,MS Core,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,12,1,12
+28,Q,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,10,1,10
+28,Q,09-12,GEN ED,ENGLISH,English 9,-,2484,87,28.6
+28,Q,09-12,GEN ED,ENGLISH,English 10,-,2327,78,29.8
+28,Q,09-12,GEN ED,ENGLISH,English 11,-,2305,80,28.8
+28,Q,09-12,GEN ED,ENGLISH,English 12,-,2123,73,29.1
+28,Q,09-12,GEN ED,ENGLISH,MS English Core,-,299,10,29.9
+28,Q,09-12,GEN ED,ENGLISH,Other English,-,1963,70,28
+28,Q,09-12,GEN ED,MATH,Integrated Algebra,-,1951,72,27.1
+28,Q,09-12,GEN ED,MATH,Geometry,-,2805,98,28.6
+28,Q,09-12,GEN ED,MATH,Trigonometry,-,998,37,27
+28,Q,09-12,GEN ED,MATH,Math A,-,153,5,30.6
+28,Q,09-12,GEN ED,MATH,Math B,-,70,3,23.3
+28,Q,09-12,GEN ED,MATH,Other Math,-,1805,66,27.3
+28,Q,09-12,GEN ED,SCIENCE,Earth Science,-,4199,141,29.8
+28,Q,09-12,GEN ED,SCIENCE,Living Environment,-,5690,203,28
+28,Q,09-12,GEN ED,SCIENCE,Chemistry,-,3177,104,30.5
+28,Q,09-12,GEN ED,SCIENCE,Physics,-,1743,61,28.6
+28,Q,09-12,GEN ED,SCIENCE,Other Science,-,3665,131,28
+28,Q,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,4933,165,29.9
+28,Q,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,2499,85,29.4
+28,Q,09-12,GEN ED,SOCIAL STUDIES,Economics,-,954,31,30.8
+28,Q,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,1198,39,30.7
+28,Q,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,1670,59,28.3
+28,Q,09-12,CTT,ENGLISH,English 9,-,406,14,29
+28,Q,09-12,CTT,ENGLISH,English 10,-,220,7,31.4
+28,Q,09-12,CTT,ENGLISH,English 11,-,153,5,30.6
+28,Q,09-12,CTT,ENGLISH,English 12,-,134,5,26.8
+28,Q,09-12,CTT,ENGLISH,MS English Core,-,22,1,22
+28,Q,09-12,CTT,ENGLISH,Other English,-,617,23,26.8
+28,Q,09-12,CTT,MATH,Integrated Algebra,-,484,18,26.9
+28,Q,09-12,CTT,MATH,Geometry,-,90,4,22.5
+28,Q,09-12,CTT,MATH,Other Math,-,49,2,24.5
+28,Q,09-12,CTT,SCIENCE,Earth Science,-,301,9,33.4
+28,Q,09-12,CTT,SCIENCE,Living Environment,-,683,25,27.3
+28,Q,09-12,CTT,SCIENCE,Physics,-,198,6,33
+28,Q,09-12,CTT,SCIENCE,Other Science,-,348,12,29
+28,Q,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,545,18,30.3
+28,Q,09-12,CTT,SOCIAL STUDIES,US History & Government,-,213,8,26.6
+28,Q,09-12,CTT,SOCIAL STUDIES,Economics,-,78,3,26
+28,Q,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,32,1,32
+28,Q,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,178,6,29.7
+28,Q,09-12,SPEC ED,ENGLISH,English 9,-,174,17,10.2
+28,Q,09-12,SPEC ED,ENGLISH,English 10,-,56,4,14
+28,Q,09-12,SPEC ED,ENGLISH,English 11,-,53,4,13.3
+28,Q,09-12,SPEC ED,ENGLISH,English 12,-,16,1,16
+28,Q,09-12,SPEC ED,ENGLISH,MS English Core,-,26,2,13
+28,Q,09-12,SPEC ED,ENGLISH,Other English,-,260,23,11.3
+28,Q,09-12,SPEC ED,MATH,Integrated Algebra,-,172,14,12.3
+28,Q,09-12,SPEC ED,MATH,Geometry,-,29,2,14.5
+28,Q,09-12,SPEC ED,MATH,Other Math,-,29,3,9.7
+28,Q,09-12,SPEC ED,SCIENCE,Earth Science,-,115,8,14.4
+28,Q,09-12,SPEC ED,SCIENCE,Living Environment,-,239,20,12
+28,Q,09-12,SPEC ED,SCIENCE,Physics,-,27,2,13.5
+28,Q,09-12,SPEC ED,SCIENCE,Other Science,-,56,4,14
+28,Q,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,180,17,10.6
+28,Q,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,74,6,12.3
+28,Q,09-12,SPEC ED,SOCIAL STUDIES,Economics,-,13,1,13
+28,Q,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,28,2,14
+28,Q,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,11,1,11
+29,Q,0K,GEN ED,-,-,-,1946,83,23.4
+29,Q,0K,CTT,-,-,-,363,17,21.4
+29,Q,01,GEN ED,-,-,-,2208,94,23.5
+29,Q,01,CTT,-,-,-,259,11,23.5
+29,Q,02,GEN ED,-,-,-,2204,90,24.5
+29,Q,02,CTT,-,-,-,245,11,22.3
+29,Q,03,GEN ED,-,-,-,2261,91,24.8
+29,Q,03,CTT,-,-,-,211,9,23.4
+29,Q,04,GEN ED,-,-,-,2273,84,27.1
+29,Q,04,CTT,-,-,-,223,8,27.9
+29,Q,05,GEN ED,-,-,-,2238,85,26.3
+29,Q,05,CTT,-,-,-,220,9,24.4
+29,Q,06,GEN ED,-,-,-,2044,78,26.2
+29,Q,06,CTT,-,-,-,234,10,23.4
+29,Q,07,GEN ED,-,-,-,2191,79,27.7
+29,Q,07,CTT,-,-,-,201,8,25.1
+29,Q,08,GEN ED,-,-,-,2311,83,27.8
+29,Q,08,CTT,-,-,-,179,7,25.6
+29,Q,09,GEN ED,-,-,-,74,2,37
+29,Q,0K-09,SPEC ED,-,-,12:1,453,46,9.8
+29,Q,0K-09,SPEC ED,-,-,12:1:1,818,84,9.7
+29,Q,MS Core,GEN ED,ENGLISH,MS English Core,-,7220,256,28.2
+29,Q,MS Core,GEN ED,MATH,MS Math Core,-,6257,225,27.8
+29,Q,MS Core,GEN ED,MATH,Integrated Algebra,-,328,11,29.8
+29,Q,MS Core,GEN ED,SCIENCE,MS Science Core,-,6254,224,27.9
+29,Q,MS Core,GEN ED,SCIENCE,Earth Science,-,275,9,30.6
+29,Q,MS Core,GEN ED,SCIENCE,Living Environment,-,215,8,26.9
+29,Q,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,6465,230,28.1
+29,Q,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,77,3,25.7
+29,Q,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,265,9,29.4
+29,Q,MS Core,CTT,ENGLISH,MS English Core,-,741,31,23.9
+29,Q,MS Core,CTT,MATH,MS Math Core,-,590,24,24.6
+29,Q,MS Core,CTT,MATH,Integrated Algebra,-,24,1,24
+29,Q,MS Core,CTT,SCIENCE,MS Science Core,-,592,24,24.7
+29,Q,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,614,25,24.6
+29,Q,MS Core,SPEC ED,ENGLISH,MS English Core,-,417,42,9.9
+29,Q,MS Core,SPEC ED,MATH,MS Math Core,-,310,33,9.4
+29,Q,MS Core,SPEC ED,SCIENCE,MS Science Core,-,310,33,9.4
+29,Q,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,310,33,9.4
+29,Q,09-12,GEN ED,ENGLISH,English 9,-,809,33,24.5
+29,Q,09-12,GEN ED,ENGLISH,English 10,-,775,29,26.7
+29,Q,09-12,GEN ED,ENGLISH,English 11,-,783,30,26.1
+29,Q,09-12,GEN ED,ENGLISH,English 12,-,679,25,27.2
+29,Q,09-12,GEN ED,ENGLISH,MS English Core,-,37,2,18.5
+29,Q,09-12,GEN ED,ENGLISH,Other English,-,830,37,22.4
+29,Q,09-12,GEN ED,MATH,Integrated Algebra,-,1093,45,24.3
+29,Q,09-12,GEN ED,MATH,Geometry,-,925,34,27.2
+29,Q,09-12,GEN ED,MATH,Trigonometry,-,514,19,27.1
+29,Q,09-12,GEN ED,MATH,Math A,-,156,7,22.3
+29,Q,09-12,GEN ED,MATH,Other Math,-,133,6,22.2
+29,Q,09-12,GEN ED,SCIENCE,Earth Science,-,701,26,27
+29,Q,09-12,GEN ED,SCIENCE,Living Environment,-,1143,43,26.6
+29,Q,09-12,GEN ED,SCIENCE,Chemistry,-,589,20,29.5
+29,Q,09-12,GEN ED,SCIENCE,Physics,-,112,4,28
+29,Q,09-12,GEN ED,SCIENCE,Other Science,-,840,32,26.3
+29,Q,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,1593,57,27.9
+29,Q,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,920,33,27.9
+29,Q,09-12,GEN ED,SOCIAL STUDIES,Economics,-,120,4,30
+29,Q,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,444,16,27.8
+29,Q,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,199,8,24.9
+29,Q,09-12,CTT,ENGLISH,English 9,-,175,6,29.2
+29,Q,09-12,CTT,ENGLISH,English 10,-,141,5,28.2
+29,Q,09-12,CTT,ENGLISH,English 11,-,131,5,26.2
+29,Q,09-12,CTT,ENGLISH,English 12,-,79,3,26.3
+29,Q,09-12,CTT,ENGLISH,Other English,-,82,4,20.5
+29,Q,09-12,CTT,MATH,Integrated Algebra,-,240,9,26.7
+29,Q,09-12,CTT,MATH,Geometry,-,117,4,29.3
+29,Q,09-12,CTT,MATH,Trigonometry,-,46,2,23
+29,Q,09-12,CTT,MATH,Math A,-,21,1,21
+29,Q,09-12,CTT,SCIENCE,Earth Science,-,427,13,32.8
+29,Q,09-12,CTT,SCIENCE,Living Environment,-,548,19,28.8
+29,Q,09-12,CTT,SCIENCE,Chemistry,-,28,1,28
+29,Q,09-12,CTT,SCIENCE,Physics,-,28,1,28
+29,Q,09-12,CTT,SCIENCE,Other Science,-,86,3,28.7
+29,Q,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,370,14,26.4
+29,Q,09-12,CTT,SOCIAL STUDIES,US History & Government,-,91,3,30.3
+29,Q,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,18,1,18
+29,Q,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,29,1,29
+29,Q,09-12,SPEC ED,ENGLISH,English 11,-,35,4,8.8
+29,Q,09-12,SPEC ED,ENGLISH,MS English Core,-,56,5,11.2
+29,Q,09-12,SPEC ED,ENGLISH,Other English,-,7,1,7
+30,Q,0K,GEN ED,-,-,-,2574,116,22.2
+30,Q,0K,CTT,-,-,-,429,20,21.5
+30,Q,0K,G&T,-,-,-,49,2,24.5
+30,Q,01,GEN ED,-,-,-,2635,116,22.7
+30,Q,01,CTT,-,-,-,370,16,23.1
+30,Q,02,GEN ED,-,-,-,2532,107,23.7
+30,Q,02,CTT,-,-,-,458,20,22.9
+30,Q,02,G&T,-,-,-,46,2,23
+30,Q,03,GEN ED,-,-,-,2374,94,25.3
+30,Q,03,CTT,-,-,-,475,21,22.6
+30,Q,03,G&T,-,-,-,71,3,23.7
+30,Q,04,GEN ED,-,-,-,2323,85,27.3
+30,Q,04,CTT,-,-,-,521,20,26.1
+30,Q,04,G&T,-,-,-,21,1,21
+30,Q,05,GEN ED,-,-,-,2466,94,26.2
+30,Q,05,CTT,-,-,-,408,16,25.5
+30,Q,05,G&T,-,-,-,23,1,23
+30,Q,06,GEN ED,-,-,-,2622,96,27.3
+30,Q,06,G&T,-,-,-,32,1,32
+30,Q,07,GEN ED,-,-,-,2516,91,27.6
+30,Q,07,CTT,-,-,-,372,13,28.6
+30,Q,08,GEN ED,-,-,-,2480,90,27.6
+30,Q,08,CTT,-,-,-,427,15,28.5
+30,Q,0K-09,SPEC ED,-,-,12:1,265,26,10.2
+30,Q,0K-09,SPEC ED,-,-,12:1:1,963,96,10
+30,Q,MS Core,GEN ED,ENGLISH,MS English Core,-,7945,282,28.2
+30,Q,MS Core,GEN ED,MATH,MS Math Core,-,5759,210,27.4
+30,Q,MS Core,GEN ED,MATH,Integrated Algebra,-,520,21,24.8
+30,Q,MS Core,GEN ED,SCIENCE,MS Science Core,-,6661,241,27.6
+30,Q,MS Core,GEN ED,SCIENCE,Earth Science,-,172,6,28.7
+30,Q,MS Core,GEN ED,SCIENCE,Living Environment,-,195,8,24.4
+30,Q,MS Core,GEN ED,SCIENCE,Other Science,-,467,17,27.5
+30,Q,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,6684,242,27.6
+30,Q,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,256,11,23.3
+30,Q,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,561,21,26.7
+30,Q,MS Core,CTT,ENGLISH,MS English Core,-,1488,53,28.1
+30,Q,MS Core,CTT,MATH,MS Math Core,-,899,32,28.1
+30,Q,MS Core,CTT,SCIENCE,MS Science Core,-,976,35,27.9
+30,Q,MS Core,CTT,SCIENCE,Living Environment,-,85,3,28.3
+30,Q,MS Core,CTT,SCIENCE,Other Science,-,110,4,27.5
+30,Q,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,958,35,27.4
+30,Q,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,195,7,27.9
+30,Q,MS Core,SPEC ED,ENGLISH,MS English Core,-,425,41,10.4
+30,Q,MS Core,SPEC ED,MATH,MS Math Core,-,322,32,10.1
+30,Q,MS Core,SPEC ED,SCIENCE,MS Science Core,-,357,35,10.2
+30,Q,MS Core,SPEC ED,SCIENCE,Other Science,-,23,2,11.5
+30,Q,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,343,34,10.1
+30,Q,MS Core,SPEC ED,SOCIAL STUDIES,US History & Government,-,13,1,13
+30,Q,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,23,2,11.5
+30,Q,09-12,GEN ED,ENGLISH,English 9,-,1961,70,28
+30,Q,09-12,GEN ED,ENGLISH,English 10,-,2038,69,29.5
+30,Q,09-12,GEN ED,ENGLISH,English 11,-,1933,66,29.3
+30,Q,09-12,GEN ED,ENGLISH,English 12,-,1373,50,27.5
+30,Q,09-12,GEN ED,ENGLISH,MS English Core,-,209,11,19
+30,Q,09-12,GEN ED,ENGLISH,Other English,-,1103,43,25.7
+30,Q,09-12,GEN ED,MATH,Integrated Algebra,-,4019,151,26.6
+30,Q,09-12,GEN ED,MATH,Geometry,-,2459,90,27.3
+30,Q,09-12,GEN ED,MATH,Trigonometry,-,1192,47,25.4
+30,Q,09-12,GEN ED,MATH,Math A,-,222,8,27.8
+30,Q,09-12,GEN ED,MATH,Other Math,-,581,23,25.3
+30,Q,09-12,GEN ED,SCIENCE,Earth Science,-,3065,107,28.6
+30,Q,09-12,GEN ED,SCIENCE,Living Environment,-,5278,193,27.3
+30,Q,09-12,GEN ED,SCIENCE,Chemistry,-,1990,73,27.3
+30,Q,09-12,GEN ED,SCIENCE,Physics,-,360,15,24
+30,Q,09-12,GEN ED,SCIENCE,Other Science,-,2008,74,27.1
+30,Q,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,5315,187,28.4
+30,Q,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,2347,87,27
+30,Q,09-12,GEN ED,SOCIAL STUDIES,Economics,-,277,11,25.2
+30,Q,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,1654,61,27.1
+30,Q,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,807,27,29.9
+30,Q,09-12,CTT,ENGLISH,English 9,-,203,7,29
+30,Q,09-12,CTT,ENGLISH,English 10,-,198,8,24.8
+30,Q,09-12,CTT,ENGLISH,English 11,-,183,6,30.5
+30,Q,09-12,CTT,ENGLISH,English 12,-,139,5,27.8
+30,Q,09-12,CTT,ENGLISH,MS English Core,-,57,2,28.5
+30,Q,09-12,CTT,ENGLISH,Other English,-,155,6,25.8
+30,Q,09-12,CTT,MATH,Integrated Algebra,-,533,21,25.4
+30,Q,09-12,CTT,MATH,Geometry,-,176,8,22
+30,Q,09-12,CTT,SCIENCE,Earth Science,-,349,14,24.9
+30,Q,09-12,CTT,SCIENCE,Living Environment,-,425,17,25
+30,Q,09-12,CTT,SCIENCE,Other Science,-,191,8,23.9
+30,Q,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,411,14,29.4
+30,Q,09-12,CTT,SOCIAL STUDIES,US History & Government,-,218,7,31.1
+30,Q,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,169,6,28.2
+30,Q,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,63,2,31.5
+30,Q,09-12,SPEC ED,ENGLISH,English 9,-,111,9,12.3
+30,Q,09-12,SPEC ED,ENGLISH,English 10,-,89,7,12.7
+30,Q,09-12,SPEC ED,ENGLISH,English 11,-,56,5,11.2
+30,Q,09-12,SPEC ED,ENGLISH,English 12,-,59,6,9.8
+30,Q,09-12,SPEC ED,ENGLISH,MS English Core,-,57,5,11.4
+30,Q,09-12,SPEC ED,ENGLISH,Other English,-,51,4,12.8
+30,Q,09-12,SPEC ED,MATH,Integrated Algebra,-,253,20,12.7
+30,Q,09-12,SPEC ED,MATH,Geometry,-,50,5,10
+30,Q,09-12,SPEC ED,SCIENCE,Earth Science,-,123,8,15.4
+30,Q,09-12,SPEC ED,SCIENCE,Living Environment,-,197,16,12.3
+30,Q,09-12,SPEC ED,SCIENCE,Other Science,-,99,7,14.1
+30,Q,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,248,19,13.1
+30,Q,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,70,5,14
+30,Q,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,39,3,13
+31,R,0K,GEN ED,-,-,-,3582,165,21.7
+31,R,0K,CTT,-,-,-,596,29,20.6
+31,R,0K,G&T,-,-,-,61,3,20.3
+31,R,01,GEN ED,-,-,-,3700,159,23.3
+31,R,01,CTT,-,-,-,715,30,23.8
+31,R,01,G&T,-,-,-,111,4,27.8
+31,R,02,GEN ED,-,-,-,3649,149,24.5
+31,R,02,CTT,-,-,-,847,33,25.7
+31,R,02,G&T,-,-,-,80,3,26.7
+31,R,03,GEN ED,-,-,-,3501,140,25
+31,R,03,CTT,-,-,-,792,32,24.8
+31,R,03,G&T,-,-,-,73,3,24.3
+31,R,04,GEN ED,-,-,-,3202,121,26.5
+31,R,04,CTT,-,-,-,849,32,26.5
+31,R,04,G&T,-,-,-,52,2,26
+31,R,05,GEN ED,-,-,-,3324,123,27
+31,R,05,CTT,-,-,-,831,31,26.8
+31,R,05,G&T,-,-,-,38,2,19
+31,R,06,GEN ED,-,-,-,3209,109,29.4
+31,R,06,CTT,-,-,-,724,25,29
+31,R,07,GEN ED,-,-,-,3328,112,29.7
+31,R,07,CTT,-,-,-,614,21,29.2
+31,R,08,GEN ED,-,-,-,3405,114,29.9
+31,R,08,CTT,-,-,-,603,21,28.7
+31,R,0K-09,SPEC ED,-,-,12:1,1011,98,10.3
+31,R,0K-09,SPEC ED,-,-,12:1:1,1406,141,10
+31,R,0K-09,SPEC ED,-,-,8:1:1,44,6,7.3
+31,R,MS Core,GEN ED,ENGLISH,MS English Core,-,10187,353,28.9
+31,R,MS Core,GEN ED,MATH,MS Math Core,-,8654,295,29.3
+31,R,MS Core,GEN ED,MATH,Integrated Algebra,-,1074,35,30.7
+31,R,MS Core,GEN ED,SCIENCE,MS Science Core,-,9043,306,29.6
+31,R,MS Core,GEN ED,SCIENCE,Earth Science,-,481,15,32.1
+31,R,MS Core,GEN ED,SCIENCE,Living Environment,-,165,5,33
+31,R,MS Core,GEN ED,SCIENCE,Physics,-,66,2,33
+31,R,MS Core,GEN ED,SCIENCE,Other Science,-,326,12,27.2
+31,R,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,9108,307,29.7
+31,R,MS Core,GEN ED,SOCIAL STUDIES,Global History & Geography,-,356,11,32.4
+31,R,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,269,9,29.9
+31,R,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,467,17,27.5
+31,R,MS Core,CTT,ENGLISH,MS English Core,-,2359,82,28.8
+31,R,MS Core,CTT,MATH,MS Math Core,-,1958,67,29.2
+31,R,MS Core,CTT,MATH,Integrated Algebra,-,20,1,20
+31,R,MS Core,CTT,SCIENCE,MS Science Core,-,1917,66,29
+31,R,MS Core,CTT,SCIENCE,Earth Science,-,59,2,29.5
+31,R,MS Core,CTT,SCIENCE,Other Science,-,109,4,27.3
+31,R,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,1983,68,29.2
+31,R,MS Core,CTT,SOCIAL STUDIES,US History & Government,-,20,1,20
+31,R,MS Core,CTT,SOCIAL STUDIES,Other Social Studies,-,56,2,28
+31,R,MS Core,SPEC ED,ENGLISH,MS English Core,-,685,64,10.7
+31,R,MS Core,SPEC ED,MATH,MS Math Core,-,640,60,10.7
+31,R,MS Core,SPEC ED,SCIENCE,MS Science Core,-,615,58,10.6
+31,R,MS Core,SPEC ED,SCIENCE,Earth Science,-,21,2,10.5
+31,R,MS Core,SPEC ED,SCIENCE,Other Science,-,22,2,11
+31,R,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,624,59,10.6
+31,R,MS Core,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,76,7,10.9
+31,R,09-12,GEN ED,ENGLISH,English 9,-,3748,132,28.4
+31,R,09-12,GEN ED,ENGLISH,English 10,-,3724,124,30
+31,R,09-12,GEN ED,ENGLISH,English 11,-,3620,125,29
+31,R,09-12,GEN ED,ENGLISH,English 12,-,3823,148,25.8
+31,R,09-12,GEN ED,ENGLISH,MS English Core,-,193,8,24.1
+31,R,09-12,GEN ED,ENGLISH,Other English,-,3857,140,27.6
+31,R,09-12,GEN ED,MATH,Integrated Algebra,-,4634,175,26.5
+31,R,09-12,GEN ED,MATH,Geometry,-,5120,173,29.6
+31,R,09-12,GEN ED,MATH,Trigonometry,-,2270,75,30.3
+31,R,09-12,GEN ED,MATH,Math A,-,66,4,16.5
+31,R,09-12,GEN ED,MATH,Other Math,-,2251,79,28.5
+31,R,09-12,GEN ED,SCIENCE,Earth Science,-,2977,104,28.6
+31,R,09-12,GEN ED,SCIENCE,Living Environment,-,5066,180,28.1
+31,R,09-12,GEN ED,SCIENCE,Chemistry,-,2876,94,30.6
+31,R,09-12,GEN ED,SCIENCE,Physics,-,1689,57,29.6
+31,R,09-12,GEN ED,SCIENCE,Other Science,-,4377,152,28.8
+31,R,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,8799,302,29.1
+31,R,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,5042,172,29.3
+31,R,09-12,GEN ED,SOCIAL STUDIES,Economics,-,1255,39,32.2
+31,R,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,2040,72,28.3
+31,R,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,1716,60,28.6
+31,R,09-12,CTT,ENGLISH,English 9,-,486,17,28.6
+31,R,09-12,CTT,ENGLISH,English 10,-,641,22,29.1
+31,R,09-12,CTT,ENGLISH,English 11,-,491,16,30.7
+31,R,09-12,CTT,ENGLISH,English 12,-,251,8,31.4
+31,R,09-12,CTT,ENGLISH,Other English,-,598,21,28.5
+31,R,09-12,CTT,MATH,Integrated Algebra,-,1292,45,28.7
+31,R,09-12,CTT,MATH,Geometry,-,284,9,31.6
+31,R,09-12,CTT,MATH,Other Math,-,81,3,27
+31,R,09-12,CTT,SCIENCE,Earth Science,-,515,20,25.8
+31,R,09-12,CTT,SCIENCE,Living Environment,-,765,26,29.4
+31,R,09-12,CTT,SCIENCE,Chemistry,-,33,1,33
+31,R,09-12,CTT,SCIENCE,Other Science,-,663,23,28.8
+31,R,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,1109,39,28.4
+31,R,09-12,CTT,SOCIAL STUDIES,US History & Government,-,464,19,24.4
+31,R,09-12,CTT,SOCIAL STUDIES,Economics,-,67,2,33.5
+31,R,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,138,5,27.6
+31,R,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,388,15,25.9
+31,R,09-12,SPEC ED,ENGLISH,English 9,-,254,20,12.7
+31,R,09-12,SPEC ED,ENGLISH,English 10,-,160,14,11.4
+31,R,09-12,SPEC ED,ENGLISH,English 11,-,167,13,12.8
+31,R,09-12,SPEC ED,ENGLISH,English 12,-,130,11,11.8
+31,R,09-12,SPEC ED,ENGLISH,MS English Core,-,25,2,12.5
+31,R,09-12,SPEC ED,ENGLISH,Other English,-,223,19,11.7
+31,R,09-12,SPEC ED,MATH,Integrated Algebra,-,423,33,12.8
+31,R,09-12,SPEC ED,MATH,Geometry,-,61,5,12.2
+31,R,09-12,SPEC ED,MATH,Other Math,-,55,4,13.8
+31,R,09-12,SPEC ED,SCIENCE,Earth Science,-,202,15,13.5
+31,R,09-12,SPEC ED,SCIENCE,Living Environment,-,263,20,13.2
+31,R,09-12,SPEC ED,SCIENCE,Physics,-,12,1,12
+31,R,09-12,SPEC ED,SCIENCE,Other Science,-,291,22,13.2
+31,R,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,462,37,12.5
+31,R,09-12,SPEC ED,SOCIAL STUDIES,US History & Government,-,220,17,12.9
+31,R,09-12,SPEC ED,SOCIAL STUDIES,Economics,-,21,2,10.5
+31,R,09-12,SPEC ED,SOCIAL STUDIES,Participation in Government,-,118,9,13.1
+31,R,09-12,SPEC ED,SOCIAL STUDIES,Other Social Studies,-,184,14,13.1
+32,K,0K,GEN ED,-,-,-,1001,49,20.4
+32,K,0K,CTT,-,-,-,178,8,22.3
+32,K,01,GEN ED,-,-,-,1085,51,21.3
+32,K,01,CTT,-,-,-,175,8,21.9
+32,K,01,G&T,-,-,-,23,1,23
+32,K,02,GEN ED,-,-,-,1133,53,21.4
+32,K,02,CTT,-,-,-,109,5,21.8
+32,K,02,G&T,-,-,-,13,1,13
+32,K,03,GEN ED,-,-,-,1050,49,21.4
+32,K,03,CTT,-,-,-,109,5,21.8
+32,K,03,G&T,-,-,-,9,1,9
+32,K,04,GEN ED,-,-,-,1065,44,24.2
+32,K,04,CTT,-,-,-,147,6,24.5
+32,K,04,G&T,-,-,-,17,1,17
+32,K,05,GEN ED,-,-,-,968,39,24.8
+32,K,05,CTT,-,-,-,102,4,25.5
+32,K,05,G&T,-,-,-,114,4,28.5
+32,K,06,GEN ED,-,-,-,875,33,26.5
+32,K,06,CTT,-,-,-,143,6,23.8
+32,K,06,G&T,-,-,-,257,9,28.6
+32,K,07,GEN ED,-,-,-,882,32,27.6
+32,K,07,CTT,-,-,-,132,5,26.4
+32,K,07,G&T,-,-,-,242,9,26.9
+32,K,08,GEN ED,-,-,-,1007,36,28
+32,K,08,CTT,-,-,-,128,5,25.6
+32,K,08,G&T,-,-,-,326,11,29.6
+32,K,0K-09,SPEC ED,-,-,12:1,261,28,9.3
+32,K,0K-09,SPEC ED,-,-,12:1:1,424,43,9.9
+32,K,MS Core,GEN ED,ENGLISH,MS English Core,-,2684,100,26.8
+32,K,MS Core,GEN ED,MATH,MS Math Core,-,2860,108,26.5
+32,K,MS Core,GEN ED,MATH,Math A,-,16,1,16
+32,K,MS Core,GEN ED,MATH,Math B,-,17,1,17
+32,K,MS Core,GEN ED,SCIENCE,MS Science Core,-,2669,96,27.8
+32,K,MS Core,GEN ED,SCIENCE,Earth Science,-,27,1,27
+32,K,MS Core,GEN ED,SCIENCE,Living Environment,-,44,2,22
+32,K,MS Core,GEN ED,SCIENCE,Physics,-,43,2,21.5
+32,K,MS Core,GEN ED,SOCIAL STUDIES,MS Social Studies Core,-,2506,90,27.8
+32,K,MS Core,GEN ED,SOCIAL STUDIES,US History & Government,-,30,1,30
+32,K,MS Core,GEN ED,SOCIAL STUDIES,Other Social Studies,-,60,2,30
+32,K,MS Core,CTT,ENGLISH,MS English Core,-,295,12,24.6
+32,K,MS Core,CTT,MATH,MS Math Core,-,254,10,25.4
+32,K,MS Core,CTT,SCIENCE,MS Science Core,-,300,12,25
+32,K,MS Core,CTT,SOCIAL STUDIES,MS Social Studies Core,-,253,10,25.3
+32,K,MS Core,SPEC ED,ENGLISH,MS English Core,-,107,12,8.9
+32,K,MS Core,SPEC ED,MATH,MS Math Core,-,142,15,9.5
+32,K,MS Core,SPEC ED,SCIENCE,MS Science Core,-,131,14,9.4
+32,K,MS Core,SPEC ED,SOCIAL STUDIES,MS Social Studies Core,-,131,14,9.4
+32,K,09-12,GEN ED,ENGLISH,English 9,-,760,36,21.1
+32,K,09-12,GEN ED,ENGLISH,English 10,-,506,23,22
+32,K,09-12,GEN ED,ENGLISH,English 11,-,1019,40,25.5
+32,K,09-12,GEN ED,ENGLISH,English 12,-,894,38,23.5
+32,K,09-12,GEN ED,ENGLISH,MS English Core,-,232,9,25.8
+32,K,09-12,GEN ED,ENGLISH,Other English,-,235,12,19.6
+32,K,09-12,GEN ED,MATH,Integrated Algebra,-,1444,66,21.9
+32,K,09-12,GEN ED,MATH,Geometry,-,493,23,21.4
+32,K,09-12,GEN ED,MATH,Trigonometry,-,470,20,23.5
+32,K,09-12,GEN ED,MATH,Math A,-,23,1,23
+32,K,09-12,GEN ED,MATH,Other Math,-,101,5,20.2
+32,K,09-12,GEN ED,SCIENCE,Earth Science,-,936,39,24
+32,K,09-12,GEN ED,SCIENCE,Living Environment,-,1082,45,24
+32,K,09-12,GEN ED,SCIENCE,Chemistry,-,517,23,22.5
+32,K,09-12,GEN ED,SCIENCE,Physics,-,222,9,24.7
+32,K,09-12,GEN ED,SCIENCE,Other Science,-,511,21,24.3
+32,K,09-12,GEN ED,SOCIAL STUDIES,Global History & Geography,-,1296,56,23.1
+32,K,09-12,GEN ED,SOCIAL STUDIES,US History & Government,-,910,37,24.6
+32,K,09-12,GEN ED,SOCIAL STUDIES,Economics,-,192,7,27.4
+32,K,09-12,GEN ED,SOCIAL STUDIES,Participation in Government,-,568,24,23.7
+32,K,09-12,GEN ED,SOCIAL STUDIES,Other Social Studies,-,315,15,21
+32,K,09-12,CTT,ENGLISH,English 9,-,39,2,19.5
+32,K,09-12,CTT,ENGLISH,English 10,-,102,4,25.5
+32,K,09-12,CTT,ENGLISH,English 11,-,151,6,25.2
+32,K,09-12,CTT,ENGLISH,English 12,-,13,1,13
+32,K,09-12,CTT,ENGLISH,MS English Core,-,46,2,23
+32,K,09-12,CTT,ENGLISH,Other English,-,47,2,23.5
+32,K,09-12,CTT,MATH,Integrated Algebra,-,272,12,22.7
+32,K,09-12,CTT,MATH,Geometry,-,69,3,23
+32,K,09-12,CTT,MATH,Trigonometry,-,49,2,24.5
+32,K,09-12,CTT,MATH,Other Math,-,17,1,17
+32,K,09-12,CTT,SCIENCE,Earth Science,-,219,7,31.3
+32,K,09-12,CTT,SCIENCE,Living Environment,-,272,12,22.7
+32,K,09-12,CTT,SCIENCE,Chemistry,-,49,2,24.5
+32,K,09-12,CTT,SCIENCE,Other Science,-,130,4,32.5
+32,K,09-12,CTT,SOCIAL STUDIES,Global History & Geography,-,215,9,23.9
+32,K,09-12,CTT,SOCIAL STUDIES,US History & Government,-,125,5,25
+32,K,09-12,CTT,SOCIAL STUDIES,Participation in Government,-,32,1,32
+32,K,09-12,CTT,SOCIAL STUDIES,Other Social Studies,-,40,2,20
+32,K,09-12,SPEC ED,ENGLISH,English 9,-,27,2,13.5
+32,K,09-12,SPEC ED,ENGLISH,English 10,-,11,1,11
+32,K,09-12,SPEC ED,ENGLISH,English 11,-,20,2,10
+32,K,09-12,SPEC ED,ENGLISH,English 12,-,23,2,11.5
+32,K,09-12,SPEC ED,ENGLISH,Other English,-,21,2,10.5
+32,K,09-12,SPEC ED,MATH,Integrated Algebra,-,37,3,12.3
+32,K,09-12,SPEC ED,MATH,Other Math,-,23,2,11.5
+32,K,09-12,SPEC ED,SCIENCE,Earth Science,-,36,3,12
+32,K,09-12,SPEC ED,SCIENCE,Living Environment,-,59,5,11.8
+32,K,09-12,SPEC ED,SCIENCE,Chemistry,-,22,2,11
+32,K,09-12,SPEC ED,SOCIAL STUDIES,Global History & Geography,-,84,7,12
